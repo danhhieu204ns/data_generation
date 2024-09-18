@@ -47,9 +47,6 @@ def split_into_sentences(documents):
         # if len(cleaned.split(" ")) > 4: 
         #     sentence_lists.append(cleaned)
         if len(sent.split(" ")) > 4: 
-            tokenizer_sent = tokenize(sent)
-            sentence_lists.append(tokenizer_sent)
-        else:
-            sentences.remove(sent)
+            sentence_lists.append(sent)
     sentence_lists = np.array(sentence_lists)
     return sentence_lists
