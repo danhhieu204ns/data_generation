@@ -1,0 +1,5340 @@
+Số lượng file PDF: 89
+
+
+File: 1451020047_NGUYENHOANGDUONG.pdf
+BỘ GIÁO DỤC VÀ ĐÀO TẠO 
+TRƯỜNG ĐẠI HỌC ĐẠI NAM 
+ 
+---  --- 
+ 
+ 
+ĐỒ ÁN TỐT NGHIỆP 
+ 
+ 
+XÂY DỰNG ỨNG DỤNG QUẢN LÝ VẬT 
+ LIỆU XÂY DỰNG TRÊN NỀN TẢNG WEB 
+ 
+ 
+ 
+  SINH VIÊN THỰC HIỆN: NGUYỄN HOÀNG DƯƠNG 
+ 
+MÃ SINH VIÊN 
+: 1451020047 
+ 
+KHOA 
+: CÔNG NGHỆ THÔNG TIN 
+ 
+ 
+ 
+ 
+ 
+HÀ NỘI – 2024 
+ 
+ 
+ 
+BỘ GIÁO DỤC VÀ ĐÀO TẠO 
+TRƯỜNG ĐẠI HỌC ĐẠI NAM 
+---  --- 
+ 
+ 
+ 
+NGUYỄN HOÀNG DƯƠNG 
+ 
+XÂY DỰNG ỨNG DỤNG QUẢN LÝ VẬT 
+ LIỆU XÂY DỰNG TRÊN NỀN TẢNG WEB 
+ 
+ 
+ 
+    CHUYÊN NGÀNH 
+ 
+: CÔNG NGHỆ THÔNG TIN 
+ 
+MÃ SỐ  
+  
+: 74.80.201 
+ 
+ 
+ 
+NGƯỜI HƯỚNG DẪN   
+: TS.
+TRẦN QUÝ NAM 
+ 
+ 
+ 
+ 
+HÀ NỘI – 2024
+ 
+Lớp CNTT 14-03 
+ 
+ 
+LỜI CAM ĐOAN 
+ 
+Tôi xin cam đoan rằng báo cáo có tên: “Xây dựng ứng dụng quản lý vật liệu xây dựng 
+trên nền tảng web” là kết quả của công việc nghiêm túc và tự chủ của bản thân.
+Trong quá 
+trình nghiên cứu và phát triển đề tài này, tôi đã tuân thủ các nguyên tắc và chuẩn mực đạo đức 
+nghiêm ngặt.
+Tất cả thông tin, dữ liệu và phát hiện trong báo cáo được trình bày một cách trung thực 
+và minh bạch nhất có thể.
+Tôi đã tham khảo và tổng hợp thông tin từ những nguồn đáng tin 
+cậy, các phần tài liệu tham khảo đều được đề cập và dẫn chiếu rõ ràng trong phần tài liệu tham 
+khảo.
+Đồng thời, tôi cam kết rắng nếu có bất kỳ sai sót nào trong thông tin trình bày, tôi sẽ chịu 
+trách nhiệm hoàn toàn và tuân theo mọi quy định và kỷ luật do bộ môn và nhà trường áp đặt.
+Tôi cũng xác nhận rằng quy trình kiểm tra, xác minh thông tin và kiểm soát chất lượng 
+đã được thực hiện để đảm bảo chính xác và đáng tin cậy của mọi thông tin được trình bày 
+trong báo cáo này.
+Trân trọng, 
+Hà Nội, ngày     tháng       năm 2024 
+Sinh viên thực hiện 
+(Ký và ghi rõ họ tên) 
+ 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+LỜI CẢM ƠN 
+Tôi xin chân thành cảm ơn các thầy cô trong khoa CNTT cũng như các thầy cô giảng 
+dạy trong trường đã giúp em có được những kiến thức tổng quan để hoàn thành bài báo cáo 
+này.
+Đặc biệt, tôi xin cảm ơn thầy TS.
+Trần Quý Nam đã tận tình hướng dẫn, đóng góp ý kiến 
+và giúp đỡ tôi hoàn thành đồ án này.
+Tôi cũng cảm ơn các doanh nghiệp và cá nhân đã tham 
+gia vào quá trình kiểm thử và đánh giá ứng dụng, góp phần vào sự thành công của dự án.
+Tôi rất mong nhận được sự đánh giá và góp ý chân thành từ thầy để bài báo cáo của tôi 
+có thể được cải thiện và hoàn thiện hơn.
+Lời hướng dẫn và ý kiến từ thầy sẽ giúp tôi nắm bắt 
+rõ hơn những khía cạnh cần điều chỉnh, từ đó phát triển kỹ năng và hiểu biết của mình một 
+cách toàn diện hơn.
+Bài báo cáo của tôi có thể chưa tránh khỏi những sai sót do những hạn chế trong quá 
+trình thực hiện.
+Mong rằng thầy có thể xem xét và góp ý để giúp tôi hoàn thiện bài báo cáo 
+một cách tốt nhất.
+Sự chỉ dẫn và phản hồi từ thầy sẽ giúp tôi cải thiện kiến thức và kỹ năng 
+một cách toàn diện hơn.
+Tôi hy vọng rằng, kết quả của đồ án này sẽ đóng góp tích cực vào sự phát triển của 
+ngành xây dựng, giúp các doanh nghiệp quản lý vật liệu một cách hiệu quả và bền vững hơn.
+Đồng thời, đây cũng là bước khởi đầu quan trọng cho con đường nghiên cứu và phát triển 
+công nghệ của tôi trong tương lai.
+Tôi xin chân thành cảm ơn!
+Lớp CNTT 14-03 
+ 
+ 
+LỜI NÓI ĐẦU 
+Trong thế kỷ 21, việc ứng dụng công nghệ thông tin đã trở thành một phần không thể 
+thiếu trong mọi lĩnh vực của đời sống.
+Trong lĩnh vực quản lý vật liệu xây dựng, sự kỹ lưỡng 
+và hiệu quả trở thành yếu tố quyết định để đảm bảo tiến độ và chất lượng công trình.
+Nhận 
+thấy tầm quan trọng của việc này, đồ án tốt nghiệp này đã mục tiêu là “Xây dựng ứng dụng 
+quản lý vật liệu xây dựng dựa trên nền tảng Web.” 
+Đồ án tốt nghiệp này không chỉ là một bước quan trọng trong hành trình học tập của 
+tôi mà còn là cơ hội để tôi áp dụng những kiến thức đã học vào thực tiễn và đóng góp cho sự 
+phát triển của ngành xây dựng.
+Trải qua quá trình thực hiện dự án, tôi đã tiến hành nghiên cứu 
+sâu rộng về công nghệ web và hiểu biết sâu sắc về quy trình quản lý vật liệu xây dựng.
+Thông qua dự án này, hy vọng sẽ mang đến một giải pháp hữu ích cho các doanh 
+nghiệp, các nhân trong lĩnh vực quản lý vật liệu xây dựng, đồng thời cũng mong muốn dự án 
+này có thể trở thành cơ sở cho những nghiên cứu, phát triển tiếp theo và góp phần vào sự phát 
+triển bền vững của ngành xây dựng Việt Nam.
+Tôi cũng xin chân thành cảm ơn sự hỗ trợ và định hướng từ giảng viên hướng dẫn cũng 
+như sự đóng góp của tất cả những người đã hỗ trợ tôi trong quá trình thực hiện đề tài này.
+Tôi 
+hy vọng rằng báo cáo này sẽ mang lại giá trị và ý nghĩa cho tất cả.
+Lớp CNTT 14-03 
+ 
+ 
+NHẬN XÉT 
+ ...............................................................................................................................................  
+ ........................................................................................................................................... …  
+ ........................................................................................................................................... … 
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ ...............................................................................................................................................  
+ 
+ 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+MỤC LỤC BẢNG 
+Bảng 3.
+Xác định Usecase và Actor ................................................................................... 21 
+Bảng 3.
+Usecase Quản lý khách hàng ................................................................................ 31 
+Bảng 3.
+Usecase chức năng Thêm khách hàng .................................................................. 32 
+Bảng 3.
+Usecase chức năng Cập nhật thông tin khách hàng .............................................. 33 
+Bảng 3.
+Usecase chức năng Xóa khách hàng ..................................................................... 33 
+Bảng 3.
+Usecase chức năng Xem thông tin khách hàng..................................................... 34 
+Bảng 3.
+Usecase Quản lý vật liệu ....................................................................................... 34 
+Bảng 3.
+Usecase chức năng Thêm vật liệu ......................................................................... 35 
+Bảng 3.
+Usecase chức năng Cập nhật thông tin vật liệu .................................................... 35 
+Bảng 3.
+Usecase chức năng Xóa vật liệu ......................................................................... 36 
+Bảng 3.
+Usecase Quản lý đơn hàng .................................................................................. 36 
+Bảng 3.
+Usecase chức năng Tạo đơn hàng ....................................................................... 37 
+Bảng 3.
+Usecase chức năng Cập nhật thông tin đơn hàng ............................................... 37 
+Bảng 3.
+Usecase chức năng Xóa đơn hàng ...................................................................... 38 
+Bảng 3.
+Usecase Quản lý kho ........................................................................................... 38 
+Bảng 3.
+Usecase chức năng thêm vật tư kho .................................................................... 38 
+Bảng 3.
+Usecase chức năng Cập nhật vật liệu trong kho ................................................. 39 
+Bảng 3.
+Usecase chức năng Xóa vật tư trong kho ............................................................ 39 
+Bảng 3.
+Usecase Quản lý nhân viên ................................................................................. 40 
+Bảng 3.
+Usecase chức năng Thêm nhân viên ................................................................... 40 
+Bảng 3.
+Usecase chức năng Cập nhật thông tin nhân viên ............................................... 41 
+Bảng 3.
+Usecase chức năng Xóa nhân viên ...................................................................... 41 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Bảng 3.
+Usecase Quản lý nhà cung cấp ............................................................................ 42 
+Bảng 3.
+Usecase chức năng Thêm nhà cung cấp.............................................................. 42 
+Bảng 3.
+Usecase chức năng Cập nhật thông tin nhà cung cấp ......................................... 43 
+Bảng 3.
+Usecase chức năng Xóa nhà cung cấp ................................................................ 43 
+Bảng 3.
+Bảng Customers .................................................................................................. 44 
+Bảng 3.
+Bảng Employees ................................................................................................. 44 
+Bảng 3.
+Bảng InvoiceDetails ............................................................................................ 45 
+Bảng 3.
+Bảng Invoices ...................................................................................................... 45 
+Bảng 3.
+Bảng Materials .................................................................................................... 45 
+Bảng 3.
+Bảng Suppliers .................................................................................................... 46 
+Bảng 3.
+Bảng Warehouses ................................................................................................ 46 
+Bảng 3.
+Bảng ShoppingCart ............................................................................................. 46 
+Bảng 3.
+Bảng User ............................................................................................................ 47 
+Bảng 3.
+Kiểm thử chức năng Đăng nhập ......................................................................... 62 
+Bảng 3.
+Kiểm thử chức năng Quản lý vật liệu ................................................................. 65 
+Bảng 3.
+Kiểm thử chức năng Quản lý kho ....................................................................... 67 
+Bảng 3.
+Kiểm thử chức năng Quản lý kho ....................................................................... 70 
+Bảng 3.
+Kiểm thử chức năng Quản lý nhà cung cấp ........................................................ 73 
+Bảng 3.
+Kiểm thử chức năng Quản lý đơn hàng .............................................................. 75 
+Bảng 3.
+Kiểm thử chức năng Quản lý khách hàng ........................................................... 78 
+Bảng 3.
+Kiểm thử chức năng Quản lý đơn hàng.
+............................................................. 80 
+ 
+ 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+MỤC LỤC ẢNH 
+Hình 2.
+Mô hình RESTful API ........................................................................................... 14 
+Hình 2.
+Mô hình Database first .......................................................................................... 16 
+Hình 2.
+Mô hình Code First ................................................................................................ 17 
+Hình 3.
+Biểu đồ tổng quát trang quản trị ........................................................................... 22 
+Hình 3.
+Biểu đồ phân rã Usecase Quản lý nhân viên ......................................................... 23 
+Hình 3.
+Biểu đồ phân rã Usecase Thông kê ....................................................................... 23 
+Hình 3.
+Biểu đồ phân rã Usecase Quản lý khách hàng ...................................................... 24 
+Hình 3.
+Biểu đồ phân rã Usecase Quản lý đơn hàng .......................................................... 24 
+Hình 3.
+Biểu đồ phân rã Usecase Quản lý nhà cung cấp .................................................... 25 
+Hình 3.
+Biểu đồ phân rã Usecase Quản lý vật liệu ............................................................. 25 
+Hình 3.
+Biểu đồ phân rã Usecase Quản lý kho ................................................................... 26 
+Hình 3.
+Biểu đồ lớp thực thể .............................................................................................. 26 
+Hình 3.
+Biểu đồ tuần tự chức năng Sửa Vật liệu .............................................................. 27 
+Hình 3.
+Biều đồ tuần tự Xóa vật liệu ................................................................................ 27 
+Hình 3.
+Biểu đồ tuần tự chức năng Thêm vật liệu ............................................................ 28 
+Hình 3.
+Biểu đồ tuần tự cho chức năng quản lý xuất kho ................................................ 28 
+Hình 3.
+Biểu đồ tuần tự chức năng Đăng nhập ................................................................ 29 
+Hình 3.
+Biểu đồ hoạt động đăng nhập .............................................................................. 30 
+Hình 3.
+Biểu đồ hoạt động Đăng xuất .............................................................................. 31 
+Hình 3.
+Biểu đồ Diagram Database .................................................................................. 48 
+Hình 3.
+Thiết kế giao diện Trang chủ (User) ................................................................... 50 
+Hình 3.
+Thiết kế giao diện Dashboard .............................................................................. 51 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Hình 3.
+Thiết kế giao diện Quản lý vật liệu ..................................................................... 52 
+Hình 3.
+Thiết kế giao diện Quản lý nhà cung cấp ............................................................ 53 
+Hình 3.
+Thiết kế giao diện Cập nhật vật liệu .................................................................... 54 
+Hình 4.
+Giao diện Trang chủ ............................................................................................. 81 
+Hình 4.
+Giao diện Dashboard ............................................................................................. 82 
+Hình 4.
+Giao diện Quản lý vật liệu ..................................................................................... 84 
+Hình 4.
+Giao diện chức năng Quản lý nhân viên ............................................................... 86 
+Hình 4.
+Giao diện chức năng Quản lý nhà cung cấp .......................................................... 88 
+Hình 4.
+Giao diện Cập nhật thông tin vật liệu .................................................................... 89 
+ 
+ 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+MỤC LỤC 
+CHƯƠNG 1: TỔNG QUAN VỀ ĐỀ TÀI ................................................................................ 1 
+1.1.
+Đặt vấn đề ...................................................................................................................... 1 
+1.2.
+Lý do chọn đề tài ........................................................................................................... 2 
+1.3.
+Mục tiêu và phạm vi đề tài ............................................................................................ 3 
+1.3.1.
+Mục tiêu .................................................................................................................. 3 
+1.3.2.
+Phạm vi nghiên cứu ................................................................................................ 3 
+1.4.
+Phương pháp nghiên cứu ............................................................................................... 4 
+1.5.
+Khảo sát thực tế ............................................................................................................. 5 
+1.5.1.
+Mục đích khảo sát ................................................................................................... 5 
+1.5.2.
+Phương pháp khảo sát ............................................................................................. 5 
+1.5.3.
+Kết quả khảo sát ..................................................................................................... 5 
+1.5.4.
+Đề xuất giải pháp .................................................................................................... 6 
+CHƯƠNG 2: CƠ SỞ LÝ THUYẾT ......................................................................................... 8 
+2.1.
+Vue.js ............................................................................................................................. 8 
+2.2 Vuetify .......................................................................................................................... 10 
+2.3.
+ASP.NET core API ...................................................................................................... 13 
+2.4.
+Entity Framework Core ............................................................................................... 15 
+2.5.
+JSON Web Token (JWT) ............................................................................................ 18 
+2.6.
+SQL Server .................................................................................................................. 19 
+CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG QUẢN LÝ VẬT LIỆU XÂY DỰNG TRÊN NỀN 
+TẢNG WEB ........................................................................................................................... 21 
+3.1.
+Tổng quan thiết kế ....................................................................................................... 21 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+3.1.1.
+Xác định các Usecase và Actor ............................................................................ 21 
+3.1.2.
+Biểu đồ tổng quát trang quản trị ........................................................................... 22 
+3.1.3.
+Thiết kế biểu đồ chi tiết ca sử dụng ...................................................................... 22 
+3.1.4.
+Thiết kế biểu đồ lớp .............................................................................................. 26 
+3.3.5.
+Thiết kế biểu đồ tuần tự ........................................................................................ 26 
+3.3.6.
+Thiết kệ biểu đồ hoạt động ................................................................................... 29 
+3.2.
+Kịch bản UseCase ........................................................................................................ 31 
+3.2.1.
+UseCase Quản lý khách hàng ............................................................................... 31 
+3.2.2.
+Usecase Quản lý Vật liệu ..................................................................................... 34 
+3.2.3.
+Usecase Quản lý đơn hàng ................................................................................... 36 
+3.2.4.
+Usecase Quản lý kho ............................................................................................ 38 
+3.2.5.
+Usecase Quản lý nhân viên................................................................................... 39 
+3.2.6.
+Usecase Quản lý nhà cung cấp ............................................................................. 41 
+3.3.
+Thiết kế cơ sở dữ liệu .................................................................................................. 43 
+3.3.1.
+Xác định thực thể quan hệ .................................................................................... 44 
+3.3.2.
+Biểu đồ Diagram Database ................................................................................... 48 
+3.4.
+Thiết kế chương trình .................................................................................................. 48 
+3.4.1.
+Kiến trúc hệ thống ................................................................................................ 48 
+3.4.2.
+Thành phần chính hệ thống .................................................................................. 49 
+3.4.3.
+Thiết kế giao diện người dùng .............................................................................. 49 
+3.4.4.
+Quy trình phát triển .............................................................................................. 54 
+3.5.
+Mô tả bài toán .............................................................................................................. 55 
+3.5.1.
+Đối tượng xây dựng .............................................................................................. 55 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+3.5.2.
+Nhu cầu và Yêu cầu .............................................................................................. 56 
+3.6.
+Yêu cầu hệ thống ......................................................................................................... 57 
+3.6.1.
+Quản lý sản phẩm và Nhà cung cấp ..................................................................... 57 
+3.6.2.
+Quản lý đơn hàng và giao hàng ............................................................................ 57 
+3.6.3.
+Quản lý tồn kho .................................................................................................... 57 
+3.6.4.
+Quản lý nhân viên ................................................................................................. 58 
+3.6.5. tính năng tìm kiếm và lọc ..................................................................................... 58 
+3.7.
+Phân tích yêu cầu người dùng ..................................................................................... 58 
+3.7.1.
+Phương pháp thu thập yêu cầu ............................................................................. 58 
+3.7.2.
+Yêu cầu chức năng ............................................................................................... 58 
+3.7.3.
+Yêu cầu phi chức năng ......................................................................................... 59 
+3.7.4.
+Đánh giá và cải tiến liên tục ................................................................................. 61 
+3.8.
+Kiểm thử ...................................................................................................................... 61 
+3.8.1.
+Kiểm thử chức năng Đăng nhập ........................................................................... 61 
+3.8.2.
+Kiểm thử chức năng Quản lý vật liệu ................................................................... 62 
+3.8.3.
+Kiểm thử chức năng Quản lý kho ......................................................................... 65 
+3.8.4.
+Kiểm thử chức năng Quản lý nhân viên ............................................................... 67 
+3.8.5.
+Kiểm thử chức năng Quản lý nhà cung cấp ......................................................... 70 
+3.8.6.
+Kiểm thử chức năng Quản lý đơn hàng ................................................................ 73 
+3.8.7.
+Kiểm thử chức năng Quản lý khách hàng ............................................................ 75 
+3.8.8.
+Kiểm thử chức năng Quản lý hóa đơn .................................................................. 78 
+CHƯƠNG 4: KẾT QUẢ ĐỒ ÁN ........................................................................................... 81 
+4.1.
+Giao diện Trang chủ .................................................................................................... 81 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+4.2.
+Giao diện Dashboard ................................................................................................... 82 
+4.3.
+Giao diện Admin chức năng Quản lý vật liệu ............................................................. 84 
+4.4.
+Giao diện chức năng Quản lý nhân viên ..................................................................... 86 
+4.5.
+Giao diện chức năng Quản lý nhà cung cấp ................................................................ 88 
+4.6.
+Giao diện chức năng Cập nhật vật liệu ........................................................................ 89 
+KẾT LUẬN ............................................................................................................................ 91 
+1.
+Kết quả đạt được ............................................................................................................. 91 
+2.
+Đánh giá ưu điểm và nhược điểm ................................................................................... 91 
+2.1.
+Ưu điểm ................................................................................................................... 91 
+2.2 Nhược điểm .............................................................................................................. 92 
+3.
+Hướng phát triển ............................................................................................................. 92 
+DANH SÁCH TÀI LIỆU THAM KHẢO .............................................................................. 93 
+ 
+ 
+ 
+1 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+CHƯƠNG 1: TỔNG QUAN VỀ ĐỀ TÀI 
+1.1.
+Đặt vấn đề 
+ 
+Trong ngành xây dựng, quản lý vật liệu là một trong những yếu tố cốt lõi quyết định 
+đến sự thành công của một dự án.
+Quản lý vật liệu không chỉ đòi hỏi sự cẩn trọng và tổ chức 
+chặt chẽ mà còn đề xuất tính hiệu quả và linh hoạt.
+Đối mặt với sự phức tạp và đa dạng của 
+các vật liệu, cùng với sự động thái và không chắc chắn của thị trường, việc ứng dụng công 
+nghệ thông tin trong quản lý vật liệu xây dựng trở nên cần thiết và tiềm năng.
+Một trong những thách thức cơ bản mà ngành xây dựng đang phải đối mặt là việc quản 
+lý tồn kho vật liệu.
+Sự thiếu hụt hoặc lãng phí về tài nguyên có thể dẫn đến tổn thất về thời 
+gian và chi phí cho các dự án.
+Các công ty xây dựng thường gặp khó khăn trong việc theo dõi 
+lượng tồn kho, dự đoán nhu cầu và quản lý các đơn hàng một cách hiệu quả.
+Ngoài ra, việc quản lý các đơn đặt hàng cũng là một thách thức lớn đối với các doanh 
+nghiệp xây dựng.
+Sự trễ hạn trong việc giao hàng có thể ảnh hưởng đến tiến độ của dự án và 
+uy tín của công ty.
+Việc không có một hệ thống quản lý đơn đặt hàng hiệu quả có thể dẫn đến 
+việc thiếu hụt vật liệu hoặc gây ra sự trễ hạn trong việc giao hàng, ảnh hưởng đến tiến độ của 
+dự án và uy tín của công ty.
+Để giải quyết những thách thức này, dự án này tập trung vào việc xây dựng một ứng 
+dụng quản lý vật liệu xây dựng trên nền tảng web.
+Ứng dụng này sẽ giúp các doanh nghiệp 
+xây dựng theo dõi và quản lý tồn kho vật liệu, tạo và quản lý các đơn đặt hàng một cách hiệu 
+quả, từ đó tối ưu hóa quá trình quản lý và giảm thiểu rủi ro và chi phí.
+Trong phạm vi của dự án, tôi sẽ thực hiện các nghiên cứu cẩn thận về các yếu tố ảnh 
+hưởng đến quản lý vật liệu xây dựng, phát triển và triển khai một ứng dụng web thân thiện 
+người dùng và linh hoạt, cung cấp các tính năng quản lý vật liệu mạnh mẽ và đáng tin cậy.
+Đồng thời, tôi cũng sẽ đề xuất các giải pháp và chiến lược để tối ưu hóa quá trình quản lý vật 
+liệu xây dựng, từ đó giúp các doanh nghiệp xây dựng nâng cao hiệu quả và cạnh tranh trong 
+thị trường xây dựng ngày càng cạnh tranh.
+2 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+1.2.
+Lý do chọn đề tài 
+ 
+Trong bối cảnh sự phát triển nhanh chóng của ngành công nghiệp xây dựng, việc quản 
+lý vật liệu xây dựng trở nên ngày càng phức tạp và đòi hỏi sự chính xác, hiệu quả cao.
+Vật 
+liệu xây dựng chiếm một tỷ trọng quan trọng trong mỗi dự án xây dựng, và việc quản lý chúng 
+một cách thông minh có thể ảnh hưởng đến sự thành công của dự án, từ việc đảm bảo nguồn 
+cung đủ đến việc kiểm soát chi phí và thời gian.
+Hiện nay, nhu cầu sử dụng vật liệu xây dựng đang tăng mạnh, đặc biệt là trong các dự 
+án xây dựng lớn.
+Điều này đặt ra thách thức lớn trong việc quản lý nguồn cung và chi phí vật 
+liệu xây dựng, đặc biệt là khi giá trị của chúng có thể biến đổi thường xuyên dựa trên thị 
+trường.
+Sự phát triển của công nghệ thông tin mở ra nhiều cơ hội mới trong việc quản lý vật 
+liệu xây dựng.
+Tính linh hoạt và khả năng tích hợp của các hệ thống thông tin hiện đại có thể 
+giúp tối ưu hóa quy trình quản lý vật liệu, từ việc đặt hàng đến theo dõi và kiểm soát hàng tồn 
+kho.
+Việc quản lý vật liệu xây dựng không chỉ đơn giản là một phần của quá trình xây dựng 
+mà còn là yếu tố quyết định đến sự thành công của dự án.
+Tầm quan trọng của việc này không 
+thể bỏ qua, và việc áp dụng công nghệ thông tin có thể giúp tối ưu hóa quy trình quản lý và 
+đảm bảo hiệu suất cao hơn.
+Quản lý vật liệu xây dựng hiệu quả không chỉ giúp tiết kiệm chi phí và thời gian mà 
+còn đóng góp vào mục tiêu phát triển bền vững trong ngành xây dựng.
+Việc giảm thiểu lãng 
+phí và tối ưu hóa sử dụng tài nguyên có thể giảm thiểu tác động tiêu cực đến môi trường và 
+xã hội.
+Trên cơ sở những lý do trên, tôi cam kết thực hiện đề tài này với mong muốn đóng góp 
+vào sự phát triển của ngành xây dựng và hỗ trợ các doanh nghiệp xây dựng trong việc quản lý 
+vật liệu một cách hiệu quả và bền vững hơn.
+3 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+1.3.
+Mục tiêu và phạm vi đề tài 
+1.3.1.
+Mục tiêu 
+ 
+Dự án này đặt ra một số mục tiêu cụ thể nhằm giải quyết các vấn đề quan trọng quản 
+lý vật xây dựng thông qua sự phát triển một ứng dụng web quản lý vật liệu xây dựng.
+Cụ thể: 
+ Phát triển một ứng dụng web thân thiện người dùng và linh hoạt giúp các doanh nghiệp 
+xây dựng quản lý tồn kho vật liệu một cách hiệu quả.
+ Xây dựng một hệ thống đơn giản đáng tin cậy và linh hoạt, giúp đảm bảo rằng các vật 
+liệu được cung cấp đúng hạn và đủ lượng cho mỗi dự án.
+ Tối ưu hóa quá trình quản lý vật liệu bằng cách cung cấp các tính năng thông minh như 
+thống kê và phân tích dữ liệu, giúp người dùng đưa ra các quyết định dựa trên dữ liệu 
+chính xác và chi tiết.
+ Nâng cao hiệu suất và giảm thiểu rủi ro trong quản lý vật liệu xây dựng, từ đó giúp các 
+doanh nghiệp xây dựng tăng cường sự cạnh tranh và đạt được thành công bền vững 
+trong ngành.
+Phạm vi nghiên cứu 
+ 
+Phạm vi của dự án này được xác định để tập trung vào việc phát triển một ứng dụng 
+web quản lý vật liệu xây dựng đáng tin cậy và hiệu quả.
+ Phát triển một giao diện người dùng thân thiện và dễ sử dụng, bao gồm các tính năng 
+nhập liệu, xem/xử lý tồn kho, tạo và quản lý đơn hàng.
+ Xây dựng cơ sở dữ liệu mạnh mẽ để lưu trữ thông tin về vật liệu, tồn kho và các đơn 
+hàng, đảm bảo tính nhất quán và bảo mật dữ liệu.
+ Tối ưu hóa quá trình quản lý thông qua việc cung cấp các chức năng thống kê và phân 
+tích dữ liệu, giúp người dùng đưa ra các quyết định thông minh và dự đoán nhu cầu vật 
+liệu 
+ Triển khai và kiểm thử ứng dụng trên một số ứng dụng một số trường thực tế để đảm 
+báo tính ổn định và hiệu suất của hệ thống trước khi đưa vào sử dụng thực tế.
+4 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Với phạm vi nghiên cứu được xác định rõ ràng, dự án này hy vọng sẽ đạt được những 
+kết quả tích cực và mang lại giá trị thực tế cho ngành xây dựng và công cộng người sử dụng.
+Phương pháp nghiên cứu 
+ 
+Trong phần này, tôi sẽ mô tả các phương pháp nghiên cứu được sử dụng để thực hiện 
+đề tài “Xây dựng ứng dụng quản lý vật liệu xây dựng trên nền tảng web”.
+Phương pháp nghiên 
+cứu này sẽ bao gồm các bước sau: 
+ Phân tích tài liệu: Tôi sẽ tiến hành phân tích các tài liệu liên quan như sách, báo 
+cáo, và các tài liệu nghiên cứu trước đây để hiểu rõ hơn về tình hình hiện tại của 
+ngành xây dựng và các phương pháp quản lý đã được áp dụng.
+Điều này sẽ giúp tôi 
+xây dựng nền tảng cho việc tiếp cận vấn đề.
+ Thu thập dữ liệu thực tế: Tiến hành thu thập dữ liệu thực tế từ các doanh nghiệp 
+mua bán vật liệu xây dựng thông qua cuộc phỏng vấn, khảo sát và quan sát trực 
+tiếp.
+Dữ liệu này sẽ giúp tôi hiểu rõ hơn về thực tế hoạt động của các cửa hàng và 
+các vấn đề mà họ đang đối mặt.
+ Phương pháp nghiên cứu định lượng và định tính: Sử dụng phương pháp định 
+lượng sẽ giúp tôi đo lường và số hóa các yếu tố như hiệu suất kinh doanh và mức 
+độ hài lòng của khách hàng, trong khi phương pháp định tính sẽ giúp Tôi hiểu sâu 
+hơn về các quan điểm, ý kiến và trải nghiệm cá nhân.
+ Phân tích dữ liệu: Dữ liệu thu thập được sẽ được phân tích một cách kĩ lưỡng để 
+trà lời câu hỏi nghiên cứu và đạt được mục tiêu đề ra.
+Tôi sẽ sử dụng các phương 
+pháp phân tích thông kê và các công cụ phân tích dữ liệu để phát hiện ra mối liên 
+hệ và xu hướng quan trọng trong dữ liệu.
+ Đánh giá kết quả và rút ra kết luận: Cuối cùng, tôi sẽ đánh giá kết quả của nghiên 
+cứu và rút ra những kết luận và nhận định quan trọng.
+Tôi sẽ xem xét mức độ đạt 
+được của mục tiêu nghiên cứu, nhận dạng các hạn chế và yếu điểm, và đề xuất các 
+hướng phát triển và ứng dụng tiếp theo.
+5 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+1.5.
+Khảo sát thực tế 
+1.5.1.
+Mục đích khảo sát 
+Khảo sát thực tế được thực hiện nhằm thu thập thông tin chi tiết về quy trình quản lý 
+vật liệu xây dựng tại các doanh nghiệp và cửa hàng bán vật liệu xây dựng.
+Mục tiêu của khảo 
+sát là hiểu rõ hơn về các thách thức, nhu cầu, và quy trình hiện tại của họ, từ đó đề xuất các 
+giải pháp hiệu quả để tối ưu hóa quy trình quản lý vật liệu.
+Phương pháp khảo sát 
+ 
+Để đạt được mục tiêu trên, tôi đã áp dụng các phương pháp khảo sát như sau: 
+ Phỏng vấn trực tiếp: Tôi tiến hành phỏng vấn trực tiếp các nhân viên quản lý kho, 
+chủ cửa hàng, và nhân viên bán hàng để thu thập thông tin chi tiết về quy trình làm 
+việc, các vấn đề gặp phải, và các mong muốn cải tiến.
+ Quan sát trực tiếp: Tôi tham gia quan sát trực tiếp các hoạt động hàng ngày tại 
+các kho và cửa hàng vật liệu xây dựng để có cái nhìn thực tế về quy trình làm việc, 
+từ đó xác định các điểm mạnh và điểm yếu của hệ thống hiện tại.
+Kết quả khảo sát 
+Qua quá trình khảo sát, tôi thu thập được các thông tin chung như sau: 
+ Quy mô doanh nghiệp: Các doanh nghiệp và cửa hàng khảo sát có quy mô từ nhỏ 
+đến vừa, với số lượng nhân viên từ 5 đến 50 người.
+ Loại vật liệu: Các cửa hàng cung cấp đa dạng các loại vật liệu xây dựng như xi 
+măng, gạch, cát, sắt thép, gỗ, và các vật liệu hoàn thiện khác.
+Quy trình quản lý hiện tại 
+ Quản lý kho: Hiện tại, việc quản lý kho chủ yếu được thực hiện thủ công hoặc sử 
+dụng các phần mềm cơ bản như Excel.
+Điều này dẫn đến nhiều sai sót và khó khăn 
+trong việc theo dõi số lượng và tình trạng vật liệu.
+6 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Quản lý đơn hàng: Đơn hàng được quản lý thông qua các hệ thống sổ sách hoặc 
+phần mềm đơn giản, không có sự tích hợp và đồng bộ giữa các bộ phận.
+Việc này 
+dẫn đến việc theo dõi đơn hàng không hiệu quả, dễ bị nhầm lẫn và chậm trễ.
+ Kiểm kê: Quá trình kiểm kê kho hàng thường mất nhiều thời gian và công sức do 
+phải thực hiện thủ công, không có sự hỗ trợ của các công cụ hiện đại.
+Qua khảo sát, tôi nhận thấy các thách thức và nhu cầu sau: 
+ Sai sót trong quản lý: Do quản lý thủ công nên dễ xảy ra sai sót, mất mát và thiếu 
+hụt vật liệu, ảnh hưởng đến tiến độ và chi phí của các dự án xây dựng.
+ Thiếu tính đồng bộ: Các bộ phận không có sự kết nối và đồng bộ với nhau, dẫn 
+đến thông tin không nhất quán, khó khăn trong việc quản lý và điều hành.
+ Nhu cầu tự động hóa: Các doanh nghiệp và cửa hàng mong muốn có một hệ thống 
+quản lý tự động, tích hợp và hiện đại để giảm thiểu sai sót, tiết kiệm thời gian và 
+nâng cao hiệu quả công việc.
+Đề xuất giải pháp 
+Dựa trên kết quả khảo sát thực tế, tôi đề xuất các giải pháp như sau: 
+ Phát triển hệ thống quản lý vật liệu xây dựng: Hệ thống cần có khả năng quản 
+lý kho, theo dõi đơn hàng, kiểm kê tự động và cung cấp các báo cáo chi tiết.
+Hệ 
+thống sẽ giúp giảm thiểu sai sót, tiết kiệm thời gian và nâng cao hiệu quả công việc.
+ Tích hợp các công nghệ hiện đại: Sử dụng các công nghệ như mã vạch, RFID, và 
+các phần mềm quản lý kho hiện đại để tự động hóa quy trình kiểm kê và theo dõi 
+vật liệu.
+ Đào tạo nhân viên: Tổ chức các khóa đào tạo cho nhân viên về cách sử dụng hệ 
+thống quản lý mới, đảm bảo họ có thể khai thác tối đa các tính năng của hệ thống 
+và nâng cao hiệu quả công việc.
+Khảo sát thực tế đã giúp tôi hiểu rõ hơn về tình hình quản lý vật liệu xây dựng tại các 
+doanh nghiệp và cửa hàng, từ đó đề xuất các giải pháp cụ thể và hiệu quả để cải thiện quy 
+7 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+trình quản lý.
+Việc áp dụng các công nghệ hiện đại và phát triển hệ thống quản lý tự động sẽ 
+giúp các doanh nghiệp nâng cao hiệu quả công việc, giảm thiểu sai sót và đáp ứng tốt hơn các 
+nhu cầu của thị trường.
+8 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+CHƯƠNG 2: CƠ SỞ LÝ THUYẾT 
+2.1.
+Vue.js 
+Vue.js là một framework JavaScript mã nguồn mở được sử dụng để phát triển giao diện 
+người dùng (UI) cho ứng dụng web.
+Được phát triển bởi Evan You, Vue.js ra đời với mục tiêu 
+đơn giản hóa việc phát triển web, mang đến một giải pháp linh hoạt và hiệu quả cho các dự án 
+web từ nhỏ đến lớn.
+ Điểm mạnh của Vue.js: 
+ 
+Dễ học: Vue.js được thiết kế với cú pháp đơn giản, dễ hiểu và dễ sử dụng.
+Các khái 
+niệm cơ bản của Vue.js có thể được học một cách nhanh chóng, giúp cho việc bắt 
+đầu phát triển ứng dụng web với Vue.js trở nên dễ dàng hơn.
+ 
+Hiệu suất cao: Vue.js được tối ưu hóa để hoạt động hiệu quả, mang lại trải nghiệm 
+mượt mà cho người dùng.
+Vue.js sử dụng một thuật toán hiệu quả để cập nhật DOM, 
+giúp cho ứng dụng web hoạt động nhanh chóng và mượt mà, ngay cả khi xử lý 
+lượng dữ liệu lớn.
+ 
+Linh hoạt: Vue.js cho phép bạn lựa chọn các thành phần và chức năng phù hợp với 
+nhu cầu của dự án, từ các ứng dụng đơn giản đến các ứng dụng phức tạp.
+Bạn có 
+thể sử dụng Vue.js để phát triển các ứng dụng web đơn trang (SPA), các thành phần 
+UI tái sử dụng, hoặc thậm chí là các ứng dụng di động.
+ 
+Cộng đồng lớn: Vue.js có một cộng đồng lớn, hỗ trợ và chia sẻ kiến thức, giúp bạn 
+dễ dàng tìm kiếm giải pháp cho các vấn đề gặp phải.
+Có rất nhiều tài liệu, hướng 
+dẫn, thư viện và thành phần được phát triển bởi cộng đồng, giúp bạn dễ dàng tìm 
+kiếm thông tin và giải pháp cho dự án của mình.
+ 
+Tích hợp dễ dàng: Vue.js có thể được tích hợp dễ dàng với các framework và thư 
+viện khác, giúp bạn tạo ra các ứng dụng web phức tạp và đa chức năng.
+Vue.js có 
+thể được sử dụng cùng với các framework như React, Angular, hoặc các thư viện 
+như jQuery, Bootstrap, và nhiều thư viện khác.
+9 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Tài liệu đầy đủ: Vue.js có tài liệu đầy đủ, chi tiết và dễ hiểu, giúp bạn dễ dàng học 
+hỏi và sử dụng framework.
+Tài liệu của Vue.js được viết rõ ràng, cung cấp các ví 
+dụ mã nguồn minh họa, giúp bạn dễ dàng hiểu và ứng dụng các khái niệm của 
+Vue.js.
+ Các tính năng chính của Vue.js: 
+ Template Syntax: Vue.js sử dụng cú pháp template đơn giản để tạo ra các thành 
+phần UI.
+Cú pháp template của Vue.js dựa trên HTML, giúp cho việc tạo ra các 
+thành phần UI trở nên dễ dàng và trực quan.
+ Reactivity System: Hệ thống phản ứng của Vue.js giúp cho việc cập nhật UI 
+trở nên đơn giản và hiệu quả.
+Khi dữ liệu thay đổi, Vue.js sẽ tự động cập nhật 
+UI tương ứng, giúp bạn không cần phải viết code để cập nhật UI thủ công.
+ Components: Vue.js cho phép bạn tạo ra các thành phần UI tái sử dụng, giúp 
+bạn tiết kiệm thời gian và công sức trong quá trình phát triển.
+Các thành phần 
+UI có thể được sử dụng lại trong nhiều phần khác nhau của ứng dụng web, giúp 
+bạn tạo ra các ứng dụng web một cách nhanh chóng và hiệu quả.
+ Directives: Vue.js cung cấp các directive để điều khiển hành vi của các thành 
+phần UI.
+Các directive có thể được sử dụng để tạo ra các hiệu ứng động, xử lý 
+sự kiện, kiểm tra điều kiện, và nhiều chức năng khác.
+ Computed Properties: Vue.js cho phép bạn tạo ra các computed properties để 
+tính toán các giá trị dựa trên dữ liệu hiện tại.
+Các computed properties giúp bạn 
+giữ cho code của mình gọn gàng và dễ đọc, đồng thời giúp bạn tối ưu hóa hiệu 
+suất của ứng dụng web.
+ Watchers: Vue.js cho phép bạn theo dõi các thay đổi của dữ liệu và thực hiện 
+các hành động tương ứng.
+Các watchers giúp bạn kiểm soát các thay đổi của dữ 
+liệu và đảm bảo rằng ứng dụng web hoạt động chính xác.
+10 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Mixins: Vue.js cho phép bạn sử dụng mixins để chia sẻ code giữa các thành 
+phần UI.
+Các mixins giúp bạn tái sử dụng code, giúp bạn tạo ra các ứng dụng 
+web một cách nhanh chóng và hiệu quả.
+ Ứng dụng của Vue.js: 
+Vue.js được sử dụng rộng rãi trong nhiều dự án web khác nhau, từ các trang web đơn giản 
+đến các ứng dụng web phức tạp, bao gồm: 
+ Ứng dụng web đơn trang (SPA): Vue.js là lựa chọn phổ biến cho việc phát 
+triển SPA, cho phép bạn tạo ra các ứng dụng web tương tác và động.
+Vue.js 
+cung cấp các tính năng cần thiết để phát triển SPA, bao gồm routing, state 
+management, và nhiều tính năng khác.
+ Thành phần UI: Vue.js cho phép bạn tạo ra các thành phần UI tái sử dụng, giúp 
+bạn tiết kiệm thời gian và công sức trong quá trình phát triển.
+Các thành phần 
+UI có thể được sử dụng lại trong nhiều phần khác nhau của ứng dụng web, giúp 
+bạn tạo ra các ứng dụng web một cách nhanh chóng và hiệu quả.
+ Ứng dụng di động: Vue.js có thể được sử dụng để phát triển ứng dụng di động 
+bằng cách kết hợp với các framework như Cordova hoặc Ionic.
+Vue.js cung cấp 
+các tính năng cần thiết để phát triển ứng dụng di động, bao gồm hỗ trợ các thiết 
+bị di động, quản lý sự kiện, và nhiều tính năng khác.
+Vue.js là một framework JavaScript mạnh mẽ, linh hoạt và dễ học, giúp bạn tạo ra các 
+ứng dụng web hiện đại, tương tác và đẹp mắt.
+Vue.js cung cấp các tính năng cần thiết để phát 
+triển các ứng dụng web từ nhỏ đến lớn, đồng thời được hỗ trợ bởi một cộng đồng lớn, giúp 
+bạn dễ dàng tìm kiếm giải pháp cho các vấn đề gặp phải.
+2.2 Vuetify 
+Vuetify là một framework UI mã nguồn mở dựa trên Material Design dành cho Vue.js.
+Nó cung cấp một bộ sưu tập phong phú các thành phần UI được thiết kế đẹp mắt, dễ sử dụng 
+11 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+và tuân theo các nguyên tắc thiết kế của Google Material Design, giúp bạn tạo ra các ứng dụng 
+web hiện đại, chuyên nghiệp và hấp dẫn.
+ Điểm mạnh của Vuetify: 
+ 
+Thiết kế đẹp mắt: Vuetify được thiết kế dựa trên Material Design, mang đến giao 
+diện đẹp mắt, hiện đại và chuyên nghiệp cho ứng dụng web.
+Các thành phần UI của 
+Vuetify được thiết kế theo các nguyên tắc thiết kế của Material Design, đảm bảo 
+tính nhất quán và dễ sử dụng.
+ 
+Dễ sử dụng: Vuetify được thiết kế để dễ sử dụng, giúp bạn dễ dàng tạo ra các ứng 
+dụng web đẹp mắt và chuyên nghiệp mà không cần phải viết nhiều code.
+Vuetify 
+cung cấp các thành phần UI sẵn sàng sử dụng, giúp bạn tiết kiệm thời gian và công 
+sức trong quá trình phát triển.
+ 
+Phong phú các thành phần: Vuetify cung cấp một bộ sưu tập phong phú các thành 
+phần UI, bao gồm các thành phần cơ bản như button, input, dropdown, menu, 
+dialog, và nhiều thành phần nâng cao khác như data table, card, carousel, và nhiều 
+thành phần khác.
+ 
+Tùy chỉnh cao: Vuetify cho phép bạn tùy chỉnh giao diện của các thành phần UI 
+theo ý muốn.
+Bạn có thể thay đổi màu sắc, font chữ, kích thước, và nhiều thuộc tính 
+khác của các thành phần UI để phù hợp với phong cách thiết kế của ứng dụng web.
+ 
+Hiệu suất cao: Vuetify được tối ưu hóa để hoạt động hiệu quả, mang lại trải nghiệm 
+mượt mà cho người dùng.
+Vuetify sử dụng các kỹ thuật tối ưu hóa để đảm bảo hiệu 
+suất cao, ngay cả khi xử lý lượng dữ liệu lớn.
+ 
+Hỗ trợ đa nền tảng: Vuetify có thể được sử dụng để phát triển các ứng dụng web 
+cho nhiều nền tảng khác nhau, bao gồm máy tính để bàn, điện thoại di động, và máy 
+tính bảng.
+Vuetify cung cấp các tính năng hỗ trợ đa nền tảng, giúp bạn tạo ra các 
+ứng dụng web phù hợp với nhiều thiết bị khác nhau.
+ Các tính năng chính của Vuetify: 
+12 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Components: Vuetify cung cấp một bộ sưu tập phong phú các thành phần UI, bao 
+gồm các thành phần cơ bản như button, input, dropdown, menu, dialog, và nhiều 
+thành phần nâng cao khác như data table, card, carousel, và nhiều thành phần khác.
+ 
+Themes: Vuetify cho phép bạn tùy chỉnh giao diện của các thành phần UI theo ý 
+muốn.
+Bạn có thể thay đổi màu sắc, font chữ, kích thước, và nhiều thuộc tính khác 
+của các thành phần UI để phù hợp với phong cách thiết kế của ứng dụng web.
+ 
+Layout: Vuetify cung cấp các thành phần layout giúp bạn tạo ra các bố cục ứng 
+dụng web một cách dễ dàng.
+Vuetify cung cấp các thành phần layout như app bar, 
+drawer, footer, và nhiều thành phần layout khác.
+ 
+Icons: Vuetify tích hợp với thư viện icon Material Design Icons, cung cấp một bộ 
+sưu tập phong phú các icon để sử dụng trong ứng dụng web.
+ 
+Accessibility: Vuetify được thiết kế theo các tiêu chuẩn về khả năng truy cập 
+(accessibility), giúp cho ứng dụng web của bạn có thể truy cập bởi mọi người, bao 
+gồm cả người khuyết tật.
+ 
+Documentation: Vuetify có tài liệu đầy đủ, chi tiết và dễ hiểu, giúp bạn dễ dàng 
+học hỏi và sử dụng framework.
+Tài liệu của Vuetify được viết rõ ràng, cung cấp các 
+ví dụ mã nguồn minh họa, giúp bạn dễ dàng hiểu và ứng dụng các khái niệm của 
+Vuetify.
+ Ứng dụng của Vuetify: 
+Vuetify được sử dụng rộng rãi trong nhiều dự án web khác nhau, từ các trang web đơn 
+giản đến các ứng dụng web phức tạp, bao gồm: 
+ 
+Ứng dụng web đơn trang (SPA): Vuetify là lựa chọn phổ biến cho việc phát triển 
+SPA, cho phép bạn tạo ra các ứng dụng web tương tác và động với giao diện đẹp 
+mắt và chuyên nghiệp.
+13 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Bảng điều khiển (Dashboard): Vuetify cung cấp các thành phần UI phù hợp để 
+tạo ra các bảng điều khiển đẹp mắt và dễ sử dụng, giúp bạn quản lý dữ liệu và theo 
+dõi hiệu suất của ứng dụng web.
+ 
+Trang web thương mại điện tử (E-commerce): Vuetify cung cấp các thành phần 
+UI phù hợp để tạo ra các trang web thương mại điện tử đẹp mắt và dễ sử dụng, giúp 
+bạn bán hàng trực tuyến hiệu quả.
+ 
+Ứng dụng di động: Vuetify có thể được sử dụng để phát triển ứng dụng di động 
+bằng cách kết hợp với các framework như Cordova hoặc Ionic.
+Vuetify cung cấp 
+các tính năng hỗ trợ đa nền tảng, giúp bạn tạo ra các ứng dụng di động phù hợp với 
+nhiều thiết bị khác nhau.
+Vuetify là một framework UI mạnh mẽ, linh hoạt và dễ sử dụng, giúp bạn tạo ra các 
+ứng dụng web hiện đại, tương tác và đẹp mắt.
+Vuetify cung cấp một bộ sưu tập phong phú các 
+thành phần UI được thiết kế đẹp mắt và dễ sử dụng, giúp tiết kiệm thời gian và công sức trong 
+quá trình phát triển.
+ASP.NET core API  
+ASP.NET Core Web API là một framework phát triển dịch vụ web API mạnh mẽ và 
+đa nền tảng được xây dựng trên nền tảng ASP.NET Core của Microsoft.
+Nó cung cấp các công 
+cụ và tính năng để xây dựng các ứng dụng web API hiệu suất cao, linh hoạt và dễ dàng triển 
+khai trên nhiều nền tảng.
+Ưu điểm: 
+ Đa nền tảng: ASP.NET Core Web API được thiết kế để hoạt động trên nhiều nền tảng 
+như Windows, macOS và Linux.
+Cho phép phát triển và triển khai ứng dụng trên các 
+môi trường khác nhau một cách dễ dàng.
+ Hiệu suất cao: Với sự tối ưu hóa và cải tiến về hiệu suất, ASP.NET Core Web API 
+cung cấp khả năng xử lý yêu cầu và phản hồi nhanh chóng, giúp ứng dụng đáp ứng tốt 
+với tải lớn và đảm bảo hiệu suất tốt.
+14 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Routing linh hoạt: Cung cấp một hệ thống định tuyến mạnh mẽ, cho phép xác định 
+các tuyến đường (routes) dựa trên URL và xác định cách xử lý các yêu cầu tới các tuyến 
+đường đó.
+Routing trong ASP.NET Core Web API linh hoạt và cho phép xây dựng cấu 
+trúc URL tùy chỉnh để phù hợp với yêu cầu của ứng dụng.
+ Định dạng dữ liệu linh hoạt: ASP.NET Core Web API hỗ trợ truyền dữ liệu theo 
+nhiều định dạng khác nhau như JSON, XML và các định dạng tùy chỉnh khác.
+ Dependency Injection (DI): ASP.NET Core Web API tích hợp sẵn DI container, dễ 
+dàng quản lý và tiêm các phụ thuộc (dependencies) vào các controller và các thành 
+phần khác của ứng dụng.
+Giảm sự phụ thuộc giữa các thành phần và tăng khả năng tái 
+sử dụng mã.
+ Bảo mật: Cung cấp các cơ chế bảo mật như xác thực và ủy quyền để bảo vệ các dịch 
+vụ web API.
+Có thể áp dụng các phương thức xác thực như JWT (JSON Web Tokens), 
+OAuth 2.0 hoặc Identity Server để đảm bảo an toàn cho ứng dụng của.
+Mô hình RESTful API 
+15 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+RESTful API (Representational State Transfer API) là một tiêu chuẩn thiết kế dịch vụ 
+web được sử dụng để tạo ra các dịch vụ web API.
+Nó dựa trên các nguyên tắc của REST, một 
+kiến trúc dựa trên web.
+RESTful API sử dụng các giao thức truyền thông như HTTP và HTTPS 
+để truyền tải dữ liệu.
+Nó cho phép dễ dàng tương tác với API từ các ứng dụng và thiết bị khác 
+nhau.
+Gồm các phương thức HTTP như GET, POST, PUT, DELETE.
+Mỗi tài nguyên được 
+xác định bằng một đường dẫn URL duy nhất và có thể thay đổi trạng thái thông qua các yêu 
+cầu HTTP tương ứng.
+RESTful API không lưu trạng thái của phiên làm việc giữa các yêu cầu.
+Mỗi yêu cầu từ phía client phải chứa đầy đủ thông tin cần thiết để thực hiện yêu cầu đó, không 
+phụ thuộc vào trạng thái trước đó.
+RESTful API thường sử dụng các định dạng dữ liệu như 
+JSON (JavaScript Object Notation) hoặc XML (Extensible Markup Language) để truyền tải 
+dữ liệu giữa client và server.
+Entity Framework Core  
+Entity Framework Core là một khung ORM (Object Relational Mapper) mã nguồn mở 
+cho các ứng dụng .NET được Microsoft hỗ trợ là 1 phần của .NET Framework và là một Open 
+Source ORM Framework.
+Entity Framework được cho ra mắt vào năm 2008.
+Nhờ sự ra đời 
+của nó việc truy vấn cơ sở dữ liệu quan hệ trở lên đơn giản, dễ học, giúp giảm bớt thời gian 
+phát triển dự án xuống đáng kể.
+Entity Framework giúp các nhà phát triển web tương tác với 
+dữ liệu quan hệ theo phương pháp hướng đối tượng với ít code hơn so với các ứng dụng truyền 
+thống.
+Lợi ích lớn nhất của nó là giúp lập trình viên giảm thiểu việc lập trình mã nguồn để 
+thực hiện truy cập và tương tác với cơ sở dữ liệu.
+Hiện nay, Entity Framework là 1 framework 
+mạnh để phát triển ứng dụng Web với sự hỗ trợ đông đảo của cộng đồng.
+Những lợi ích khi 
+sử dụng Entity Framework Core: 
+ Khi thực hiện truy vấn dữ liệu có thể sử dụng Linq to Entities để thao tác với 
+objects được sinh ra từ Entity Framework, nghĩa là không phải viết code sql.
+ Việc update các class dễ dàng mỗi khi cơ sở dữ liệu có sự thay đổi, giúp tiết 
+kiệm thời gian đáng kể.
+16 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Entity Framework Core sẽ tự động tạo ra các class, câu lệnh tương ứng cho việc 
+select, insert, update, delete dữ liệu từ cơ sở dữ liệu.
+ Entity Framework Core tự động tạo ra các class cho việc truy xuất cơ sở dữ liệu 
+giúp lập trình viên giảm được thời gian viết code thao tác với database.
+Không 
+phải mất quá nhiều thời gian cho việc viết code để thao tác với database.
+Hiện nay có hai mô hình là Database first và Code first:  
+ 
+Hình 2.
+Mô hình Database first 
+DB First là một phương pháp tiếp cận trong việc phát triển ứng dụng dựa trên cơ sở dữ 
+liệu (Database-First Approach).
+Trong phương pháp này, quá trình phát triển bắt đầu bằng 
+việc xây dựng cơ sở dữ liệu trước, sau đó tạo các đối tượng và mã ứng dụng từ cơ sở dữ liệu 
+đã tồn tại.
+ Ưu điểm: 
+ Sử dụng cơ sở dữ liệu hiện có: Phương pháp DB First cho phép tận dụng 
+các cơ sở dữ liệu đã tồn tại.
+Có thể xây dựng ứng dụng trực tiếp trên cơ sở 
+dữ liệu hiện có mà không cần tạo lại từ đầu.
+ Tích hợp dễ dàng với công cụ ORM: Sử dụng công cụ ORM như 
+EntityFramework, DB First cho phép tự động tạo ra các đối tượng và lớp dựa 
+trên cấu trúc cơ sở dữ liệu.
+Điều này giúp tiết kiệm thời gian và công sức 
+trong việc phát triển ứng dụng.
+17 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Đảm bảo tính nhất quán giữa cơ sở dữ liệu và ứng dụng: Với DB First, 
+việc tạo lớp và đối tượng dựa trên cơ sở dữ liệu giúp đảm bảo rằng cấu trúc 
+dữ liệu và ứng dụng luôn được đồng bộ.
+Bất kỳ thay đổi nào trong cơ sở dữ 
+liệu cũng sẽ được phản ánh tự động trong mã ứng dụng.
+ Nhược điểm: 
+ Ít linh hoạt trong việc thay đổi cấu trúc cơ sở dữ liệu: Vì ứng dụng dựa 
+trên cơ sở dữ liệu đã tồn tại, việc thay đổi cấu trúc cơ sở dữ liệu có thể phức 
+tạp.
+ Khó khăn trong việc kiểm soát mã ứng dụng: Với DB First, các lớp và 
+đối tượng được tạo tự động từ cơ sở dữ liệu.
+Điều này có thể dẫn đến việc 
+không thể kiểm soát một cách chặt chẽ, và có thể gây khó khăn trong việc 
+quản lý và duy trì.
+Mô hình Code First 
+Mô hình “Code First” là một phương pháp phát triển phần mềm mà ưu tiên việc viết 
+mã nguồn (code) trước khi thiết kế cơ sở dữ liệu.
+ Ưu điểm: 
+ Linh hoạt: Mô hình “Code First” cho phép nhà phát triển tập trung vào việc 
+xây dựng logic và chức năng của ứng dụng trước khi quan tâm đến cơ sở dữ 
+18 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+liệu.
+Điều này cho phép nhà phát triển thay đổi cấu trúc cơ sở dữ liệu dễ dàng 
+khi cần thiết mà không phải thay đổi mã nguồn.
+ Tích hợp dễ dàng: Với “Code First”, việc tích hợp với các công cụ và 
+framework khác trong quá trình phát triển phần mềm được thực hiện một 
+cách dễ dàng.
+Điều này cho phép nhà phát triển sử dụng các thư viện và công 
+cụ mạnh mẽ để tăng cường khả năng phát triển và hiệu suất của ứng dụng.
+ Giảm thời gian phát triển: Việc tập trung vào viết mã trước khi thiết kế cơ 
+sở dữ liệu giúp giảm thời gian và công sức mà nhà phát triển phải bỏ ra cho 
+việc thiết kế cơ sở dữ liệu trước.
+Điều này đặc biệt hữu ích trong các dự án 
+phát triển nhanh, MVP (Minimum Viable Product) hoặc các dự án thử 
+nghiệm.
+ Nhược điểm: 
+ Thiếu sự tương thích: Mô hình “Code First” có thể gặp khó khăn khi phải 
+làm việc với các hệ quản trị cơ sở dữ liệu (DBMS) có sẵn hoặc các hệ thống 
+khác.
+Nếu không có sự phối hợp tốt, việc tích hợp mã nguồn và cơ sở dữ liệu 
+có thể trở thành một thách thức.
+ Rủi ro về quản lý phiên bản: Việc sửa đổi cấu trúc cơ sở dữ liệu trong quá 
+trình phát triển có thể tạo ra khó khăn trong quản lý phiên bản và kiểm soát 
+mã nguồn.
+Điều này có thể gây ra các xung đột và rối loạn trong quá trình 
+phát triển và triển khai.
+ Thiếu tính đồng nhất: Thiết kế cơ sở dữ liệu có thể không được chuẩn hóa 
+hoặc thống nhất, vì việc thiết kế được thực hiện sau khi viết mã nguồn.
+Điều 
+này có thể dẫn đến sự không đồng nhất trong cấu trúc và quản lý dữ liệu, làm 
+tăng khả năng xảy ra lỗi và khó khăn trong việc bảo trì và mở rộng ứng dụng.
+JSON Web Token (JWT) 
+JWT (JSON Web Token) là một tiêu chuẩn mở để trao đổi thông tin an toàn giữa các 
+bên, thường được sử dụng cho xác thực và ủy quyền trong các ứng dụng web.
+Nó là một chuỗi 
+19 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ký tự được mã hóa bao gồm ba phần được phân tách bằng dấu chấm (.
+), mỗi phần được mã 
+hóa riêng biệt 
+ Ưu điểm: 
+ 
+An toàn: JWT được mã hóa và được ký bằng chữ ký kỹ thuật số, giúp bảo 
+vệ thông tin khỏi bị giả mạo.
+ 
+Dễ sử dụng: JWT có cấu trúc đơn giản và dễ sử dụng trong các ứng dụng 
+web.
+ 
+Linh hoạt: JWT có thể được sử dụng cho nhiều mục đích, bao gồm xác thực, 
+ủy quyền, chia sẻ thông tin người dùng, v.v.
+ 
+Không trạng thái: JWT là một token không trạng thái, nghĩa là máy chủ 
+không cần phải lưu trữ thông tin về token.
+ Nhược điểm: 
+ Kích thước token: JWT có thể khá lớn, đặc biệt là khi tải trọng chứa nhiều 
+thông tin.
+ Bảo mật khóa bí mật: Khóa bí mật được sử dụng để ký JWT phải được bảo 
+mật cẩn thận.
+Nếu khóa bí mật bị rò rỉ, token có thể bị giả mạo.
+ Phạm vi sử dụng: JWT không phù hợp cho tất cả các trường hợp.
+Ví dụ, 
+JWT không phải là giải pháp tốt nhất cho các ứng dụng yêu cầu bảo mật cao 
+hoặc cần kiểm soát truy cập tinh vi.
+SQL Server 
+SQL Server là phần mềm được Microsoft phát triển dựa trên RDBMS.
+Nó cung cấp 
+các tính năng và công cụ để quản lý, lưu trữ, truy vấn và bảo mật dữ liệu trong môi trường 
+doanh nghiệp.
+SQL Server cho phép tạo và quản lý các cơ sở dữ liệu quan hệ, bao gồm bảng, 
+khóa ngoại, chỉ mục và các quan hệ giữa các bảng.
+Nó hỗ trợ ngôn ngữ truy vấn SQL 
+(Structured Query Language) cho việc truy vấn và thao tác dữ liệu.
+SQL Server được tối ưu 
+hóa để xử lý các tác vụ cơ sở dữ liệu một cách hiệu quả và đáng tin cậy.
+Nó sử dụng các kỹ 
+20 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+thuật như lập chỉ mục, tối ưu truy vấn, quản lý bộ nhớ để đảm bảo hiệu suất cao trong việc xử 
+lý và truy xuất dữ liệu.
+SQL Server cung cấp nhiều tính năng mở rộng như hỗ trợ cho lập trình 
+CLR (Common Language Runtime), khả năng tích hợp dịch vụ FullText Search, khả năng xử 
+lý dữ liệu không gian và hỗ trợ XML.
+Điều này cho phép xử lý và lưu trữ các loại dữ liệu đa 
+dạng trong cơ sở dữ liệu.
+SQL Server cung cấp các cơ chế bảo mật mạnh mẽ để bảo vệ dữ 
+liệu.
+Nó hỗ trợ các tính năng như xác thực người dùng, quản lý quyền truy cập, mã hóa dữ liệu 
+và kiểm soát truy cập dựa trên vai trò.
+SQL Server cung cấp các công cụ và tính năng để sao 
+lưu và phục hồi dữ liệu.
+Có thể tạo các bản sao lưu định kỳ của cơ sở dữ liệu và khôi phục dữ 
+liệu trong trường hợp xảy ra sự cố.
+SQL Server tích hợp tốt với các công nghệ và sản phẩm 
+khác của Microsoft như .NET Framework, Visual Studio và Azure.
+SQL cung cấp các tập lệnh 
+phong phú cho các công việc thao tác với dữ liệu: Chèn, cập nhật, xóa hàng trong một quan 
+hệ.
+Tạo, thêm, sửa, xóa các đối tượng trong một cơ sở dữ liệu.
+Điều khiển việc truy cập tới cơ 
+sở dữ liệu và các đối tượng của cơ sở dữ liệu, đảm bảo tính bảo mật.
+Đảm bảo tính nhất quán 
+và sự ràng buộc của cơ sở dữ liệu.
+21 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+CHƯƠNG 3: XÂY DỰNG ỨNG DỤNG QUẢN LÝ VẬT LIỆU XÂY DỰNG 
+TRÊN NỀN TẢNG WEB 
+3.1.
+Tổng quan thiết kế 
+3.1.1.
+Xác định các Usecase và Actor 
+Actor 
+Usecase 
+Admin 
+(Người quản lý) 
+Quản lý khách hàng (Thêm, cập nhật, xóa, xem thông tin khách hàng) 
+Quản lý nhân viên (Thêm, cập nhật, xóa, xem thông tin nhân viên) 
+Quản lý đơn hàng (Thêm, cập nhật, xóa, xem thông tin đơn hàng, quản lý 
+chi tiết đơn hàng) 
+Quản lý nguyên vật liệu (Thêm, cập nhật, xóa, xem thông tin nguyên vật 
+liệu) 
+Quản lý nhà cung cấp (Thêm, cập nhật, xóa, xem thông tin nhà cung cấp) 
+Quản lý nhà kho (Thêm, cập nhật, xóa, xem thông tin nhà kho) 
+Thống kê cửa hàng 
+Employee 
+(Nhân viên) 
+Quản lý khách hàng (Thêm và cập nhật thông tin khách hàng) 
+Quản lý đơn hàng (Thêm đơn hàng, cập nhật đơn hàng, thêm chi tiết đơn 
+hàng, cập nhật chi tiết đơn hàng) 
+Quản lý nhà kho (Thêm và cập nhật hàng trong kho) 
+Quản lý nhà cung cấp (Thêm và cập nhật thông tin nhà cung cấp) 
+Quản lý nguyên vật liệu (Thêm và cập nhật thông tin nguyên vật liệu) 
+Bảng 3.
+Xác định Usecase và Actor 
+ 
+ 
+22 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+3.1.2.
+Biểu đồ tổng quát trang quản trị 
+ 
+Hình 3.
+Biểu đồ tổng quát trang quản trị 
+3.1.3.
+Thiết kế biểu đồ chi tiết ca sử dụng 
+23 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Biểu đồ phân rã Usecase Quản lý nhân viên 
+ 
+Hình 3.
+Biểu đồ phân rã Usecase Thông kê 
+24 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Biểu đồ phân rã Usecase Quản lý khách hàng 
+ 
+Hình 3.
+Biểu đồ phân rã Usecase Quản lý đơn hàng 
+25 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Biểu đồ phân rã Usecase Quản lý nhà cung cấp 
+ 
+Hình 3.
+Biểu đồ phân rã Usecase Quản lý vật liệu 
+26 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Biểu đồ phân rã Usecase Quản lý kho 
+3.1.4.
+Thiết kế biểu đồ lớp 
+ 
+Hình 3.
+Biểu đồ lớp thực thể 
+3.3.5.
+Thiết kế biểu đồ tuần tự 
+ 
+27 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Biểu đồ tuần tự chức năng Sửa Vật liệu 
+ 
+ 
+Hình 3.
+Biều đồ tuần tự Xóa vật liệu 
+28 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Biểu đồ tuần tự chức năng Thêm vật liệu 
+ 
+ 
+Hình 3.
+Biểu đồ tuần tự cho chức năng quản lý xuất kho 
+29 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Biểu đồ tuần tự chức năng Đăng nhập 
+3.3.6.
+Thiết kệ biểu đồ hoạt động 
+30 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Biểu đồ hoạt động đăng nhập 
+31 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Biểu đồ hoạt động Đăng xuất 
+3.2.
+UseCase Quản lý khách hàng 
+Tên 
+UseCase 
+Quản lý khách hàng 
+Actor 
+chính 
+Quản trị viên, Nhân viên 
+Mô tả 
+Quản lý thông tin khách hàng bao gồm thêm mới, cập nhật, xóa và xem 
+thông tin chi tiết của khách hàng.
+Usecase Quản lý khách hàng 
+32 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Kịch bản chi tiết 
+Thêm khách hàng 
+mới 
+ 
+Người dùng 
+Quản trị viên, Nhân viên 
+Bước 1 
+Chọn chức năng “Thêm khách hàng mới” từ menu quản lý khách 
+hàng.
+Bước 2 
+Nhập thông tin chi tiết của khách hàng mới (tên, địa chỉ, số điện thoại, 
+email).
+Bước 3 
+Nhấn nút “Lưu” để lưu thông tin khách hàng vào hệ thống.
+Kết quả 
+Hệ thống lưu trữ thông tin khách hàng mới và hiển thị thông báo 
+thành công.
+Usecase chức năng Thêm khách hàng 
+ 
+ 
+33 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Cập nhật thông tin khách 
+hàng 
+ 
+Người dùng 
+Quản trị viên, Nhân viên 
+Bước 1 
+Chọn chức năng “Cập nhật” từ danh sách khách hàng hiện có.
+Bước 2 
+Chỉnh sửa thông tin khách hàng.
+Bước 3 
+Nhấn nút “Lưu” để cập nhật thông tin khách hàng.
+Kết quả 
+Hệ thống cập nhật thông tin khách hàng và hiển thị thông báo 
+thành công.
+Usecase chức năng Cập nhật thông tin khách hàng 
+ 
+Xóa khách hàng 
+ 
+Người dùng 
+Quản trị viên, Nhân viên 
+Bước 1 
+Chọn chức năng “Xóa” từ danh sách khách hàng hiện có.
+Bước 2 
+Xác nhận việc xóa khách hàng.
+Kết quả 
+Hệ thống xóa thông tin khách hàng và hiển thị thông báo thành công.
+Usecase chức năng Xóa khách hàng 
+ 
+ 
+ 
+34 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Xem thông tin chi tiết khách 
+hàng 
+ 
+Người dùng 
+Quản trị viên, Nhân viên 
+Bước 1 
+Chọn chức năng “Xem chi tiết” từ danh sách khách hàng 
+hiện có.
+Bước 2 
+Hệ thống hiển thị thông tin chi tiết của khách hàng.
+Kết quả 
+Người dùng xem thông tin chi tiết của khách hàng.
+Usecase chức năng Xem thông tin khách hàng 
+3.2.2.
+Usecase Quản lý Vật liệu 
+UseCase 
+Quản lý vật liệu 
+Actor 
+chính 
+Quản trị viên, Nhân viên kho 
+Mô tả 
+Quản lý thông tin vật liệu bao gồm thêm mới, cập nhật, xóa và xem thông tin 
+chi tiết của vật liệu.
+Usecase Quản lý vật liệu 
+ 
+Kịch bản chi tiết: 
+Thêm 
+vật 
+liệu 
+mới 
+ 
+Người dùng 
+Quản trị viên, Nhân viên kho 
+Bước 1 
+Chọn chức năng “Thêm vật liệu mới” từ menu quản lý vật liệu.
+35 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Bước 2 
+Nhập thông tin chi tiết của vật liệu mới (tên, mô tả, đơn vị, số lượng, 
+giá).
+Bước 3 
+Nhấn nút “Lưu” để lưu thông tin vật liệu vào hệ thống.
+Kết quả 
+Hệ thống lưu trữ thông tin vật liệu mới và hiển thị thông báo thành 
+công.
+Usecase chức năng Thêm vật liệu 
+Cập nhật thông tin vật 
+liệu 
+ 
+Người dùng 
+Quản trị viên, Nhân viên kho 
+Bước 1 
+Chọn chức năng “Cập nhật” từ danh sách vật liệu hiện có.
+Bước 2 
+Chỉnh sửa thông tin vật liệu.
+Bước 3 
+Nhấn nút “Lưu” để cập nhật thông tin vật liệu.
+Kết quả 
+Hệ thống cập nhật thông tin vật liệu và hiển thị thông báo thành 
+công.
+Usecase chức năng Cập nhật thông tin vật liệu 
+ 
+ 
+ 
+ 
+ 
+36 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Xóa vật liệu 
+ 
+Người dùng 
+Quản trị viên, Nhân viên kho 
+Bước 1 
+Chọn chức năng “Xóa” từ danh sách vật liệu hiện có.
+Bước 2 
+Xác nhận việc xóa vật liệu.
+Kết quả 
+Hệ thống xóa thông tin vật liệu và hiển thị thông báo thành công.
+Usecase chức năng Xóa vật liệu 
+ 
+3.2.3.
+Usecase Quản lý đơn hàng 
+ 
+Tên 
+UseCase 
+Quản lý đơn hàng 
+Actor chính Quản trị viên, Nhân viên bán hàng 
+Mô tả 
+Quản lý đơn hàng bao gồm tạo mới, cập nhật, xóa và xem thông tin chi tiết 
+của đơn hàng.
+Usecase Quản lý đơn hàng 
+Kịch bản chi tiết 
+Tạo đơn hàng mới 
+ 
+Người dùng 
+Quản trị viên, Nhân viên bán hàng 
+Bước 1 
+Chọn chức năng “Tạo đơn hàng mới” từ menu quản lý đơn hàng.
+37 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Bước 2 
+Nhập thông tin chi tiết của đơn hàng (khách hàng, sản phẩm, số 
+lượng, giá, ngày giao).
+Bước 3 
+Nhấn nút “Lưu” để lưu thông tin đơn hàng vào hệ thống.
+Kết quả 
+Hệ thống lưu trữ thông tin đơn hàng mới và hiển thị thông báo thành 
+công.
+Usecase chức năng Tạo đơn hàng 
+ 
+Cập nhật thông tin đơn 
+hàng 
+ 
+Người dùng 
+Quản trị viên, Nhân viên bán hàng 
+Bước 1 
+Chọn chức năng “Cập nhật” từ danh sách đơn hàng hiện có.
+Bước 2 
+Chỉnh sửa thông tin đơn hàng.
+Bước 3 
+Nhấn nút “Lưu” để cập nhật thông tin đơn hàng.
+Kết quả 
+Hệ thống cập nhật thông tin đơn hàng và hiển thị thông báo 
+thành công.
+Usecase chức năng Cập nhật thông tin đơn hàng 
+ 
+Xóa đơn hàng 
+ 
+Người dùng 
+Quản trị viên, Nhân viên bán hàng 
+Bước 1 
+Chọn chức năng “Xóa” từ danh sách đơn hàng hiện có.
+38 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Bước 2 
+Xác nhận việc xóa đơn hàng.
+Kết quả 
+Hệ thống xóa thông tin đơn hàng và hiển thị thông báo thành công.
+Usecase chức năng Xóa đơn hàng 
+3.2.4.
+Usecase Quản lý kho 
+Tên 
+UseCase 
+Quản lý kho 
+Actor chính Quản trị viên, Nhân viên kho 
+Mô tả 
+Quản lý thông tin kho bao gồm thêm mới, cập nhật, xóa và xem thông tin chi 
+tiết của kho.
+Usecase Quản lý kho 
+ 
+Kịch bản chi tiết: 
+Thêm vật tư mới 
+vào kho 
+ 
+Người dùng 
+Quản trị viên, Nhân viên kho 
+Bước 1 
+Chọn chức năng “Thêm vật tư mới” từ menu quản lý kho.
+Bước 2 
+Nhập thông tin chi tiết của vật tư mới (tên, mô tả, đơn vị, số lượng, 
+giá).
+Bước 3 
+Nhấn nút “Lưu” để lưu thông tin vật tư vào hệ thống.
+Kết quả 
+Hệ thống lưu trữ thông tin vật tư mới và hiển thị thông báo thành công.
+Usecase chức năng thêm vật tư kho 
+ 
+ 
+39 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Cập nhật thông tin vật tư 
+trong kho 
+ 
+Người dùng 
+Quản trị viên, Nhân viên kho 
+Bước 1 
+Chọn chức năng “Cập nhật” từ danh sách vật tư hiện có.
+Bước 2 
+Chỉnh sửa thông tin vật tư.
+Bước 3 
+Nhấn nút “Lưu” để cập nhật thông tin vật tư.
+Kết quả 
+Hệ thống cập nhật thông tin vật tư và hiển thị thông báo 
+thành công.
+Usecase chức năng Cập nhật vật liệu trong kho 
+Xóa vật tư khỏi kho 
+ 
+Người dùng 
+Quản trị viên, Nhân viên kho 
+Bước 1 
+Chọn chức năng “Xóa” từ danh sách vật tư hiện có.
+Bước 2 
+Xác nhận việc xóa vật tư.
+Kết quả 
+Hệ thống xóa thông tin vật tư và hiển thị thông báo thành công.
+Usecase chức năng Xóa vật tư trong kho 
+3.2.5.
+Usecase Quản lý nhân viên 
+ 
+ 
+40 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Tên UseCase 
+Quản lý nhân viên 
+Actor chính 
+Quản trị viên 
+Mô tả 
+Quản lý thông tin nhân viên bao gồm thêm mới, cập nhật, xóa và xem thông 
+tin chi tiết của nhân viên.
+Usecase Quản lý nhân viên 
+Kịch bản chi tiết: 
+Thêm nhân viên 
+mới 
+ 
+Người dùng 
+Quản trị viên 
+Bước 1 
+Chọn chức năng “Thêm nhân viên mới” từ menu quản lý nhân viên.
+Bước 2 
+Nhập thông tin chi tiết của nhân viên mới (tên, vị trí, số liên lạc, 
+lương).
+Bước 3 
+Nhấn nút “Lưu” để lưu thông tin nhân viên vào hệ thống.
+Kết quả 
+Hệ thống lưu trữ thông tin nhân viên mới và hiển thị thông báo thành 
+công.
+Usecase chức năng Thêm nhân viên 
+ 
+ 
+41 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Cập nhật thông tin nhân 
+viên 
+ 
+Người dùng 
+Quản trị viên 
+Bước 1 
+Chọn chức năng “Cập nhật” từ danh sách nhân viên hiện có.
+Bước 2 
+Chỉnh sửa thông tin nhân viên.
+Bước 3 
+Nhấn nút “Lưu” để cập nhật thông tin nhân viên.
+Kết quả 
+Hệ thống cập nhật thông tin nhân viên và hiển thị thông báo 
+thành công.
+Usecase chức năng Cập nhật thông tin nhân viên 
+ 
+Xóa nhân viên 
+ 
+Người dùng 
+Quản trị viên 
+Bước 1 
+Chọn chức năng “Xóa” từ danh sách nhân viên hiện có.
+Bước 2 
+Xác nhận việc xóa nhân viên.
+Kết quả 
+Hệ thống xóa thông tin nhân viên và hiển thị thông báo thành công.
+Usecase chức năng Xóa nhân viên 
+ 
+3.2.6.
+Usecase Quản lý nhà cung cấp 
+42 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Tên 
+UseCase 
+Quản lý nhà cung cấp 
+Actor 
+chính 
+Quản trị viên 
+Mô tả 
+Quản lý thông tin nhà cung cấp bao gồm thêm mới, cập nhật, xóa và xem 
+thông tin chi tiết của nhà cung cấp.
+Usecase Quản lý nhà cung cấp 
+Kịch bản chi tiết: 
+Thêm nhà cung cấp 
+mới 
+ 
+Người dùng 
+Quản trị viên 
+Bước 1 
+Chọn chức năng “Thêm nhà cung cấp mới” từ menu quản lý nhà 
+cung cấp.
+Bước 2 
+Nhập thông tin chi tiết của nhà cung cấp mới (tên, địa chỉ, số liên 
+lạc, email).
+Bước 3 
+Nhấn nút “Lưu” để lưu thông tin nhà cung cấp vào hệ thống.
+Kết quả 
+Hệ thống lưu trữ thông tin nhà cung cấp mới và hiển thị thông báo 
+thành công.
+Usecase chức năng Thêm nhà cung cấp 
+ 
+43 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Cập nhật thông tin nhà 
+cung cấp 
+ 
+Người dùng 
+Quản trị viên 
+Bước 1 
+Chọn chức năng “Cập nhật” từ danh sách nhà cung cấp hiện 
+có.
+Bước 2 
+Chỉnh sửa thông tin nhà cung cấp.
+Bước 3 
+Nhấn nút “Lưu” để cập nhật thông tin nhà cung cấp.
+Kết quả 
+Hệ thống cập nhật thông tin nhà cung cấp và hiển thị thông 
+báo thành công.
+Usecase chức năng Cập nhật thông tin nhà cung cấp 
+ 
+Xóa nhà cung cấp 
+ 
+Người dùng 
+Quản trị viên 
+Bước 1 
+Chọn chức năng “Xóa” từ danh sách nhà cung cấp hiện có.
+Bước 2 
+Xác nhận việc xóa nhà cung cấp.
+Kết quả 
+Hệ thống xóa thông tin nhà cung cấp và hiển thị thông báo thành công.
+Usecase chức năng Xóa nhà cung cấp 
+3.3.
+Thiết kế cơ sở dữ liệu 
+ 
+ 
+44 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+3.3.1.
+Xác định thực thể quan hệ 
+ 
+STT 
+Tên thuộc tính 
+Kiểu dữ liệu 
+Ràng buộc 
+Mô tả 
+1 
+CustomerId 
+int 
+Primary Key 
+Khóa chính 
+2 
+CustomerName 
+varchar (255) 
+NOT NULL 
+Tên Khách hàng 
+3 
+Address 
+nvarchar (255) 
+NOT NULL 
+Địa chỉ 
+4 
+ContactNumber 
+nvarchar (20) 
+NOT NULL 
+Số điện thoại 
+Bảng 3.
+Bảng Customers 
+ 
+STT 
+Tên thuộc tính 
+Kiểu dữ liệu 
+Ràng buộc 
+Mô tả 
+1 
+EmployeeId 
+int 
+Primary Key 
+Khóa chính 
+2 
+EmployeeName 
+varchar (255) 
+NOT NULL 
+Tên nhân viên 
+3 
+Position 
+varchar (50) 
+NOT NULL 
+Chức vụ 
+4 
+ContactNumber 
+nvarchar (20) 
+NOT NULL 
+Số điện thoại 
+5 
+ Salary 
+int 
+NOT NULL 
+Lương 
+Bảng 3.
+Bảng Employees 
+ 
+ 
+STT 
+Tên thuộc tính 
+Kiểu dữ liệu 
+Ràng buộc 
+Mô tả 
+1 
+DetailId 
+int 
+Primary Key 
+Khóa chính 
+2 
+IdInvoice 
+varchar (255) 
+NOT NULL 
+Khóa ngoại 
+3 
+IdMaterial 
+nvarchar (255) 
+NOT NULL 
+Khóa ngoại 
+45 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+4 
+Quantity 
+nvarchar (20) 
+NOT NULL 
+Số lượng mua nguyên liệu 
+5 
+UnitPrice 
+decimal (10,2)  
+NOT NULL 
+Giá bán nguyên liệu 
+Bảng 3.
+Bảng InvoiceDetails 
+ 
+STT 
+Tên thuộc tính 
+Kiểu dữ liệu 
+Ràng buộc 
+Mô tả 
+1 
+InvoiceId 
+int 
+Primary Key 
+Khóa chính 
+2 
+IdCustomer 
+int 
+NOT NULL 
+Khóa ngoại 
+3 
+IdEmployees 
+int 
+NOT NULL 
+Khóa ngoại 
+4 
+InvoiceDate 
+nvarchar (30) 
+NOT NULL 
+Ngày xuất đơn 
+5 
+Total 
+int 
+NOT NULL 
+Tổng hóa đơn 
+Bảng 3.
+Bảng Invoices 
+ 
+STT 
+Tên thuộc tính 
+Kiểu dữ liệu 
+Ràng buộc 
+Mô tả 
+1 
+MaterialId 
+int 
+Primary Key 
+Khóa chính 
+2 
+MaterialName 
+int 
+NOT NULL 
+Tên nguyên liệu 
+3 
+Category 
+int 
+NOT NULL 
+Loại nguyên liệu 
+4 
+Description 
+nvarchar (30) 
+NOT NULL 
+Mô tả 
+5 
+Unit 
+int 
+NOT NULL 
+Đơn vị tính 
+6 
+UnitPrice 
+int  
+NOT NULL 
+Giá bán 
+7 
+StockQuantity 
+int  
+ NOT NULL 
+Số lượng kho tồn 
+8 
+hinhAnh 
+nvarchar (MAX) 
+NOT NULL  
+ảnh nguyên liệu 
+9 
+IdSupplier 
+int  
+NOT NULL 
+Khóa ngoại 
+Bảng 3.
+Bảng Materials 
+ 
+46 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+STT 
+Tên thuộc tính 
+Kiểu dữ liệu 
+Ràng buộc 
+Mô tả 
+1 
+SupplierId 
+int 
+Primary Key 
+Khóa chính 
+2 
+SupplierName 
+varchar (225) 
+NOT NULL 
+Tên nhà cung cấp 
+3 
+ContactPerson 
+varchar (225) 
+NOT NULL 
+Người liên hệ 
+4 
+ContactNumber 
+nvarchar (20) 
+NOT NULL 
+Số điện thoại 
+Bảng 3.
+Bảng Suppliers 
+ 
+STT 
+Tên thuộc tính 
+Kiểu dữ liệu 
+Ràng buộc 
+Mô tả 
+1 
+WarehouseId 
+int 
+Primary Key 
+Khóa chính 
+2 
+IdMaterial 
+int 
+NOT NULL 
+Khóa ngoại 
+3 
+Quantity 
+int 
+NOT NULL 
+Số lượng nguyên liệu trong kho 
+Bảng 3.
+Bảng Warehouses 
+ 
+STT 
+Tên thuộc tính 
+Kiểu dữ liệu 
+Ràng buộc 
+Mô tả 
+1 
+CartID 
+int 
+Primary Key 
+Khóa chính 
+2 
+CustomerID 
+int 
+NOT NULL 
+Khóa ngoại 
+3 
+MaterialID 
+int 
+NOT NULL 
+Khóa ngoại 
+4 
+Quantity 
+int 
+NOT NULL 
+Số lượng vật liệu trong giỏ hàng 
+5 
+UnitPrice 
+int 
+NOT NULL 
+Giá bán 
+Bảng 3.
+Bảng ShoppingCart 
+ 
+ 
+47 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+STT 
+Tên thuộc tính 
+Kiểu dữ liệu 
+Ràng buộc 
+Mô tả 
+1 
+UserId 
+int 
+Primary Key 
+Khóa chính 
+2 
+FullName 
+nvarchar (30) 
+NOT NULL 
+Tên người dùng 
+3 
+Email 
+nvarchar (30) 
+NOT NULL 
+Email 
+4 
+PassWord 
+nvarchar (MAX) 
+NOT NULL 
+Mật khẩu 
+5 
+Gender 
+nvarchar (10) 
+NOT NULL 
+Giới tính 
+6 
+Address 
+nvarchar (30) 
+NOT NULL 
+Địa chỉ 
+7 
+PhoneNumber 
+nvarchar (10) 
+ NOT NULL 
+Số điện thoại 
+8 
+Avatar 
+nvarchar (MAX) 
+NOT NULL  
+Ảnh 
+9 
+Role 
+nvarchar (10) 
+NOT NULL 
+Khóa ngoại 
+Bảng 3.
+Bảng User 
+ 
+ 
+48 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+3.3.2.
+Biểu đồ Diagram Database 
+ 
+ 
+Hình 3.
+Biểu đồ Diagram Database 
+3.4.
+Thiết kế chương trình 
+ 3.4.1.
+Kiến trúc hệ thống 
+ Front – end: Sử dụng Vue.js để xây dựng giao diện người dùng.
+Vue.js giúp tạo ra các 
+ứng dụng web đơn trang (SPA) với khả năng tương tác cao và dễ bảo trì.
+Vuetify được 
+sử dụng để cung cấp các component UI hiện đại và thân thiện.
+Customers
+CustomerId
+CustomerName
+Address
+ContactNumber
+Employees
+EmployeeId
+EmployeeName
+Position
+ContactNumber
+Salary
+InvoiceDetails
+DetailId
+IdInvoice
+IdMaterial
+Quantity
+UnitPrice
+Invoices
+InvoiceId
+IdCustomer
+IdEmployees
+InvoiceDate
+Total
+Materials
+MaterialId
+MaterialName
+Category
+Description
+Unit
+UnitPrice
+StockQuantity
+hinhAnh
+IdSupplier
+ShoppingCart
+CartID
+CustomerID
+MaterialID
+Quantity
+UnitPrice
+Suppliers
+SupplierId
+SupplierName
+ContactPerson
+ContactNumber
+User
+UserId
+FullName
+Email
+PassWord
+Gender
+Address
+PhoneNumber
+Avatar
+Role
+Is_Active
+createdBy
+createdAt
+updatedBy
+updatedAt
+deletedBy
+deletedAt
+Warehouses
+WarehouseId
+IdMaterial
+Quantity
+49 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Back – end: Sử dụng ASP.NET Web API để xây dựng các dịch vụ backend.
+ASP.NET 
+Web API cung cấp các API RESTful mạnh mẽ, hỗ trợ tốt cho việc phát triển các ứng 
+dụng web hiện đại.
+ Cơ sở dữ liệu: Sử dụng SQL Server làm hệ quản trị cơ sở dữ liệu, đảm bảo khả năng 
+mở rộng và quản lý dữ liệu hiệu quả 
+3.4.2.
+Thành phần chính hệ thống 
+ Quản lý khách hàng: Cho phép thêm mới, cập nhật, và xóa thông tin khách hàng.
+Các 
+dịch vụ Web API sẽ xử lý các yêu cầu này và trả về kết quả phù hợp.
+ Quản lý vật liệu: Cho phép thêm mới, cập nhật, và xóa thông tin vật liệu xây dựng.
+Dữ liệu vật liệu sẽ được lưu trữ và quản lý trong SQL Server.
+ Quản lý đơn hàng: Xử lý thông tin đơn hàng, bao gồm tạo mới, cập nhật trạng thái, 
+và xóa đơn hàng.
+Các API sẽ đảm bảo tính toàn vẹn và bảo mật thông tin đơn hàng.
+ Quản lý kho: Theo dõi và quản lý tồn kho, bao gồm cập nhật số lượng vật liệu trong 
+kho.
+Hệ thống sẽ cảnh báo khi số lượng vật liệu dưới mức tối thiểu.
+ Quản lý nhân viên: Quản lý thông tin nhân viên, bao gồm thêm mới, cập nhật, và xóa 
+thông tin nhân viên.
+Các quyền truy cập sẽ được phân loại dựa trên vai trò của nhân 
+viên.
+ Quản lý nhà cung cấp: Xử lý thông tin nhà cung cấp, bao gồm thêm mới, cập nhật, 
+và xóa thông tin nhà cung cấp.
+Thiết kế giao diện người dùng 
+50 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Thiết kế giao diện Trang chủ (User) 
+51 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Thiết kế giao diện Dashboard 
+52 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Thiết kế giao diện Quản lý vật liệu 
+53 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Thiết kế giao diện Quản lý nhà cung cấp 
+54 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Hình 3.
+Thiết kế giao diện Cập nhật vật liệu 
+3.4.4.
+Quy trình phát triển 
+ Xác định yêu cầu: Thu thập và phân tích yêu cầu từ khách hàng và người dùng để hiểu 
+rõ nhu cầu.
+ Lập kế hoạch: Xác định phạm vi công việc, thời gian và nguồn lực cần thiết cho từng 
+giai đoạn phát triển.
+55 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Phát triển và kiểm thử: Xây dựng và kiểm thử từng thành phần của hệ thống, đảm 
+bảo chúng hoạt động đúng chức năng và hiệu quả.
+ Triển khai và bảo trì: Đưa hệ thống vào hoạt động chính thức và thực hiện bảo trì, 
+cập nhật khi cần thiết để đảm bảo hệ thống luôn hoạt động ổn định và hiệu quả.
+Mô tả bài toán 
+ 
+Đối diện với sự phát triển không ngừng của ngành xây dựng, quản lý hiệu quả cửa hàng 
+mua bán vật liệu xây dựng trở thành một yếu tố quyết định đối với sự thành công và bền vững 
+của doanh nghiệp trong lĩnh vực này.
+Đề tài “Quản Lý Cửa Hàng Mua Bán Vật Liệu Xây 
+Dựng” được đặt ra với mục tiêu tối ưu hóa quy trình quản lý, từ đặt hàng, quản lý tồn kho cho 
+đến giao nhận, nhằm nâng cao hiệu suất hoạt động và trải nghiệm mua sắm của cửa hàng.
+Bài toán hướng sẽ hướng đến việc cải thiện quy trình quản lý tổng thể của cửa hàng, 
+tập trung vào việc tối ưu hóa các khâu quan trọng như quản lý tồn kho, đặt hàng linh hoạt tự 
+động.
+Các yếu tố đó sẽ tạo nên một cơ sở hạ tầng mạnh mẽ để hỗ trợ các hoạt động hàng ngày 
+của cửa hàng.
+Đối tượng xây dựng 
+ Người quản lý cửa hàng: Đây là người chịu trách nhiêm quản lý toàn bộ hoạt động 
+của cửa hàng mua bán vật liệu xây dựng.
+Người này cần có quyền truy cập và quản 
+lý toàn bộ hệ thống, bao gòm quản lý đơn hàng, tồn kho và nhân viên.
+ Nhân viên bán hàng: Là nhân viên trực tiếp tham gia vào quá trình bán hàng tại cửa 
+hàng.
+Họ cần quyền truy cập để xem và cập nhật thông tin về sản phẩm, xử lý đơn 
+đặt hàng từ khách hàng, và thông tin liên quan đến giao hàng.
+ Nhân viên kho: Đây là nhân viên chịu trách nhiệm quản lý và kiểm soát tồn kho 
+trong cửa hàng.
+Họ cần quyền truy cập để nhập và xuất hàng, kiểm tra và cập nhật 
+thông tin về số lượng tồn kho.
+ Khách hàng: là những người đến cửa hàng để mua sắm vật liệu xây dựng.
+Họ cần 
+có quyền truy cập để xem thông tin sản phẩm, đặt hàng và thực hiện thanh toán.
+56 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+3.5.2.
+Nhu cầu và Yêu cầu 
+ 
+Các đối tượng sử dụng cần thực hiện một số chức năng và nhiệm vụ cụ thể.
+Dưới đây 
+là một số nhu cầu và yêu cầu cơ bản của mỗi đối tượng: 
+ Người quản lý cửa hàng: 
+ Theo dõi hiệu suất kinh doanh: Người quản lý sử dụng hệ thống để xem xét 
+báo cáo và thống kê về doanh số bán hàng, lợi nhuận và các chỉ sổ hiệu suất 
+kinh doanh khác.
+Họ có thể theo dõi tồn kho, doanh thu từ các nguồn khác 
+nhau và đánh giá hiệu quả của chiến lược kinh doanh.
+ Quản lý nhân sự: Người quản lý có thể theo dõi thông tin cá nhân, đánh giá 
+hiệu suất của nhân viên.
+ Người quản lý cũng nắm các quyền quản lý mà nhân viên có.
+ Nhân vên bán hàng:  
+ Quản lý đơn hàng: Nhân viên sẻ dụng hệ thống để tạo và quản lý đơn hàng từ 
+khách hàng.
+Họ có thể xác nhận đơn hàng, cập nhật tình trạng giao hàng và 
+thực hiện các bước cần thiết để đảm bảo quá trình bán hàng diễn ra suôn sẻ.
+ Quản lý nhà cung cấp: Nhân viên có thể thêm mới về nhà cung cấp vào hệ 
+thống và có thể cập nhật thông tin khi có sự thay đổi.
+Nhân viên cũng có thể 
+theo dõi lịch sự giao dịch và đơn hàng với các nhàn cung cấp.
+Họ có thể xem 
+thông tin chi tiết về mỗi đơn đặt hàng và đảm bảo rằng mọi giao dịch diễn ra 
+đúng theo kế hoạch.
+ Quản lý nguyên vật liệu: Nhân viên quản lý cập nhật thông tin về nguyên vật 
+liệu và đảm bảo rằng thông tin này luôn là mới nhất để quản lý tồn kho và đặt 
+hàng.
+Khi nhận hàng từ nhà cung cấp, nhân viên kiểm tra và xác nhận chất 
+lượng của nguyên vật liệu.
+Họ cập nhật thông tin về tình trạng và chất lượng 
+vào hệ thống để theo dõi.
+57 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Nhân viên kho: 
+ Nhân viên có thể theo dõi và kiểm tra số lượng tồn kho, đảm bảo rằng có đủ 
+hàng để đáp ứng nhu cầu của khách hàng và thông báo về tình trạng tồn kho 
+thấp.
+ Khách hàng:  
+ Khách hàng có thể sử dụng hệ thống để đặt hàng trực tuyến và theo dõi tình 
+trạng của đơn hàng.
+Họ nhận được thông báo về quá trình vận chuyển và có 
+thể xem chi tiết về đơn hàng của mình.
+Khách hàng có thể quản lý thông tin cá 
+nhân, địa chỉ giao hàng và theo dõi mua hàng.
+Họ có thể đánh giá và phản hồi 
+về các sản phẩm và dịch vụ.
+Yêu cầu hệ thống 
+Dựa trên mô tả bài toán và các đối tượng sử dụng đã xác định, dưới đây là một số yêu 
+cầu từ hệ thống: 
+3.6.1.
+Quản lý sản phẩm và Nhà cung cấp 
+ Hệ thống cung cấp chức năng quản lý thông tin về sản phẩm, bao gồm tên sản 
+phẩm, mô tả, giá cả và số lượng tồn kho.
+ Phải có khả năng quản lý thông tin về nhà cung cấp, bao gồm tên, địa chỉ và thông 
+tin liên lạc.
+Quản lý đơn hàng và giao hàng 
+ Hệ thống phải hỗ trợ tạo, quản lý và xử lý các đơn đặt hàng từ khách hàng.
+ Phải có chức năng xác nhận và cập nhật trạng thái vận chuyển cho từng đơn hàng.
+ Cần cung cấp thông tin chi tiết về vận chuyển và giao hàng nhận hàng hóa.
+Quản lý tồn kho 
+ Hệ thống phải giúp quản lý số lượng tồn kho của từng sản phẩm.
+58 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Cần cung cấp thông tin về vị trí lưu trữ của sản phẩm trong kho.
+Quản lý nhân viên 
+ Chức năng quản lý thông tin về nhân viên 
+ Cần hỗ trợ quản lý và phân công nhiệm vụ cho nhân viên 
+3.6.5. tính năng tìm kiếm và lọc 
+ Hệ thống cần cung cấp tính năng tìm kiếm và lọc sản phẩm dễ dàng theo các tiêu chi 
+như tên, loại sản phẩm hoặc giá cả.
+ Cần hỗ trợ tìm kiếm nhanh chóng và hiệu quả để tối ưu hóa trải nghiệm người dùng.
+Phân tích yêu cầu người dùng 
+ 
+Phân tích yêu cầu người dùng là một bước quan trọng trong quá trình phát triển hệ 
+thống.
+Nó giúp xác định những gì người dùng mong muốn và cần thiết từ hệ thống, từ đó đảm 
+bảo rằng hệ thống sẽ đáp ứng đúng như cầu cầu mong đợi của họ.
+Phần này sẽ trình bày chi 
+tiết về quá trình phân tích yêu cầu người dùng cho hệ thống quản lý vật liệu xây dựng trên nền 
+tảng web.
+Phương pháp thu thập yêu cầu 
+ 
+Để đảm bảo rằng tôi hiểu rõ các yêu cầu của người dùng, nhiều phương pháp khác nhau 
+đã được thực hiện sử dụng: 
+ Phỏng vấn cá nhân: Gặp gỡ trực tiếp với các nhân viên, quản lý và các 
+bên liên quan để lắng nghe nhu cầu và mong muốn của họ.
+ Bằng câu hỏi: Gửi bảng câu hỏi đến các nhân viên và quản lý để thu thập 
+thông tin một cách có hệ thống.
+ Quan sát thực tế: Theo dõi và ghi chép lại quá trình làm việc hàng ngày 
+của nhân viên để hiểu rõ các quy trình hiện tại và những điểm cần cải tiến.
+Yêu cầu chức năng 
+59 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Các yêu cầu chức năng xác định các chức năng cụ thể mà hệ thống phải cung cấp 
+để đáp ứng nhu cầu người dùng.
+Dưới đây là một số yêu cầu chức năng chính của hệ 
+thống: 
+ Quản lý vật liệu: Hệ thống cần có khả năng quản lý thông tin về vật liệu 
+xây dựng, bao gồm việc thêm, sửa, xóa và tra cứu thông tin vật liệu.
+Mỗi 
+vật liệu cần có thông tin về mã số, tên, số lượng tồn kho, giá cả và nhà 
+cung cấp.
+ Quản lý đơn hàng: Hệ thống cần hỗ trợ quản lý các kho vật liệu, bao gồm 
+việc nhập kho, xuất kho và theo dõi tồn kho.
+Điều này giúp quản lý biết 
+được tình trạng vật liệu trong khô một cách chính xác và kịp thời.
+ Báo cáo và thống kê: Hệ thống phải cung cấp các báo cáo và hệ thống về 
+tình hình vật liệu, bao gồm báo cáo về nhập xuất tồn kho, báo cáo doanh 
+thu và các báo cáo khác theo yêu cầu.
+Các báo cáo này cần có khả năng 
+tùy chỉnh theo nhu cầu cùa người dùng.
+ Quản lý người dùng: Hệ thống cần có khả năng quản lý thông tin người 
+dùng, phân quyền truy cập và bảo mật thông tin.
+Điều này đảm bảo rằng 
+chỉ những người dùng được ủy quyền mới có thể truy cập và thao tác trên 
+hệ thống.
+Yêu cầu phi chức năng 
+ 
+Các yêu cầu phi chức năng xác định các đặc tính và tiêu chuẩn mà hệ thống cần 
+đáp ứng để đảm bảo hoạt động hiệu quả và an toàn:  
+ Hiệu suất: Hệ thống cần hoạt động nhanh chóng và ổn định, đặc biệt là 
+trong các thao tác truy xuất và cập nhật dữ liệu.
+Thời gian phản hồi của hệ 
+thống phải ngắn để đảm bảo trải nghiệm của người dùng tốt.
+60 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Bảo mật: Hệ thống phải đảm bảo an toàn thông tin, bao gồm việc xác thực 
+người dùng, phân quyền truy cập và mã hóa dữ liệu.
+Điều này giúp bảo vệ 
+thông tin nhạy cảm và đảm bảo rằng chỉ những người dùng được ủy quyền 
+mới có thể truy cập vào hệ thống.
+ Khả năng mở rộng: Hệ thống cần có khả năng mở rộng để đáp ứng nhu 
+cầu gia tăng số lượng người dùng và dữ liệu trong tương lai.
+Điều này bao 
+gồm dễ dàng thêm các chức năng và tăng cường hiệu suất hệ thống cần 
+thiết.
+ Tính dễ sử dụng:  Giao diện người dùng cần thân thiện, dễ sử dụng và 
+trực quan.
+Điều này giúp người dùng có thể nhanh chóng làm quen và thao 
+tác trên hệ thống mà không cần nhiều thời gian đào tạo.
+ Tính tương thích: Hệ thống cần tương thích với các thiết bị và trình duyệt 
+web phổ biến hiện nay, đảm bảo rằng người dùng có thể truy cập và sử 
+dụng hệ thống từ nhiều thiết bị khác nhay mà không gặp trở ngại.
+Yêu cầu về trải nghiệm người dùng 
+Trải nghiệm người dùng là một yếu tố quan trọng quyết định sự thành công của 
+hệ thộng.
+Các yêu cầi về trải nghiệm người dùng bao gồm: 
+ Giao diện trực quan: Giao diện cần được thiết kế đơn giản, rõ ràng và dễ 
+hiểu.
+Người dùng cần có thể tìm thấy các chức năng họ cần mà không gặp 
+khó khăn.
+ Tốc độ tải trang nhanh: Hệ thống cần tối ưu hóa đảm bảo rằng các trang 
+web tải nhanh, không gây khó chịu cho người dùng khi chờ đợi.
+ Hỗ trợ khách hàng: Cung cấp hỗ trợ khách hàng một cách nhanh chóng 
+và hiệu quả, bao gồm các tài liệu hướng dẫn sử dụng và hỗ trợ trực tuyến 
+cần thiết.
+61 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+3.7.4.
+Đánh giá và cải tiến liên tục 
+ 
+Quá trình phân tích yêu cầu người dùng không chỉ dừng lại ở giai đoạn đầu mà cần 
+được đánh giá và cải tiến liên tục trong suốt quá trình phát triển và vận hành hệ thống.
+Các 
+bước chính bao gồm:  
+ Thu thập phản hồi người dùng: Sau khi hệ thống được triển khai, tiếp tục thu 
+thập phản hồi từ người dùng để hiểu rõ những vấn đề họ gặp phải và những điểm 
+cần cải tiến.
+ Đánh giá hiệu quả hệ thống: Định kỳ đánh giá hiệu quả của hệ thống dựa trên 
+các chỉ số hiệu suất và phản hồi của người dùng.
+ Cải tiến liên tục: Dựa trên phản hồi và đánh giá, thực hiện các cải tiến cần thiết 
+để nâng cao chất lượng hệ thống và đáp ứng tốt các nhu cầu người dùng.
+Kiểm thử chức năng Đăng nhập 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+1 
+Đăng nhập 
+Người 
+dùng 
+đăng 
+nhập 
+vào hệ 
+thống 
+bằng tài 
+khoản 
+và mật 
+khẩu 
+Xác 
+nhận 
+việc 
+đăng 
+nhập 
+thành 
+công 
+Tài khoản: 
+“admin”; Mật 
+khẩu: 
+“admin123” 
+1.
+Mở 
+trang 
+đăng 
+nhập 
+2.
+Nhập 
+tài 
+khoản 
+và mật 
+khẩu 
+3.
+Nhấn 
+nút 
+đăng 
+nhập 
+Đăng 
+nhập 
+thành 
+công và 
+chuyển 
+đến 
+trang 
+chủ 
+ 
+Đạt 
+ 
+62 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+2 
+Đăng nhập 
+sai tài 
+khoản/mật 
+khẩu 
+Người 
+dùng 
+nhập 
+sai tài 
+khoản 
+hoặc 
+mật 
+khẩu 
+Xác 
+nhận 
+thông 
+báo 
+lỗi khi 
+đăng 
+nhập 
+sai 
+Tài khoản: 
+“admin”; Mật 
+khẩu: 
+“saiMatKhau” 
+1.
+Mở 
+trang 
+đăng 
+nhập 
+2.
+Nhập 
+tài 
+khoản 
+và mật 
+khẩu 
+sai.
+Nhấn 
+nút 
+đăng 
+nhập 
+Hiển thị 
+thông 
+báo lỗi 
+đăng 
+nhập và 
+yêu cầu 
+nhập lại 
+ 
+Đạt 
+3 
+Đăng xuất 
+Người 
+dùng 
+đăng 
+xuất 
+khỏi hệ 
+thống 
+Xác 
+nhận 
+việc 
+đăng 
+xuất 
+thành 
+công 
+ 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống 
+2.
+Nhấn 
+nút 
+đăng 
+xuất 
+Đăng 
+xuất 
+thành 
+công và 
+trở về 
+trang 
+đăng 
+nhập 
+ 
+Đạt 
+Bảng 3.
+Kiểm thử chức năng Đăng nhập 
+ 
+3.8.2.
+Kiểm thử chức năng Quản lý vật liệu 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+1 
+Thêm vật 
+liệu mới 
+Thêm 
+thông 
+Xác 
+nhận 
+Tên: “Xi 
+măng”; Mô tả: 
+1.
+Đăng 
+Thông 
+tin vật 
+ 
+Đạt 
+ 
+63 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+tin vật 
+liệu 
+mới 
+vào hệ 
+thống 
+việc 
+thêm 
+mới 
+vật 
+liệu 
+thành 
+công 
+“Xi măng loại 
+A”; Đơn vị: 
+“Bao”; Số 
+lượng: 100; 
+Giá: 50000 
+nhập 
+vào hệ 
+thống 
+2.
+Truy 
+cập 
+chức 
+năng 
+thêm 
+vật 
+liệu 
+3.
+Nhập 
+dữ 
+liệu 
+kiểm 
+thử.4.
+Nhấn 
+lưu 
+liệu mới 
+được 
+lưu trữ 
+thành 
+công 
+2 
+Xóa vật 
+liệu 
+Xóa vật 
+liệu 
+khỏi hệ 
+thống 
+Xác 
+nhận 
+việc 
+xóa 
+vật 
+liệu 
+thành 
+công 
+Tên: “Xi 
+măng” 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống 
+2.
+Truy 
+cập 
+chức 
+năng 
+xóa 
+vật 
+liệu 
+3.
+Chọn 
+vật 
+liệu 
+Thông 
+tin vật 
+liệu 
+được 
+xóa 
+thành 
+công 
+ 
+Đạt 
+64 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+cần 
+xóa 
+4.
+Nhấn 
+xóa 
+3 
+Xem danh 
+sách vật 
+liệu 
+Xem 
+danh 
+sách 
+các vật 
+liệu 
+trong 
+hệ 
+thống 
+Xác 
+nhận 
+hiển 
+thị 
+danh 
+sách 
+vật 
+liệu 
+chính 
+xác 
+ 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+xem 
+danh 
+sách 
+vật 
+liệu 
+Hiển thị 
+danh 
+sách các 
+vật liệu 
+trong hệ 
+thống 
+ 
+Đạt 
+4 
+Tìm kiếm 
+vật liệu 
+Tìm 
+kiếm 
+vật liệu 
+theo tên 
+loại vật 
+liệu 
+Xác 
+nhận 
+chức 
+năng 
+tìm 
+kiếm 
+hoạt 
+động 
+đúng 
+Tên: “Xi 
+măng” 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+tìm 
+kiếm 
+vật 
+liệu.
+Nhập 
+tên vật 
+Hiển thị 
+thông 
+tin vật 
+liệu “Xi 
+măng” 
+ 
+Đạt 
+65 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+liệu 
+cần 
+tìm 
+kiếm.
+Nhấn 
+tìm 
+kiếm 
+Bảng 3.
+Kiểm thử chức năng Quản lý vật liệu 
+3.8.3.
+Kiểm thử chức năng Quản lý kho 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+1 
+Thêm vật 
+tư mới vào 
+kho 
+Thêm 
+thông 
+tin vật 
+tư mới 
+vào kho 
+Xác 
+nhận 
+việc 
+thêm 
+mới 
+vật tư 
+thành 
+công 
+Tên: “Gạch”; 
+Mô tả: “Gạch 
+đỏ”; Đơn vị: 
+“Viên”; Số 
+lượng: 1000; 
+Giá: 2000 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+thêm 
+vật tư 
+vào.
+Nhập 
+dữ 
+liệu 
+kiểm 
+thử.
+Nhấn 
+lưu 
+Thông 
+tin vật 
+tư mới 
+được 
+lưu trữ 
+thành 
+công 
+ 
+Đạt 
+ 
+66 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+2 
+Cập nhật 
+thông tin 
+vật tư 
+Cập 
+nhật 
+thông 
+tin vật 
+tư hiện 
+có 
+trong 
+kho 
+Xác 
+nhận 
+việc 
+cập 
+nhật 
+thông 
+tin vật 
+tư 
+thành 
+công 
+Tên: “Gạch”; 
+Số lượng: 
+1200; Giá: 
+2200 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+cập 
+nhật 
+vật tư.
+Chọn 
+vật tư 
+cần 
+cập 
+nhật.
+Nhập 
+dữ 
+liệu 
+kiểm 
+thử.
+Nhấn 
+lưu 
+Thông 
+tin vật 
+tư được 
+cập nhật 
+thành 
+công 
+ 
+Đạt 
+3 
+Xóa vật tư 
+khỏi kho 
+Xóa vật 
+tư khỏi 
+kho 
+Xác 
+nhận 
+việc 
+xóa 
+vật tư 
+thành 
+công 
+Tên: “Gạch” 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+Thông 
+tin vật 
+tư được 
+xóa 
+thành 
+công 
+ 
+Đạt 
+67 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+năng 
+xóa 
+vật tư 
+khỏi 
+kho.
+Chọn 
+vật tư 
+cần 
+xóa.
+Nhấn 
+xóa 
+4 
+Xem danh 
+sách vật tư 
+trong kho 
+Xem 
+danh 
+sách 
+các vật 
+tư trong 
+kho 
+Xác 
+nhận 
+hiển 
+thị 
+danh 
+sách 
+vật tư 
+chính 
+xác 
+Tên: “Xi 
+măng” 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+xem 
+danh 
+sách 
+vật tư 
+trong 
+kho 
+Hiển thị 
+danh 
+sách các 
+vật tư 
+trong 
+kho 
+ 
+Đạt 
+Bảng 3.
+Kiểm thử chức năng Quản lý kho 
+ 
+3.8.4.
+Kiểm thử chức năng Quản lý nhân viên 
+68 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+1 
+Thêm 
+nhân viên 
+mới 
+Thêm 
+thông 
+tin 
+nhân 
+viên 
+mới 
+vào hệ 
+thống 
+Xác 
+nhận 
+việc 
+thêm 
+mới 
+nhân 
+viên 
+thành 
+công 
+Tên: “Nguyễn 
+Văn A”; Vị trí: 
+“QL Kho”; Số 
+liên lạc: 
+“0901234567”; 
+Lương: 
+10000000 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+thêm 
+nhân 
+viên.
+Nhập 
+dữ 
+liệu 
+kiểm 
+thử.
+Nhấn 
+lưu 
+Thông 
+tin nhân 
+viên 
+mới 
+được 
+lưu trữ 
+thành 
+công 
+ 
+Đạt 
+ 
+2 
+Cập nhật 
+thông tin 
+nhân viên 
+Cập 
+nhật 
+thông 
+tin 
+nhân 
+viên 
+hiện có 
+Xác 
+nhận 
+việc 
+cập 
+nhật 
+thông 
+tin 
+nhân 
+viên 
+thành 
+công 
+Tên: “Nguyễn 
+Văn A”; 
+Lương: 
+12000000 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+cập 
+nhật 
+nhân 
+viên.
+Thông 
+tin nhân 
+viên 
+được 
+cập nhật 
+thành 
+công 
+ 
+Đạt 
+69 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+3.
+Chọn 
+nhân 
+viên 
+cần 
+cập 
+nhật.
+Nhập 
+dữ 
+liệu 
+kiểm 
+thử.
+Nhấn 
+lưu 
+3 
+Xóa nhân 
+viên 
+Xóa 
+nhân 
+viên 
+khỏi hệ 
+thống 
+Xác 
+nhận 
+việc 
+xóa 
+nhân 
+viên 
+thành 
+công 
+Tên: “Nguyễn 
+Văn A” 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+xóa 
+nhân 
+viên.
+Chọn 
+nhân 
+viên 
+cần 
+xóa.
+Thông 
+tin nhân 
+viên 
+được 
+xóa 
+thành 
+công 
+ 
+Đạt 
+70 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+4.
+Nhấn 
+xóa 
+4 
+Xem danh 
+sách nhân 
+viên 
+Xem 
+danh 
+sách 
+các 
+nhân 
+viên 
+trong 
+hệ 
+thống 
+Xác 
+nhận 
+hiển 
+thị 
+danh 
+sách 
+nhân 
+viên 
+chính 
+xác 
+ 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+xem 
+danh 
+sách 
+nhân 
+viên 
+Hiển thị 
+danh 
+sách các 
+nhân 
+viên 
+trong hệ 
+thống 
+ 
+Đạt 
+Bảng 3.
+Kiểm thử chức năng Quản lý kho 
+3.8.5.
+Kiểm thử chức năng Quản lý nhà cung cấp 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+1 
+Thêm nhà 
+cung cấp 
+mới 
+Thêm 
+thông 
+tin nhà 
+cung 
+cấp 
+mới 
+vào hệ 
+thống 
+Xác 
+nhận 
+việc 
+thêm 
+mới 
+nhà 
+cung 
+cấp 
+thành 
+công 
+Tên: “Công ty 
+ABC”; Địa chỉ: 
+“123 Đường 
+ABC”; Số liên 
+lạc: 
+“0901234567”; 
+Email: 
+“abc@gmail.com” 
+1.
+Đăng 
+nhập 
+vào 
+hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+thêm 
+Thông 
+tin nhà 
+cung 
+cấp mới 
+được 
+lưu trữ 
+thành 
+công 
+ 
+Đạt 
+ 
+71 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+nhà 
+cung 
+cấp.
+Nhập 
+dữ 
+liệu 
+kiểm 
+thử.
+Nhấn 
+lưu 
+2 
+Cập nhật 
+thông tin 
+nhà cung 
+cấp 
+Cập 
+nhật 
+thông 
+tin nhà 
+cung 
+cấp 
+hiện có 
+Xác 
+nhận 
+việc 
+cập 
+nhật 
+thông 
+tin 
+nhà 
+cung 
+cấp 
+thành 
+công 
+Tên: "Công ty 
+ABC"; Số liên 
+lạc: 
+"0987654321" 
+1.
+Đăng 
+nhập 
+vào 
+hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+cập 
+nhật 
+nhà 
+cung 
+cấp.
+Chọn 
+nhà 
+cung 
+cấp 
+cần 
+cập 
+nhật.
+Thông 
+tin nhà 
+cung 
+cấp 
+được 
+cập 
+nhật 
+thành 
+công 
+ 
+Đạt 
+72 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+4.
+Nhập 
+dữ 
+liệu 
+kiểm 
+thử.
+Nhấn 
+lưu 
+3 
+Xóa nhà 
+cung cấp 
+Xóa 
+nhà 
+cung 
+cấp 
+khỏi hệ 
+thống 
+Xác 
+nhận 
+việc 
+xóa 
+nhà 
+cung 
+cấp 
+thành 
+công 
+Tên: "Công ty 
+ABC" 
+1.
+Đăng 
+nhập 
+vào 
+hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+xóa 
+nhà 
+cung 
+cấp.
+Chọn 
+nhà 
+cung 
+cấp 
+cần 
+xóa.
+Nhấn 
+xóa 
+Thông 
+tin nhà 
+cung 
+cấp 
+được 
+xóa 
+thành 
+công 
+ 
+Đạt 
+4 
+Xem danh 
+sách nhà 
+cung cấp 
+Xem 
+danh 
+sách 
+Xác 
+nhận 
+hiển 
+ 
+1.
+Đăng 
+nhập 
+Hiển 
+thị 
+danh 
+ 
+Đạt 
+73 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+các nhà 
+cung 
+cấp 
+trong 
+hệ 
+thống 
+thị 
+danh 
+sách 
+nhà 
+cung 
+cấp 
+chính 
+xác 
+vào 
+hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+xem 
+danh 
+sách 
+nhà 
+cung 
+cấp 
+sách 
+các nhà 
+cung 
+cấp 
+trong 
+hệ 
+thống 
+Bảng 3.
+Kiểm thử chức năng Quản lý nhà cung cấp 
+3.8.6.
+Kiểm thử chức năng Quản lý đơn hàng 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+1 
+Thêm đơn 
+hàng mới 
+Thêm 
+thông 
+tin đơn 
+hàng 
+mới 
+vào hệ 
+thống 
+Xác 
+nhận 
+việc 
+thêm 
+mới 
+đơn 
+hàng 
+thành 
+công 
+Tên khách 
+hàng: "Trần 
+Văn B"; Tên 
+vật liệu: "Xi 
+măng"; Số 
+lượng: 200; 
+Giá: 50000 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+thêm 
+đơn 
+hàng.
+Nhập 
+dữ liệu 
+Thông 
+tin đơn 
+hàng 
+mới 
+được 
+lưu trữ 
+thành 
+công 
+ 
+Đạt 
+ 
+74 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+kiểm 
+thử 
+.4.
+Nhấn 
+lưu 
+2 
+Cập nhật 
+thông tin 
+đơn hàng 
+Cập 
+nhật 
+thông 
+tin đơn 
+hàng 
+hiện có 
+Xác 
+nhận 
+việc 
+cập 
+nhật 
+thông 
+tin 
+đơn 
+hàng 
+thành 
+công 
+Tên khách 
+hàng: "Trần 
+Văn B"; Số 
+lượng: 250 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+cập 
+nhật 
+đơn 
+hàng.3.
+Chọn 
+đơn 
+hàng 
+cần 
+cập 
+nhật.4.
+Nhập 
+dữ liệu 
+kiểm 
+thử.5.
+Nhấn 
+lưu 
+Thông 
+tin đơn 
+hàng 
+được 
+cập nhật 
+thành 
+công 
+ 
+Đạt 
+3 
+Xóa đơn 
+hàng khỏi 
+hệ thống 
+Xác 
+nhận 
+việc 
+xóa đơn 
+hàng 
+thành 
+công 
+Xác 
+nhận 
+việc 
+xóa 
+đơn 
+hàng 
+Tên khách 
+hàng: “Trần 
+Văn B” 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+Thông 
+tin đơn 
+hàng 
+được 
+xóa 
+thành 
+công 
+ 
+Đạt 
+75 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+thành 
+công 
+chức 
+năng 
+xóa 
+đơn 
+hàng.
+Chọn 
+đơn 
+hàng 
+cần 
+xóa.4.
+Nhấn 
+xóa 
+4 
+Xem danh 
+sách các 
+đơn hàng 
+trong hệ 
+thống 
+Xác 
+nhận 
+hiển thị 
+danh 
+sách 
+đơn 
+hàng 
+chính 
+xác 
+Xác 
+nhận 
+hiển 
+thị 
+danh 
+sách 
+nhà 
+cung 
+cấp 
+chính 
+xác 
+ 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+xem 
+danh 
+sách 
+nhà 
+cung 
+cấp 
+Hiển thị 
+danh 
+sách các 
+nhà 
+cung 
+cấp 
+trong hệ 
+thống 
+ 
+Đạt 
+Bảng 3.
+Kiểm thử chức năng Quản lý đơn hàng 
+3.8.7.
+Kiểm thử chức năng Quản lý khách hàng 
+ 
+76 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+1 
+Thêm 
+khách 
+hàng 
+mới 
+Thêm 
+thông 
+tin 
+khách 
+hàng 
+mới 
+vào hệ 
+thống 
+Xác 
+nhận 
+việc 
+thêm 
+mới 
+khách 
+hàng 
+thành 
+công 
+Tên: "Lê Văn C"; 
+Địa chỉ: "123 Đường 
+XYZ"; Số liên lạc: 
+"0901234567"; 
+Email: 
+"levanc@gmail.com" 
+1.
+Đăng 
+nhập 
+vào 
+hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+thêm 
+khách 
+hàng.
+Nhập 
+dữ 
+liệu 
+kiểm 
+thử.4.
+Nhấn 
+lưu 
+Thông 
+tin 
+khách 
+hàng 
+mới 
+được 
+lưu trữ 
+thành 
+công 
+ 
+Đạt 
+ 
+2 
+Cập nhật 
+thông tin 
+khách 
+hàng 
+Cập 
+nhật 
+thông 
+tin 
+khách 
+hàng 
+hiện 
+có 
+Xác 
+nhận 
+việc 
+cập 
+nhật 
+thông 
+tin 
+khách 
+hàng 
+thành 
+công 
+Tên: "Lê Văn C"; Số 
+liên lạc: 
+"0987654321" 
+1.
+Đăng 
+nhập 
+vào 
+hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+cập 
+nhật 
+khách 
+hàng.
+Thông 
+tin 
+khách 
+hàng 
+được 
+cập 
+nhật 
+thành 
+công 
+ 
+Đạt 
+77 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+3.
+Chọn 
+khách 
+hàng 
+cần 
+cập 
+nhật.
+Nhập 
+dữ 
+liệu 
+kiểm 
+thử.
+Nhấn 
+lưu 
+3 
+Xóa 
+khách 
+hàng 
+Xóa 
+khách 
+hàng 
+khỏi 
+hệ 
+thống 
+Xác 
+nhận 
+việc 
+xóa 
+khách 
+hàng 
+thành 
+công 
+Tên: "Lê Văn C" 
+1.
+Đăng 
+nhập 
+vào 
+hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+xóa 
+khách 
+hàng.
+Chọn 
+khách 
+hàng 
+cần 
+xóa.
+Thông 
+tin 
+khách 
+hàng 
+được 
+xóa 
+thành 
+công 
+ 
+Đạt 
+78 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+4.
+Nhấn 
+xóa 
+4 
+Xem 
+danh 
+sách 
+khách 
+hàng 
+Xem 
+danh 
+sách 
+các 
+khách 
+hàng 
+trong 
+hệ 
+thống 
+Xác 
+nhận 
+hiển 
+thị 
+danh 
+sách 
+khách 
+hàng 
+chính 
+xác 
+ 
+1.
+Đăng 
+nhập 
+vào 
+hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+xem 
+danh 
+sách 
+khách 
+hàng 
+Hiển 
+thị 
+danh 
+sách 
+các 
+khách 
+hàng 
+trong 
+hệ 
+thống 
+ 
+Đạt 
+Bảng 3.
+Kiểm thử chức năng Quản lý khách hàng 
+3.8.8.
+Kiểm thử chức năng Quản lý hóa đơn 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+1 
+Thêm hóa 
+đơn mớ 
+Thêm 
+thông 
+tin hóa 
+đơn 
+mới 
+vào hệ 
+thống 
+Xác 
+nhận 
+việc 
+thêm 
+mới 
+hóa 
+đơn 
+thành 
+công 
+Mã hóa đơn: 
+"HD001"; Tên 
+khách hàng: 
+"Lê Văn C"; 
+Tên vật liệu: 
+"Xi măng"; Số 
+lượng: 100; 
+Giá: 50000 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+thêm 
+hóa 
+đơn.
+Thông 
+tin hóa 
+đơn 
+mới 
+được 
+lưu trữ 
+thành 
+công 
+ 
+Đạt 
+ 
+79 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+3.
+Nhập 
+dữ liệu 
+kiểm 
+thử.
+Nhấn 
+lưu 
+2 
+Cập nhật 
+thông tin 
+hóa đơn 
+Cập 
+nhật 
+thông 
+tin hóa 
+đơn 
+hiện có 
+Xác 
+nhận 
+việc 
+cập 
+nhật 
+thông 
+tin 
+hóa 
+đơn 
+thành 
+công 
+Mã hóa đơn: 
+"HD001"; Số 
+lượng: 120 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+cập 
+nhật 
+hóa 
+đơn.
+Chọn 
+hóa đơn 
+cần cập 
+nhật.
+Nhập 
+dữ liệu 
+kiểm 
+thử.5.
+Nhấn 
+lưu 
+Thông 
+tin hóa 
+đơn 
+được 
+cập 
+nhật 
+thành 
+công 
+ 
+Đạt 
+3 
+Xóa hóa 
+đơn 
+Xóa 
+hóa 
+đơn 
+khỏi hệ 
+thống 
+Xác 
+nhận 
+việc 
+xóa 
+hóa 
+đơn 
+thành 
+công 
+Mã hóa đơn: 
+"HD001" 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.2.
+Truy 
+cập 
+chức 
+năng 
+xóa hóa 
+Thông 
+tin 
+khách 
+hàng 
+được 
+xóa 
+thành 
+công 
+ 
+Đạt 
+80 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+Các 
+bước 
+Chức 
+năng 
+Nội 
+dung 
+kiểm 
+thử 
+Mục 
+đích 
+kiểm 
+thử 
+Dữ liệu kiểm 
+thử 
+Các 
+bước 
+kiểm 
+tra 
+Kết 
+quả 
+mong 
+đợi 
+Kết 
+quả 
+thực 
+tế 
+Trạng 
+thái 
+đơn.3.
+Chọn 
+hóa đơn 
+cần 
+xóa.4.
+Nhấn 
+xóa 
+4 
+Xem danh 
+sách hóa 
+đơn 
+Xem 
+danh 
+sách 
+các hóa 
+đơn 
+trong 
+hệ 
+thống 
+Xác 
+nhận 
+hiển 
+thị 
+danh 
+sách 
+hóa 
+đơn 
+chính 
+xác 
+ 
+ 
+1.
+Đăng 
+nhập 
+vào hệ 
+thống.
+Truy 
+cập 
+chức 
+năng 
+xem 
+danh 
+sách 
+hóa đơn 
+Hiển thị 
+danh 
+sách 
+các hóa 
+đơn 
+trong hệ 
+thống 
+ 
+Đạt 
+Bảng 3.
+Kiểm thử chức năng Quản lý đơn hàng.
+81 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ CHƯƠNG 4: KẾT QUẢ ĐỒ ÁN  
+4.1.
+Giao diện Trang chủ 
+ 
+Hình 4.
+Giao diện Trang chủ 
+Giao diện trang chủ của một website bán hàng, là website cung cấp vật liệu xây dựng.
+Khi 
+khách hàng truy cập vào website, đây là trang đầu tiên họ nhìn thấy, giới thiệu tổng quan về 
+thương hiệu và sản phẩm của công ty.
+Các yếu tố chính: 
+ 
+Logo: Logo của công ty với hình ảnh tòa nhà và chữ “DUNO” được đặt ở vị trí trung 
+tâm, tạo điểm nhấn và giúp khách hàng dễ dàng nhận diện thương hiệu.
+ 
+Thông tin liên lạc: Số điện thoại và địa chỉ của công ty được hiển thị ở góc trên bên 
+phải, giúp khách hàng dễ dàng liên lạc với công ty khi cần thiết.
+ 
+Hình ảnh banner: Hình ảnh banner của website với hình ảnh thành phố và một công 
+nhân xây dựng.
+Hình ảnh này mang tính biểu tượng, thể hiện lĩnh vực hoạt động của 
+công ty và tạo cảm giác chuyên nghiệp, uy tín.
+82 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Menu chính: Menu chính của website với các mục: Trang chủ, Giới thiệu, Sản phẩm, 
+Dịch vụ.
+Menu được bố trí ở vị trí dễ nhìn, giúp khách hàng dễ dàng điều hướng đến 
+các trang khác trên website.
+ 
+Hình ảnh sản phẩm: Hiển thị các hình ảnh sản phẩm của công ty.
+Những hình ảnh 
+này được lựa chọn kỹ càng, thu hút sự chú ý của khách hàng và giúp họ dễ dàng hình 
+dung về sản phẩm.
+Giao diện Dashboard 
+ 
+Hình 4.
+Giao diện Dashboard 
+Giao diện này là một phần của một ứng dụng quản lý đơn hàng hoặc đơn đặt hàng, hiển 
+thị thông tin tổng quan về tình trạng đơn hàng.
+Các thành phần chính: 
+ Menu bên trái: Hiển thị các mục menu chính của ứng dụng, bao gồm: 
+ 
+Dashboard 
+ 
+Vật liệu 
+ 
+Nhà cung cấp 
+ 
+Nhân viên 
+83 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Contact 
+ 
+Tracker 
+ Biểu đồ tròn: Hiển thị tỷ lệ đơn hàng đã được duyệt và chưa được duyệt.
+ 
+Don phù hợp: 66.7% 
+ 
+Don chưa duyệt: 33.3% 
+ Bảng thống kê: Hiển thị số lượng đơn hàng theo trạng thái: 
+ 
+Số đơn: 16 
+ 
+Tổng đơn: 20 
+ 
+Don thành công: 10 
+ 
+Don chưa duyệt: 6 
+ Bảng danh sách đơn hàng: Hiển thị thông tin chi tiết về mỗi đơn hàng, bao gồm: 
+ 
+Select: Nút chọn để chọn đơn hàng.
+ 
+Date: Ngày đặt hàng.
+ 
+Name: Tên người đặt hàng.
+ 
+Address: Địa chỉ giao hàng.
+ Chức năng: 
+ 
+Giao diện này cho phép người dùng xem thông tin tổng quan về tình trạng đơn hàng.
+ 
+Người dùng có thể xem chi tiết thông tin của mỗi đơn hàng.
+84 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+4.3.
+Giao diện Admin chức năng Quản lý vật liệu 
+ 
+Hình 4.
+Giao diện Quản lý vật liệu 
+Giao diện này là một phần của ứng dụng quản lý nguyên vật liệu, hiển thị danh sách 
+các loại nguyên vật liệu được sử dụng trong công ty.
+Các thành phần chính: 
+ Tiêu đề: ”Danh sách nguyên vật liệu” được hiển thị ở đầu trang.
+ Nút thêm mới: Biểu tượng dấu cộng (+) ở góc trên bên phải cho phép người dùng 
+thêm loại nguyên vật liệu mới vào danh sách.
+ Menu bên trái: Hiển thị các mục menu chính của ứng dụng, bao gồm: 
+ 
+Dashboard 
+ 
+Vật liệu 
+ 
+Nhà cung cấp 
+ 
+Nhân viên 
+ 
+Contact 
+85 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Tracker 
+Bảng danh sách: 
+ Hiển thị thông tin chi tiết về mỗi loại nguyên vật liệu, bao gồm: 
+ 
+STT: Số thứ tự của loại nguyên vật liệu.
+ 
+Mã nguyên liệu: Mã định danh của loại nguyên vật liệu.
+ 
+Tên nguyên liệu: Tên đầy đủ của loại nguyên vật liệu.
+ 
+Loại nguyên liệu: Loại nguyên vật liệu (ví dụ: thép, gỗ, nhựa...).
+ 
+Mô tả: Mô tả chi tiết về loại nguyên vật liệu, bao gồm thông tin về kích 
+thước, chất liệu, ứng dụng... 
+ 
+Giá bán: Giá bán của loại nguyên vật liệu.
+ 
+Đơn vị tính: Đơn vị tính của giá bán (ví dụ: m2, kg, cuộn...).
+ 
+Số lượng (Kho): Số lượng nguyên vật liệu hiện có trong kho.
+ 
+Nhà cung cấp: Tên nhà cung cấp chính cho loại nguyên vật liệu này.
+ 
+Hình ảnh: Hình ảnh minh họa cho loại nguyên vật liệu.
+ 
+Chức năng: Hai nút chức năng cho phép người dùng: 
+ 
+Chỉnh sửa: Biểu tượng bút chì màu xanh dương để sửa thông tin 
+loại nguyên vật liệu.
+ 
+Xóa: Biểu tượng thùng rác màu đỏ để xóa thông tin loại nguyên 
+vật liệu khỏi danh sách.
+Chức năng: 
+ Giao diện này cho phép người dùng xem danh sách các loại nguyên vật liệu.
+ Người dùng có thể thêm, sửa, hoặc xóa thông tin loại nguyên vật liệu.
+86 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+4.4.
+Giao diện chức năng Quản lý nhân viên 
+ 
+Hình 4.
+Giao diện chức năng Quản lý nhân viên 
+Giao diện này là một phần của ứng dụng quản lý nhân sự, hiển thị danh sách các nhân 
+viên của cửa hàng.
+Các thành phần chính: 
+Tiêu đề: ”Danh sách nhân viên” được hiển thị ở đầu trang.
+ Nút thêm mới: Biểu tượng dấu cộng (+) ở góc trên bên phải cho phép người 
+dùng thêm nhân viên mới vào danh sách.
+ Menu bên trái: Hiển thị các mục menu chính của ứng dụng, bao gồm: 
+ 
+Dashboard 
+ 
+Vật liệu 
+ 
+Nhà cung cấp 
+ 
+Nhân viên 
+ 
+Contact 
+87 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ 
+Tracker 
+Bảng danh sách: 
+Hiển thị thông tin chi tiết về mỗi nhân viên, bao gồm: 
+ STT: Số thứ tự của nhân viên.
+ Mã nhân viên: Mã định danh của nhân viên.
+ Tên nhân viên: Tên đầy đủ của nhân viên.
+ Chức vụ: Chức danh công việc của nhân viên.
+ Số điện thoại: Số điện thoại liên lạc của nhân viên.
+ Lương: Mức lương của nhân viên.
+ Chức năng: Hai nút chức năng cho phép người dùng: 
+ 
+Chỉnh sửa: Biểu tượng bút chì màu xanh dương để sửa thông tin nhân 
+viên.
+ 
+Xóa: Biểu tượng thùng rác màu đỏ để xóa thông tin nhân viên khỏi danh 
+sách.
+Chức năng: 
+ Giao diện này cho phép người dùng xem danh sách các nhân viên.
+ Người dùng có thể thêm, sửa, hoặc xóa thông tin nhân viên.
+88 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+4.5.
+Giao diện chức năng Quản lý nhà cung cấp 
+ 
+Hình 4.
+Giao diện chức năng Quản lý nhà cung cấp 
+Bảng danh sách nhà cung cấp hiển thị đầy đủ thông tin cần thiết về mỗi đối tác, bao 
+gồm: 
+ STT: Số thứ tự nhà cung cấp giúp dễ dàng theo dõi và quản lý.
+ Mã NCC: Mã định danh duy nhất của mỗi nhà cung cấp, giúp phân biệt và quản lý 
+thông tin một cách chính xác.
+ Tên NCC: Tên đầy đủ của nhà cung cấp, giúp xác định rõ ràng đối tác cung cấp.
+ Người liên hệ: Tên người liên lạc chính của nhà cung cấp, giúp liên lạc và trao đổi 
+thông tin hiệu quả.
+ Số điện thoại (NCC): Số điện thoại chính thức của nhà cung cấp, giúp liên lạc 
+nhanh chóng và thuận tiện.
+Chức năng đa dạng, linh hoạt: 
+Giao diện cung cấp các chức năng quản lý thông tin nhà cung cấp linh hoạt: 
+89 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Thêm nhà cung cấp mới: Nút “Thêm mới” (+) cho phép người dùng dễ dàng bổ 
+sung thông tin nhà cung cấp mới vào danh sách.
+ Chỉnh sửa thông tin: Nút “Chỉnh sửa” (biểu tượng bút chì) cho phép người dùng 
+cập nhật thông tin nhà cung cấp khi có thay đổi.
+ Xóa thông tin: Nút “Xóa” (biểu tượng thùng rác) cho phép người dùng xóa thông 
+tin nhà cung cấp khỏi danh sách khi không còn cần thiết.
+Giao diện chức năng Cập nhật vật liệu 
+ 
+Hình 4.
+Giao diện Cập nhật thông tin vật liệu 
+Giao diện này là một phần của một ứng dụng quản lý kho vật liệu, cho phép người dùng 
+cập nhật thông tin về một loại vật liệu cụ thể.
+Các phần chính: 
+90 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Tiêu đề: ”Cập nhật vật liệu” hiển thị ở đầu giao diện, cho biết chức năng chính của 
+giao diện.
+ Thông tin vật liệu: 
+ 
+ID Vật liệu: Hiển thị mã số nhận dạng của vật liệu, trong trường hợp này là 
+1.
+ 
+Tên Vật liệu: Hiển thị tên của vật liệu, có thể là “CUỘN KẼM XẢ BĂNG”.
+ 
+Loại nguyên liệu: Hiển thị loại nguyên liệu của vật liệu, trong trường hợp 
+này là “Thép”.
+ 
+Mô tả: Hiển thị mô tả chi tiết về vật liệu, trong trường hợp này là “Gia công 
+xà bằng thép tấm cuộn”.
+ 
+Đơn vị tính: Hiển thị đơn vị tính của vật liệu, trong trường hợp này là 
+“cuộn”.
+ 
+Giá bán: Hiển thị giá bán của vật liệu, trong trường hợp này là 200000.
+ 
+Số lượng kho: Hiển thị số lượng vật liệu hiện có trong kho, trong trường 
+hợp này là 100.
+ 
+Nhà cung cấp: Hiển thị mã số nhà cung cấp vật liệu, trong trường hợp này 
+là 3.
+ Hình ảnh: Hiển thị hình ảnh minh họa cho vật liệu.
+ Nút: 
+ 
+Hủy: Nút để hủy bỏ thao tác cập nhật.
+ 
+Lưu: Nút để lưu thông tin cập nhật.
+91 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+KẾT LUẬN 
+ 
+Qua quá trình thực hiện và hoàn thiện đồ án “Xây dựng ứng dụng quản lý vật liệu xây 
+dựng trên nền tảng web”, tôi đã có cơ hội áp dụng những kiến thức đã học vào thực tiễn, đồng 
+thời tiếp thêm nhiều kỹ năng mới, quan trọng trong lĩnh vực phát triển phần mềm.
+Kết quả đạt được 
+ 
+ Ứng dụng quản lý vật liệu xây dựng trên nền tảng web đã được xây dựng và triển khai 
+thành công với các chức năng chính bao gồm: quản lý kho hàng, quản lý đơn hàng, thống kê 
+và báo cáo, cùng với giao diện người dùng thân thiện và dễ sử dụng.
+Ứng dụng đã được kiểm 
+thử và đánh giá trong môi trường thực tế, cho thấy hiệu quả và tính ổn định cao.
+ Quản lý kho hàng: Cho phép người dùng theo dõi số lượng, tình trạng và vị trí 
+của các loại vật liệu trong kho.
+Hệ thống tự động cập nhật thông tin khi có sự 
+thay đổi, giúp người quản lý dễ dàng kiểm soát và điều chỉnh kho hàng.
+ Quản lý đơn hàng: Tích hợp chức năng tạo, theo dõi và quản lý các đơn hàng, 
+từ khâu đặt hàng, giao nhận đến khi hoàn tất.
+Hệ thống hỗ trợ thông báo và nhắc 
+nhở, đảm bảo các đơn hàng được xử lý đúng thời hạn.
+ Thống kê và báo cáo: Cung cấp các báo cáo chi tiết và tình hình kho hàng, 
+doanh số bán hàng, và hiệu suất làm việc.
+Người dùng có thể dễ dàng truy cập 
+và phân tích dữ liệu để đưa ra các quyết định kinh doanh hiệu quả.
+Đánh giá ưu điểm và nhược điểm 
+2.1.
+Ưu điểm 
+ Tăng cường hiệu suất quản lý: Ứng dụng giúp các doanh nghiệp xây dựng quản 
+lý vật liệu một cách khoa học và hiệu quả, giảm thiểu thời gian và công sức trong 
+việc theo dõi và điều chỉnh kho hàng.
+ Tiết kiệm chi phí: Nhờ việc quản lý chặt chẽ và chính xác, doanh nghiệp có thể 
+giảm thiểu lãng phí vật liệu, tối ưu hóa nguồn lực và tiết kiệm chi phí.
+92 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+ Nâng cao khả năng cạnh tranh: Hệ thống giúp doanh nghiệp nâng cao khả năng 
+cạnh tranh nhờ vào việc cải thiện quy trình làm việc, đáp ứng nhanh chóng và chính 
+xác các yêu cầu từ khách hàng.
+2.2 Nhược điểm 
+ Phụ thuộc vào công nghệ: Ứng dụng dựa trên công nghệ web, do đó đòi hỏi hệ 
+thống hạ tầng mạng phải ổn định.
+Bất kỳ sự cố kỹ thuật nào cũng có thể ảnh hưởng 
+đến hoạt động của hệ thống.
+ Đòi hỏi kỹ năng sử dụng: Người dùng cần có kiến thức cơ bản về công nghệ thông 
+tin để sử dụng hệ thống hiệu quả.
+Điều này có thể là rào cản đối với một số nhân 
+viên không quen thuộc với công nghệ.
+Hướng phát triển 
+ 
+Để nâng cao và mở rộng tính năng của ứng dụng, các hướng phát triển sau đây sẽ được 
+xem xét: 
+ Tích hợp trí tuệ nhân tạo (AI): Sử dụng AI để phân tích dữ liệu và dự đoán nhu 
+cầu vật liệu, giúp doanh nghiệp có thể chuẩn bị tốt hơn và tối ưu hóa quá trình mua 
+hàng.
+ Phát triển phiên bản di động: Tạo ra phiên bản ứng dụng di động để người dùng 
+có thể quản lý và theo dõi tình trạng kho hàng mọi lúc, mọi nơi.
+ Mở rộng tính năng báo cáo: Cải thiện và đa dạng hóa các báo cáo, cung cấp cái 
+nhìn sâu sắc và toàn diện hơn về tình hình kinh doanh và quản lý vật liệu.
+ Tăng cường bảo mật: Nâng cấp các tính năng bảo mật để bảo vệ dữ liệu quan 
+trọng của doanh nghiệp khỏi các mối đe dọa an ninh mạng.
+93 
+ 
+Lớp CNTT 14-03 
+ 
+ 
+DANH SÁCH TÀI LIỆU THAM KHẢO 
+1.
+Tài liệu từ internet: 
+ Microsoft Docs (2023), “ASP.NET Core Documentation”,  
+https://docs.microsoft.com/en-us/aspnet/core/.
+ Vue.js Documentation (2023), “The Progressive JavaScript Framework”, 
+https://vuejs.org/.
+ Vuetify Documentation (2023), “Material Design Component Framework”, 
+https://vuetifyjs.com/.
+851
+

@@ -1,0 +1,2910 @@
+Số lượng file PDF: 12
+
+
+File: Bài cuối kỳ môn phương pháp nghiên cứu khoa học - nhóm 2.pdf
+TRƯỜNG ĐẠI HỌC ĐẠI NAM 
+KHOA KẾ TOÁN 
+ 
+ 
+TIỂU LUẬN  
+HỌC PHẦN: PHƯƠNG PHÁP NGHIÊN CỨU KHOA HỌC 
+ 
+Đề tài: Các nhân tố ảnh hưởng đến ý định khởi nghiệp của sinh viên 
+khối ngành kinh tế, Trường Đại học Đại Nam 
+ 
+ 
+ 
+Giảng viên hướng dẫn  
+: 
+Sinh viên/Nhóm thực hiện: 
+Lớp: KT17-01 
+Vũ Đức Năng 
+Nguyễn Hồng Huế/Nhóm 02 
+Ngô Thu Huế/ Nhóm 02 
+Ngô Yến Nhi/ Nhóm 02 
+Nguyễn Nhật Ninh/ Nhóm 02 
+Nguyễn Thị Nguyệt/ Nhóm 02 
+ 
+  
+ 
+Hà Nội, năm 2024 
+NHÓM SINH VIÊN THỰC HIỆN 
+STT 
+Họ và tên 
+MSV 
+Lớp 
+Nhiệm vụ 
+% đóng 
+góp vào 
+bài 
+1 
+Nguyễn Hồng Huế 
+1774030058 KT17-01 
+Chương 2, 
+chạy SPSS, 
+lấy mẫu khảo 
+sát 
+100 
+2 
+Ngô Thu Huế 
+1774030061 KT17-01 Chương 1, lấy 
+mẫu khảo sát 
+97 
+3 
+Ngô Yến Nhi 
+1774030140 KT17-01 
+Chương 3 và 
+phần kết luận, 
+lấy mẫu khảo 
+sát 
+97 
+4 
+Nguyễn Nhật Ninh 
+1774030144 KT17-01 
+Chương 2, 
+chạy SPSS, 
+lấy mẫu khảo 
+sát 
+100 
+5 
+Nguyễn Thị Nguyệt 
+1774030138 KT17-01 Phần mở đầu, 
+lấy mẫu khảo 
+sát 
+97 
+ 
+ 
+ 
+ 
+ 
+ 
+NHẬN XÉT 
+(Của giảng viên hướng dẫn) 
+ .....................................................................................................................................  
+ .....................................................................................................................................  
+ .....................................................................................................................................  
+ .....................................................................................................................................  
+ 
+ 
+Ngày … tháng … năm 20… 
+ 
+CÁN BỘ CHẤM THI 1 
+(Ký ghi rõ họ tên) 
+ 
+CÁN BỘ CHẤM THI 2 
+(Ký ghi rõ họ tên) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+STT 
+MSV 
+Họ và tên 
+Lớp 
+Điểm 
+Điểm số  Điểm chữ 
+1.
+1774030058 Nguyễn Hồng Huế 
+KT17-01 
+ 
+ 
+2.
+1774030061 Ngô Thu Huế 
+KT17-01 
+ 
+ 
+3.
+1774030140 
+Ngô Yến Nhi 
+KT17-01 
+ 
+ 
+4.
+1774030144 Nguyễn Nhật Ninh 
+KT17-01 
+ 
+ 
+5.
+1774030138 
+Nguyễn Thị 
+Nguyệt 
+KT17-01 
+ 
+ 
+MỤC LỤC 
+PHẦN 1: MỞ ĐẦU .............................................................................................. 1 
+1.
+Lý do tiến hành nghiên cứu ............................................................................ 1 
+2.
+Mục tiêu nghiên cứu....................................................................................... 2 
+3.
+Nhiệm vụ nghiên cứu ..................................................................................... 2 
+4.
+Đối tượng và phạm vi nghiên cứu .................................................................. 2 
+5.
+Phương pháp nghiên cứu................................................................................ 2 
+6.
+Kết cấu của nghiên cứu .................................................................................. 3 
+PHẦN 2: NỘI DUNG .......................................................................................... 4 
+CHƯƠNG 1.
+CƠ SỞ LÝ LUẬN VỀ Ý ĐỊNH KHỞI NGHIỆP CỦA SINH 
+VIÊN ..................................................................................................................... 4 
+1.1.
+Lý luận chung về ý định khởi nghiệp của sinh viên ................................... 4 
+1.1.1.
+Ý định khởi nghiệp ............................................................................... 4 
+1.1.2.
+Ý định khởi nghiệp của sinh viên ......................................................... 4 
+1.2.
+Các nhân tố ảnh hưởng tới ý định khởi nghiệp của sinh viên .................... 5 
+   1.2.1.
+Nghiên cứu của tác giả Nguyễn Văn Định, Cao Thị Sen ..................... 5 
+1.2.2.
+Nghiên cứu của tác giả Trần Ngọc Anh, Nguyễn Anh Tú, Nguyễn 
+Thùy Linh ........................................................................................................ 5 
+1.2.3.Nghiên cứu của tác giả Phạm Quang Tín .............................................. 5 
+1.3.
+Mô hình và bảng hỏi nghiên cứu ................................................................ 6 
+1.3.1.
+Mô hình nghiên cứu .............................................................................. 6 
+1.3.2.
+Bảng hỏi nghiên cứu ............................................................................. 6 
+CHƯƠNG 2.
+PHÂN TÍCH THỰC TRẠNG Ý ĐỊNH KHỞI NGHIỆP CỦA 
+SINH VIÊN KHỐI NGÀNH KINH TẾ, TRƯỜNG ĐẠI HỌC ĐẠI NAM .
+Giới thiệu chung về khối ngành kinh tế, Trường Đại học Đại Nam ........ 10 
+2.1.1.
+Khái quát chung về nhà trường và khối ngành kinh tế ....................... 10 
+2.1.2.
+Giới thiệu về sinh viên khối ngành kinh tế ......................................... 11 
+2.1.3.
+Giới thiệu về cỡ mẫu khảo sát ............................................................ 11 
+2.2.
+Thực trạng ý định khởi nghiệp của sinh viên khối ngành kinh tế, Trường 
+Đại học Đại Nam (biến phụ thuộc) .................................................................. 12 
+2.3.
+Thực trạng các nhân tố ảnh hưởng đến ý định khởi nghiệp của sinh viên 
+khối ngành kinh tế, Trường Đại học Đại Nam (biến độc lập) ......................... 13 
+2.3.1.
+Nhân tố thái độ đối với hành vi .......................................................... 13 
+2.3.2.
+Nhân tố quy chuẩn chủ quan ............................................................... 14 
+2.3.3.
+Nhân tố giáo dục khởi nghiệp ............................................................. 15 
+2.3.4.
+Nhân tố kinh nghiệm ........................................................................... 15 
+2.3.5.
+Nhân tố đặc điểm tính cách ................................................................. 16 
+2.3.6.
+Nhân tố nguồn vốn .............................................................................. 16 
+2.4.
+Mức độ và chiều hướng tác động của các nhân tố đến ý định khởi nghiệp 
+của sinh viên khối ngành kinh tế, Trường Đại học Đại Nam .......................... 17 
+2.4.1.
+Phân tích nhân tố khám phá EFA ....................................................... 17 
+2.4.2.
+Kiểm định độ tin cậy của thang đo ..................................................... 29 
+2.4.3.
+Phân tích hồi quy tuyến tính ............................................................... 32 
+CHƯƠNG 3.
+GIẢI PHÁP THÚC ĐẨY Ý ĐỊNH KHỞI NGHIỆP CỦA 
+SINH VIÊN KHỐI NGÀNH KINH TẾ, TRƯỜNG ĐẠI HỌC ĐẠI NAM .
+Giải pháp về thái độ đối với hành vi ......................................................... 34 
+3.2.
+Giải pháp về quy chuẩn chủ quan ............................................................. 34 
+3.3.
+Giải pháp về giáo dục khởi nghiệp ........................................................... 34 
+3.4.
+Giải pháp về kinh nghiệm ......................................................................... 34 
+3.5.
+Giải pháp về đặc điểm tính cách ............................................................... 34 
+3.6.
+Giải pháp về nguồn vốn ............................................................................ 35 
+KẾT LUẬN ........................................................................................................ 36 
+TÀI LIỆU THAM KHẢO ................................................................................ 37 
+PHỤ LỤC DỮ LIỆU ......................................................................................... 38 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+PHẦN 1: MỞ ĐẦU 
+1.
+Lý do tiến hành nghiên cứu 
+Vấn đề việc làm luôn là vấn đề nóng của sinh viên khi ra trường, không chỉ 
+riêng trong nước mà là trên toàn thế giới.
+Đặc biệt lưu tâm hơn, trong thời kỳ 
+suy thoái kinh tế thì vấn nạn thất nghiệp càng gia tăng.
+Nhiều sinh viên chưa 
+định hướng được việc lựa chọn chính xác nghề nghiệp sau khi ra trường là gì.
+Đối với sinh viên khối ngành kinh tế, do đặc thù của ngành là đào tạo kiến thức 
+và kỹ năng về quản lý doanh nghiệp mang tính hệ thống nên ý định khởi nghiệp 
+của sinh viên theo học ngành có phần đáng chú ý hơn.
+Thực trạng sinh viên tốt 
+nghiệp ra trường không có việc làm hay làm trái ngành không còn gì là xa lạ đối 
+với xã hội.
+Trong nhiều năm gần đây, việc thúc đẩy khởi nghiệp đã trở thành 
+mục tiêu quan trọng việc giảm thiểu thất nghiệp của nhiều nước trên thế giới.
+Năm 2016, Chính phủ đã ban hành đề án "Hỗ trợ hệ sinh thái khởi nghiệp đổi 
+mới sáng tạo quốc gia đến năm 2025" và lấy luôn năm 2016 là năm " quốc gia 
+khởi nghiệp" .
+Hàng loạt chương trình được tổ chức để khuyến khích và hỗ trợ 
+sinh viên khởi nghiệp như: Thương vụ bạc tỷ, Khởi nghiệp quốc gia, Chương 
+trình Startuo Wheel,... Nhờ Nhà nước khích lệ, nhiều chương trình và phần thi 
+mở ra với nguồn vốn và giải thưởng hấp dẫn.
+Theo trang VnEconomy, số thanh 
+niên thất nghiệp năm 2023 là khoảng 437,3 nghìn người; chiếm 41,3% trên tổng 
+số người thất nghiệp.
+Tỷ lệ thất nghiệp của thanh niên năm 2023 là 7,63%;đã 
+giảm 0,15% so với năm trước.
+Đã có rất nhiều bài nghiên cứu về các nhân tố ảnh 
+hưởng đến ý định khởi nghiệp của sinh viên như: Ý định khởi nghiệp của sinh 
+viên Trường Đại học Tài chính - Marketing của tác giả Nguyễn Thị Hải Bình 
+năm 2021 cho thấy có 6 nhân tố ảnh hưởng đến ý định khởi nghiệp của sinh 
+viên, cụ thể là: Hỗ trợ từ gia đình và bạn bè, năng lực của sinh viên, hệ sinh thái 
+khởi nghiệp, động lực, nhận thức, thái độ.
+Năm 2022 tác giả Nguyễn Văn Định 
+nghiên cứu về các nhân tố ảnh hưởng đến ý định khởi nghiệp của sinh viên 
+Trường Đại học Nam Cần Thơ cho thấy có 5 yếu tố chính đó là: đặc điểm tính 
+cách, thái độ đối với hành vi khởi nghiệp, môi trường giáo dục, nhận thức kiểm 
+soát hành vi, nguồn vốn.
+Nhưng đến nay vẫn chưa có bài nghiên cứu nào về các 
+ 
+2 
+nhân tố ảnh hưởng đến ý định khởi nghiệp của sinh viên khối ngành kinh tế của 
+Trường Đại học Đại Nam nên nhóm chúng tôi quyết định chọn đề tài này làm 
+bài nghiên cứu.
+Mục tiêu nghiên cứu 
+Các nhân tố ảnh hưởng đến ý định khởi nghiệp của sinh viên khối ngành 
+Kinh tế, Trường Đại học Đại Nam 
+3.
+Nhiệm vụ nghiên cứu 
+Đưa ra các giải pháp thúc đẩy ý định khởi nghiệp của sinh viên khối ngành 
+kinh tế, Trường Đại học Đại Nam 
+4.
+Đối tượng và phạm vi nghiên cứu 
+Đối tượng nghiên cứu: các nhân tố ảnh hưởng đến ý định khởi nghiệp của 
+sinh viên khối ngành kinh tế, Trường Đại học Đại Nam 
+Phạm vi nghiên cứu: 
+- Phạm vi không gian: Trường Đại học Đại Nam 
+- Phạm vi thời gian: 1 tuần kể từ ngày 19/6/2024 đến 2/7/2024 
+- Phạm vi cỡ mẫu: 27*5=135.
+Nhóm đã tiến hành khảo sát 175 người và các 
+phiếu này hợp lệ 
+5.
+Phương pháp nghiên cứu 
+Phương pháp thu thập dữ liệu: Nhóm đã tiến hành khảo sát 175 đối tượng 
+dựa vào công cụ Google From để thu thập dữ liệu 
+Phương pháp phân tích dữ liệu: Nhóm đã sử dụng phương pháp thống kê mô 
+tả, kiểm định Crombach Alpha, phân tích nhân tố khám phá EFA và phương 
+pháp hồi quy để đưa ra kết quả cuối cùng 
+ 
+ 
+ 
+3 
+6.
+Kết cấu của nghiên cứu 
+Ngoài phần mở đầu, kết luận, danh mục tài liệu tham khảo, phụ lục…, bài 
+nghiên cứu gồm 3 chương như sau: 
+Chương 1.
+Cơ sở lý luận về ý định khởi nghiệp của sinh viên 
+Chương 2.
+Phân tích thực trạng ý định khởi nghiệp của sinh viên khối 
+ngành kinh tế, Trường Đại học Đại Nam 
+Chương 3.
+Giải pháp thúc đẩy ý định khởi nghiệp của sinh viên khối 
+ngành kinh tế, Trường Đại học Đại Nam 
+ 
+ 
+ 
+4 
+PHẦN 2: NỘI DUNG 
+CHƯƠNG 1.
+CƠ SỞ LÝ LUẬN VỀ Ý ĐỊNH KHỞI NGHIỆP CỦA SINH VIÊN 
+1.1.
+Lý luận chung về ý định khởi nghiệp của sinh viên 
+1.1.1.
+Ý định khởi nghiệp 
+Theo tác giả Bird (1988) quan niệm ý định khởi nghiệp của một cá nhân 
+là trạng thái tâm trí, trong đó hướng đến việc hình thành một hoạt động kinh 
+doanh hay tạo lập một doanh nghiệp mới 
+Theo tác giả Shapero và Sokol (1982) cho rằng ý định khởi nghiệp là 
+những cá nhân sẵn sàng tiên phong cho việc nắm bắt các cơ hội khởi nghiệp hấp 
+dẫn mà họ nhận biết được.
+Ý định khởi nghiệp sẽ diễn ra nếu một cá nhân có 
+một thái độ tích cực, có suy nghĩ, ý định về hành động đó nó sẽ là tiền đề dẫn 
+đến khởi nghiệp 
+Theo tác giả Zain, Akram và Ghani (2010) cho rằng ý định khởi nghiệp 
+thường liên quan đến nội tâm, hoài bão và cảm giác của cá nhân đối với việc 
+“đứng trên đôi chân của mình” 
+Các khái niệm trên đều làm rõ về ý định khởi nghiệp, nhóm tác giả cũng 
+đồng quan điểm và trong bài nghiên cứu này nhóm sử dụng khái niệm ý định 
+khởi nghiệp của tác giả Shapero và Sokol 
+1.1.2.
+Ý định khởi nghiệp của sinh viên 
+Theo tác giả Wilbard (2009) cho rằng ý định khởi nghiệp của sinh viên là 
+các cá nhân thúc đẩy hoạt động sáng tạo, tính năng động của mình vào nền kinh 
+tế để từ đó áp dụng vào việc giải quyết vấn đề việc làm  
+Theo tác giả Souitaris (2007) ý định khởi nghiệp của sinh viên còn có thể 
+được định nghĩa là sự liên quan đến suy nghĩ quyết định để bắt đầu một công 
+việc kinh doanh của một cá nhân  
+ 
+5 
+Theo tác giả Gupta và Bhawe (2007) ý định khởi nghiệp của sinh viên là 
+quá trình định hướng việc lập kế hoạch và triển khai thực hiện một kế hoạch tạo 
+lập doanh nghiệp trong tương lai 
+1.2.
+Các nhân tố ảnh hưởng tới ý định khởi nghiệp của sinh viên 
+ 1.2.1.
+Nghiên cứu của tác giả Nguyễn Văn Định, Cao Thị Sen 
+Nghiên cứu các nhân tố ảnh hưởng đến ý định khởi nghiệp của sinh viên 
+trường Đại học Cần Thơ.
+Bài nghiên cứu sử dụng phương pháp định tính để xác 
+định mô hình nghiên cứu và định lượng để xác định và đo lường mức ảnh hưởng 
+của các nhân tố đến ý định khởi nghiệp.
+Dữ liệu nghiên cứu được thu thập từ kết 
+quả khảo sát với 310 sinh viên năm ba và năm tư của Khoa Kinh tế và Khoa 
+Kiến trúc-xây dựng và Môi trường.
+Kết quả nghiên cứu cho thấy có 05 yếu tố 
+tác động đến ý định khởi nghiệp của sinh viên theo mức độ giảm dần: tính cách, 
+thái độ với hành vi khởi nghiệp, môi trường giáo dục, nhận thức và nguồn vốn 
+1.2.2.
+Nghiên cứu của tác giả Trần Ngọc Anh, Nguyễn Anh Tú, Nguyễn Thùy 
+Linh 
+Nghiên cứu các nhân tố ảnh hưởng đến ý định khởi nghiệp trong lĩnh vực 
+FINTECH của sinh viên  Khoa Tài chính- Ngân hàng, Trường Đại học Hà Nội.
+Trong nghiên cứu này sử dụng phương pháp thống kê mô tả, Crombach Alpha, 
+EFA và phân tích hồi quy được sử dụng để phân tích dữ liệu thu thập được từ 
+1000 đáp viên là sinh viên của Khoa Tài chính- Ngân hàng, Trường Đại học Hà 
+Nội.
+Kết quả nghiên cứu cho thấy: đặc điểm tính cách, chuẩn chủ quan, nhận 
+thức, kinh nghiệm và môi trường 
+1.2.3.Nghiên cứu của tác giả Phạm Quang Tín 
+Nghiên cứu tác động của nhân khẩu học đến ý định khởi nghiệp kinh 
+doanh của sinh viên khối ngành kinh tế tại thành phố Đà Nẵng.
+Bài nghiên cứu 
+này sử dụng phương pháp kiểm định độ tin cậy thang đo, phân tích nhân tố 
+khám phá EFA, mô hình đa cấu trúc tuyến tính SEM.
+Kết quả nghiên cứu cho 
+ 
+6 
+thấy nhân tố giới tính và đặc điểm kinh tế gia đình tác động trực tiếp, nhân tố 
+khu vực sinh sống vừa tác động trực tiếp vừa tác động gián tiếp thông qua đặc 
+điểm kinh tế gia đình đến ý định khởi nghiệp kinh doanh.
+Mô hình và bảng hỏi nghiên cứu 
+1.3.1.
+Mô hình nghiên cứu  
+ 
+1.3.2.
+Bảng hỏi nghiên cứu 
+1 
+2 
+3 
+4 
+5 
+Rất không 
+đồng ý 
+Không đồng ý 
+Trung lập 
+Đồng ý 
+Rất đồng ý 
+  
+THÁI ĐỘ ĐỐI VỚI HÀNH VI 
+Ý KIẾN ĐÁNH GIÁ 
+TD1 
+Việc trở thành chủ doanh nghiệp đối 
+với anh/chị có lợi hơn bất lợi 
+1 
+2 
+3 
+4 
+5 
+TD2 
+Chủ doanh nghiệp là một nghề rất hấp 
+dẫn đối với anh/chị 
+1 
+2 
+3 
+4 
+5 
+TD3 
+Anh/chị sẽ rất hài lòng khi làm chủ 
+doanh nghiệp 
+1 
+2 
+3 
+4 
+5 
+TD4 
+Trong số các lựa chọn công việc khác 
+nhau, anh/chị thích kinh doanh 
+1 
+2 
+3 
+4 
+5 
+ 
+7 
+  
+QUY CHUẨN CHỦ QUAN 
+Ý KIẾN ĐÁNH GIÁ 
+QC1 
+Gia đình luôn ủng hộ công việc của 
+anh/chị 
+1 
+2 
+3 
+4 
+5 
+QC2 
+Bạn bè luôn ủng hộ công việc của 
+anh/chị 
+1 
+2 
+3 
+4 
+5 
+QC3 
+Những người quan trọng khác đối với 
+anh/chị luôn ủng hộ công việc của 
+anh/chị 
+1 
+2 
+3 
+4 
+5 
+QC4 
+Anh/chị biết nhiều doanh nhân thành 
+công 
+1 
+2 
+3 
+4 
+5 
+QC5 
+Anh/chị rất ngưỡng mộ những doanh 
+nhân thành công 
+1 
+2 
+3 
+4 
+5 
+  
+GIÁO DỤC KHỞI NGHIỆP 
+Ý KIẾN ĐÁNH GIÁ 
+GD1 
+Tại trường đại học, anh/chị được cung 
+cấp những kiến thức cần thiết về kinh 
+doanh 
+1 
+2 
+3 
+4 
+5 
+GD2 
+Tại trường đại học, anh/chị được cung 
+cấp những kỹ năng cần thiết về kinh 
+doanh 
+1 
+2 
+3 
+4 
+5 
+GD3 
+Tại trường đại học, anh/chị được 
+khuyến khích tham gia cuộc thi “Sinh 
+viên khởi nghiệp” 
+1 
+2 
+3 
+4 
+5 
+GD4 
+Anh/chị thường tự học để có kiến thức 
+kinh doanh 
+1 
+2 
+3 
+4 
+5 
+  
+ KINH NGHIỆM 
+Ý KIẾN ĐÁNH GIÁ 
+KN1 
+Anh/chị đã từng làm công việc liên 
+quan đến kinh doanh 
+1 
+2 
+3 
+4 
+5 
+KN2 
+Anh/chị đã từng tham gia công tác quản 1 
+2 
+3 
+4 
+5 
+ 
+8 
+lý (cán bộ lớp, cán bộ Đoàn,…) 
+KN3 
+Anh/chị đã từng là thành viên của câu 
+lạc bộ kinh doanh trong hoặc ngoài nhà 
+trường 
+1 
+2 
+3 
+4 
+5 
+KN4 
+Anh/chị đã từng tham gia các buổi hội 
+thảo về kinh doanh 
+1 
+2 
+3 
+4 
+5 
+  
+ĐẶC ĐIỂM TÍNH CÁCH 
+Ý KIẾN ĐÁNH GIÁ 
+TC1 
+Anh/chị là người dám đối mặt với trở 
+ngại 
+1 
+2 
+3 
+4 
+5 
+TC2 
+Anh/chị là người rất giỏi trong việc xác 
+định các cơ hội 
+1 
+2 
+3 
+4 
+5 
+TC3 
+Anh/chị là người thích tự lập 
+1 
+2 
+3 
+4 
+5 
+  
+NGUỒN VỐN 
+Ý KIẾN ĐÁNH GIÁ 
+NV1 
+Anh/chị có thể vay, mượn tiền từ gia 
+đình và bạn bè 
+1 
+2 
+3 
+4 
+5 
+NV2 
+Anh/chị có thể vay tiền từ các tổ chức 
+tài chính (như ngân hàng, quỹ tín dụng) 
+1 
+2 
+3 
+4 
+5 
+NV3 
+Anh/chị có thể tích lũy vốn từ việc làm 
+thêm hoặc tiết kiệm 
+1 
+2 
+3 
+4 
+5 
+NV4 
+Địa phương anh/chị có các chính sách 
+hỗ trợ vốn cho thanh niên 
+1 
+2 
+3 
+4 
+5 
+  
+Ý ĐỊNH KHỞI NGHIỆP 
+Ý KIẾN ĐÁNH GIÁ 
+YD1 
+Mục tiêu nghề nghiệp của anh/chị là 
+khởi sự kinh doanh 
+1 
+2 
+3 
+4 
+5 
+YD2 
+Anh/chị có mong muốn mạnh mẽ để 
+khởi sự kinh doanh trong tương lai 
+1 
+2 
+3 
+4 
+5 
+YD3 
+Nếu có cơ hội, anh/chị sẽ khởi sự kinh 
+doanh 
+1 
+2 
+3 
+4 
+5 
+ 
+ 
+9 
+Câu hỏi thông tin cá nhân: 
+Câu 1: Giới tính của bạn là  
+1.
+Nữ 
+Câu 2: Bạn đang là sinh viên năm thứ mấy: 
+1.
+Trên năm thứ 4 
+Câu 3: Bạn đang học ngành: 
+1.
+Thương mại điện tử và kinh tế số 
+2.
+Quản trị kinh doanh – marketing 
+3.
+Tài chính ngân hàng 
+Tiểu kết chương 1: Trong chương 1 nhóm đã tìm hiểu những lý luận 
+chung về ý định khởi nghiệp của sinh viên, các nhân tố ảnh hưởng tới ý định 
+khởi nghiệp của sinh viên, mô hình và bảng hỏi nghiên cứu.
+Tiếp theo trong 
+chương 2 nhóm sẽ đi phân tích thực trạng ý định khởi nghiệp của sinh viên khối 
+ngành kinh tế, Trường Đại học Đại Nam 
+ 
+ 
+ 
+10 
+CHƯƠNG 2.
+PHÂN TÍCH THỰC TRẠNG Ý ĐỊNH KHỞI NGHIỆP CỦA 
+SINH VIÊN KHỐI NGÀNH KINH TẾ, TRƯỜNG ĐẠI HỌC ĐẠI NAM  
+2.1.
+Giới thiệu chung về khối ngành kinh tế, Trường Đại học Đại Nam 
+Khối ngành kinh tế của trường Đại học Đại Nam đang là một trong những 
+ngành được săn đón trong nhiều năm nay.
+Với sự phát triển vượt bậc về công 
+nghệ, ngành kinh tế trở thành xu hướng tất yếu trong nền kinh tế của tất cả các 
+quốc gia.
+Đại học Đại Nam đang phát triển theo hướng đa ngành, đa lĩnh vực 
+trong đó khối ngành Kinh tế - Kinh doanh bao gồm: Quản trị kinh doanh, Quản 
+trị nhân lực, Marketing, Kinh doanh quốc tế, Thương mại điện tử, Kinh tế số, 
+Phân tích dữ liệu kinh doanh, Tài chính–Ngân hàng, Công nghệ tài chính 
+(Fintech),  Logistics và quản lý chuỗi cung ứng, Kế toán 
+2.1.1.
+Khái quát chung về nhà trường và khối ngành kinh tế 
+Trường Đại học Đại Nam là trường đại học ứng dụng, phát triển theo định 
+hướng khởi nghiệp và đổi mới sáng tạo, đa ngành, đa lĩnh vực linh hoạt theo yêu 
+cầu phát triển của đất nước và hội nhập quốc tế.
+Hiện tại, Trường Đại học Đại 
+Nam do Tiến sĩ Lê Đắc Sơn là Chủ tịch Hội đồng trường; Phó Giáo sư, Tiến sĩ 
+Phạm Văn Hồng là Hiệu trưởng.
+Với phương châm “Học để thay đổi”.
+Với khối 
+ngành kinh tế của trường Đại học Đại Nam là một môn khoa học xã hội nghiên 
+cứu về việc sản xuất, phân phối và tiêu thụ hàng hóa và dịch vụ.
+Nó cũng khám 
+phá cách xã hội quản lý các nguồn lực khan hiếm.
+Nghiên cứu kinh tế học nhằm 
+giải thích các nền kinh tế vận hành và cách các tác nhân trong nền kinh tế tương 
+tác lẫn nhau.
+Ngành kinh tế là một trong những ngành liên quan mật thiết đến 
+chính trị, xã hội.
+Chương trình học của ngành này tập trung vào việc nghiên cứu 
+và tìm hiểu về các quy luật, cách quản lý và giải quyết các vấn đề trong lĩnh vực 
+kinh tế, tài chính, thị trường, nông nghiệp, công nghiệp, giáo dục… Sinh viên sẽ 
+được trang bị với các phương pháp phân tích và đánh giá, cùng các kỹ năng giải 
+quyết vấn đề trong lĩnh vực kinh tế.
+Giới thiệu về sinh viên khối ngành kinh tế 
+Sinh viên khối ngành kinh tế là những người học tập và nghiên cứu về các 
+lĩnh vực liên quan đến kinh tế, kinh doanh và quản lý.
+Họ được đào tạo về các lý 
+thuyết và phương pháp trong việc phân tích các hoạt động kinh tế, dự báo xu 
+hướng và đưa ra các chiến lược quản lý kinh doanh.
+Các sinh viên khối ngành 
+kinh tế sẽ phải học các môn cơ bản như kinh tế học, kế toán, tài chính, 
+marketing, quản trị kinh doanh và quản lý chiến lược.
+Ngoài ra, họ có thể   
+nghiên cứu chuyên sâu vào các lĩnh vực như kinh tế quốc tế, phát triển kinh tế, 
+tài chính quốc tế, và chính sách kinh tế.
+Đối với nhiều sinh viên khối ngành kinh 
+tế, việc áp dụng kiến thức để giải quyết các vấn đề thực tế là rất quan trọng.
+Do 
+đó, họ thường được khuyến khích thực tập và tham gia vào các dự án nghiên cứu 
+để rèn luyện kỹ năng phân tích, giải quyết vấn đề và làm việc nhóm 
+2.1.3.
+Giới thiệu về cỡ mẫu khảo sát 
+Dựa vào kết quả phân tích thống kê mẫu khảo sát ta có: 
+Bàng 2.1.
+Bảng thống kê mẫu khảo sát 
+TT Nội dung 
+Tiêu chí 
+Số 
+lượng 
+(người) 
+Tỉ lệ (%) 
+1 
+Giới tính 
+Nam 
+45 
+25,7 
+Nữ 
+130 
+74,3 
+Tổng 
+175 
+100 
+2 
+Niên khoá 
+Năm nhất 
+104 
+59,4 
+Năm hai 
+24 
+13,7 
+Năm ba 
+18 
+10,3 
+Năm tư 
+29 
+16,6 
+ 
+12 
+Tổng 
+175 
+100 
+3 
+Ngành học 
+ 
+ 
+ 
+ 
+ 
+Thương mại điện tử 
+và kinh tế số 
+8 
+4,6 
+Quản 
+trị 
+kinh 
+doanh-marketing 
+46 
+26,3 
+Logistics 
+15 
+8,5 
+Kế toán 
+25 
+14,3 
+Tài chính ngân hàng 
+13 
+7,4 
+Khác 
+68 
+38,9 
+ 
+Tổng 
+175 
+100 
+(Nguồn: Kết quả xử lý dữ liệu của nhóm tác giả) 
+Từ bảng số liệu cho thấy xét về giới tính thì sinh viên nữ chiếm đa số hơn 
+so với sinh viên nam trong mẫu khảo sát.
+Kết quả cơ cấu mẫu khảo sát như trên 
+là phù hợp với sinh viên năm nhất, năm hai và năm tư chiếm đa số trong khảo 
+sát yếu tố ảnh hưởng đến ý định khởi nghiệp của sinh viên khối ngành kinh tế, 
+Trường Đại học Đại Nam, để đảm bảo các kết quả nghiên cứu là đáng tin cậy.
+Thực trạng ý định khởi nghiệp của sinh viên khối ngành kinh tế, 
+Trường Đại học Đại Nam (biến phụ thuộc) 
+Để đánh giá thực trạng ý định khởi nghiệp của sinh viên khối ngành kinh 
+tế, Trường Đại học Đại Nam, chúng tôi sử dụng 3 biến quan sát.
+Kết quả khảo 
+sát dữ liệu trên nhóm 175 sinh viên cho thấy  
+ 
+ 
+ 
+13 
+Bảng 2.2.
+Bảng thống kê mô tả nhân tố ý định khởi nghiệp của sinh 
+viên khối ngành kinh tế, Trường Đại học Đại Nam 
+STT 
+Nội dung 
+Cỡ 
+mẫu 
+Giá trị 
+trung 
+bình 
+1 
+YD1: Mục tiêu nghề nghiệp của anh/chị là khởi sự 
+kinh doanh 
+175 
+3,69 
+2 
+YD2: Anh/chị có mong muốn mạnh mẽ để khởi sự 
+kinh doanh trong tương lai 
+175 
+3,88 
+3 
+YD3: Nếu có cơ hội, anh/chị sẽ khởi sự kinh doanh 
+175 
+4,13 
+4 
+Trung bình 
+175 
+3,9 
+(Nguồn: Kết quả…) 
+Thực tế trên cho thấy giá trị trung bình của nhân tố là 3,9 làm tròn ở mức 
+4, tương đương với giá trị đồng ý. Điều này cho thấy ý định khởi nghiệp của 
+sinh viên ở mức đồng ý 
+2.3.
+Thực trạng các nhân tố ảnh hưởng đến ý định khởi nghiệp của sinh 
+viên khối ngành kinh tế, Trường Đại học Đại Nam (biến độc lập) 
+2.3.1.
+Nhân tố thái độ đối với hành vi 
+STT 
+Nội dung 
+Cỡ 
+mẫu 
+Giá trị 
+trung 
+bình 
+1 
+TD1: Việc trở thành chủ doanh nghiệp đối với anh/chị 
+có lợi hơn bất lợi 
+175 
+3,89 
+2 
+TD2: Chủ doanh nghiệp là một nghề rất hấp dẫn đối 
+với anh/chị 
+175 
+4,07 
+ 
+14 
+3 
+TD3: Anh/chị sẽ rất hài lòng khi làm chủ doanh 
+nghiệp 
+175 
+3,99 
+4 
+TD4: Trong số các lựa chọn công việc khác nhau, 
+anh/chị thích kinh doanh 
+175 
+3,92 
+ 
+Trung bình 
+175 
+3,9675 
+Thực tế trên cho thấy giá trị trung bình của nhân tố là 3,9675 làm tròn ở 
+mức 4, tương đương với giá trị đồng ý. Điều này cho thấy nhân tố thái độ đối 
+với hành vi ở mức đồng ý 
+2.3.2.
+Nhân tố quy chuẩn chủ quan 
+STT 
+Nội dung 
+Cỡ 
+mẫu 
+Giá trị 
+trung 
+bình 
+1 
+QC1: Gia đình luôn ủng hộ công việc của anh/chị 
+175 
+3,95 
+2 
+QC2: Bạn bè luôn ủng hộ công việc của anh/chị 
+175 
+4,02 
+3 
+QC3: Những người quan trọng khác đối với anh/chị 
+luôn ủng hộ công việc của anh/chị 
+175 
+4,06 
+4 
+QC4: Anh/chị biết nhiều doanh nhân thành công 
+175 
+3,59 
+5 
+QC5: Anh/chị rất ngưỡng mộ những doanh nhân 
+thành công 
+175 
+4,24 
+6 
+Trung bình 
+175 
+3,972 
+Thực tế trên cho thấy giá trị trung bình của nhân tố là 3,972 làm tròn ở 
+mức 4, tương đương với giá trị đồng ý. Điều này cho thấy nhân tố quy chuẩn 
+chủ quan mức đồng ý 
+ 
+ 
+ 
+15 
+2.3.3.
+Nhân tố giáo dục khởi nghiệp 
+STT 
+Nội dung 
+Cỡ 
+mẫu 
+Giá trị 
+trung 
+bình 
+1 
+GD1: Tại trường đại học, anh/chị được cung cấp 
+những kiến thức cần thiết về kinh doanh 
+175 
+3,86 
+2 
+GD2: Tại trường đại học, anh/chị được cung cấp 
+những kỹ năng cần thiết về kinh doanh 
+175 
+3,94 
+3 
+GD3: Tại trường đại học, anh/chị được khuyến khích 
+tham gia cuộc thi “Sinh viên khởi nghiệp” 
+175 
+3,98 
+4 
+GD4: Anh/chị thường tự học để có kiến thức kinh 
+doanh 
+175 
+3,86 
+5 
+Trung bình 
+175 
+3,91 
+Thực tế trên cho thấy giá trị trung bình của nhân tố là 3,91 làm tròn ở mức 
+4, tương đương với giá trị đồng ý. Điều này cho thấy nhân tố giáo dục khởi 
+nghiệp ở mức đồng ý 
+2.3.4.
+Nhân tố kinh nghiệm 
+STT 
+Nội dung 
+Cỡ 
+mẫu 
+Giá trị 
+trung 
+bình 
+1 
+KN1: Anh/chị đã từng làm công việc liên quan đến 
+kinh doanh 
+175 
+3,58 
+2 
+KN2: Anh/chị đã từng tham gia công tác quản lý (cán 
+bộ lớp, cán bộ Đoàn,…) 
+175 
+3,49 
+3 
+KN3: Anh/chị đã từng là thành viên của câu lạc bộ 
+175 
+3,23 
+ 
+16 
+kinh doanh trong hoặc ngoài nhà trường 
+4 
+KN4: Anh/chị đã từng tham gia các buổi hội thảo về 
+kinh doanh 
+175 
+3,54 
+5 
+Trung bình 
+175 
+3,46 
+Thực tế trên cho thấy giá trị trung bình của nhân tố là 3,46 làm xuống ở 
+mức 3, tương đương với giá trị bình thường.
+Điều này cho thấy nhân tố kinh 
+nghiệm ở mức bình thường 
+2.3.5.
+Nhân tố đặc điểm tính cách 
+STT 
+Nội dung 
+Cỡ 
+mẫu 
+Giá trị 
+trung 
+bình 
+1 
+TC1: Anh/chị là người dám đối mặt với trở ngại 
+175 
+3,83 
+2 
+TC2: Anh/chị là người rất giỏi trong việc xác định các 
+cơ hội 
+175 
+3,63 
+3 
+TC3: Anh/chị là người thích tự lập 
+15 
+4,11 
+4 
+Trung bình 
+175 
+3,85 
+Thực tế trên cho thấy giá trị trung bình của nhân tố là 3,85 làm tròn ở mức 
+4, tương đương với giá trị đồng ý. Điều này cho thấy nhân tố đặc điểm tính cách 
+ở mức đồng ý 
+2.3.6.
+Nhân tố nguồn vốn 
+STT 
+Nội dung 
+Cỡ 
+mẫu 
+Giá trị 
+trung 
+bình 
+1 
+NV1: Anh/chị có thể vay, mượn tiền từ gia đình và 
+175 
+3,69 
+ 
+17 
+bạn bè 
+2 
+NV2: Anh/chị có thể vay tiền từ các tổ chức tài chính 
+(như ngân hàng, quỹ tín dụng) 
+175 
+3,49 
+3 
+NV3: Anh/chị có thể tích lũy vốn từ việc làm thêm 
+hoặc tiết kiệm 
+175 
+3,83 
+4 
+NV4: Địa phương anh/chị có các chính sách hỗ trợ 
+vốn cho thanh niên 
+175 
+3,45 
+ 
+Trung bình 
+175 
+3,615 
+ 
+Thực tế trên cho thấy giá trị trung bình của nhân tố là 3,615 làm 
+tròn ở mức 4, tương đương với giá trị đồng ý. Điều này cho thấy nhân tố nguồn 
+vốn ở mức đồng ý 
+2.4.
+Mức độ và chiều hướng tác động của các nhân tố đến ý định khởi 
+nghiệp của sinh viên khối ngành kinh tế, Trường Đại học Đại Nam 
+2.4.1.
+Phân tích nhân tố khám phá EFA 
+Bảng KMO và Barrett test 
+KMO and Bartlett's Test 
+Kaiser-Meyer-Olkin Measure of 
+Sampling Adequacy.
+,922 
+Bartlett's Test of 
+Sphericity 
+Approx.
+Chi-
+Square 
+2783,86
+8 
+df 
+351 
+Sig.
+,000 
+ 
+ 
+ 
+ 
+ 
+18 
+Bảng Total Variance 
+Total Variance Explained 
+Compo
+nent 
+Initial Eigenvalues 
+Extraction Sums of Squared 
+Loadings 
+Rotation Sums of Squared Loadings 
+Total 
+% of 
+Variance 
+Cumulative 
+% 
+Total 
+% of 
+Variance 
+Cumulati
+ve % 
+Total 
+% of 
+Variance 
+Cumulative 
+% 
+1 
+11,450 
+42,408 
+42,408 
+11,450 
+42,408 
+42,408 
+4,992 
+18,490 
+18,490 
+2 
+2,133 
+7,899 
+50,307 
+2,133 
+7,899 
+50,307 
+3,573 
+13,234 
+31,724 
+3 
+1,306 
+4,837 
+55,144 
+1,306 
+4,837 
+55,144 
+3,453 
+12,789 
+44,513 
+4 
+1,216 
+4,503 
+59,648 
+1,216 
+4,503 
+59,648 
+2,827 
+10,472 
+54,985 
+5 
+1,090 
+4,039 
+63,686 
+1,090 
+4,039 
+63,686 
+2,349 
+8,701 
+63,686 
+6 
+,983 
+3,642 
+67,328 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+,836 
+3,095 
+70,424 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+,811 
+3,005 
+73,428 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+,700 
+2,593 
+76,021 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+,662 
+2,451 
+78,471 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+,653 
+2,418 
+80,889 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+12 
+,495 
+1,834 
+82,723 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+,476 
+1,764 
+84,488 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+,467 
+1,729 
+86,216 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+,440 
+1,630 
+87,846 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+,420 
+1,557 
+89,403 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+,367 
+1,358 
+90,761 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+,358 
+1,325 
+92,086 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+,341 
+1,263 
+93,349 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+,287 
+1,064 
+94,413 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+,265 
+,980 
+95,393 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+,253 
+,937 
+96,329 
+ 
+ 
+ 
+ 
+ 
+ 
+23 
+,241 
+,894 
+97,223 
+ 
+ 
+ 
+ 
+ 
+ 
+24 
+,210 
+,776 
+98,000 
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+,205 
+,757 
+98,757 
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+,181 
+,672 
+99,429 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+,154 
+,571 
+100,000 
+ 
+ 
+ 
+ 
+ 
+ 
+Extraction Method: Principal Component Analysis.
+20 
+Bảng Rotated Matrix (Ma trận xoay) 
+Rotated Component Matrixa 
+ 
+Component 
+1 
+2 
+3 
+4 
+5 
+TC2 
+,734 
+ 
+ 
+ 
+ 
+TC3 
+,673 
+ 
+ 
+ 
+ 
+NV3 
+,670 
+ 
+ 
+ 
+ 
+YD1 
+,644 
+ 
+ 
+ 
+ 
+GD4 
+,629 
+ 
+ 
+ 
+ 
+TC1 
+,595 
+ 
+ 
+ 
+ 
+YD3 
+,556 
+ 
+ 
+ 
+ 
+NV4 
+,503 
+ 
+ 
+ 
+ 
+GD3 
+ 
+ 
+ 
+ 
+ 
+TD2 
+ 
+,836 
+ 
+ 
+ 
+TD3 
+ 
+,737 
+ 
+ 
+ 
+TD1 
+ 
+,610 
+ 
+ 
+ 
+TD4 
+ 
+,595 
+ 
+ 
+ 
+YD2 
+ 
+ 
+ 
+ 
+ 
+QC3 
+ 
+ 
+,761 
+ 
+ 
+QC1 
+ 
+ 
+,729 
+ 
+ 
+QC2 
+ 
+ 
+,724 
+ 
+ 
+QC5 
+,540 
+ 
+,559 
+ 
+ 
+GD1 
+ 
+ 
+ 
+ 
+ 
+KN3 
+ 
+ 
+ 
+,701 
+ 
+KN2 
+ 
+ 
+ 
+,660 
+ 
+KN4 
+ 
+ 
+ 
+,609 
+ 
+KN1 
+ 
+ 
+ 
+,551 
+ 
+ 
+21 
+QC4 
+ 
+ 
+ 
+ 
+ 
+NV1 
+ 
+ 
+ 
+ 
+,746 
+NV2 
+ 
+ 
+ 
+ 
+,741 
+GD2 
+ 
+ 
+ 
+ 
+ 
+Extraction Method: Principal Component Analysis.
+Rotation Method: Varimax with Kaiser 
+Normalization.
+a. Rotation converged in 13 iterations.
+Kết quả phân tích EFA cho giá trị KMO = 0,922 (có thỏa mãn 
+0.5<KMO<1 hay ko) có thỏa mãn.
+= 0,000 (Có thỏa mãn <0.05 hay 
+ko) có thỏa mãn.
+Hội tụ về 5 nhân  tố phù hợp với mô hình lý thuyết.
+Cần loại 
+bỏ những biến quan sát: GD3,YD2,QC5,GD1,QC4,GD2 
+Bảng KMO và Barrett test 
+KMO and Bartlett's Test 
+Kaiser-Meyer-Olkin Measure of 
+Sampling Adequacy.
+,906 
+Bartlett's Test of 
+Sphericity 
+Approx.
+Chi-
+Square 
+1893,71
+0 
+df 
+210 
+Sig.
+,000 
+ 
+ 
+ 
+ 
+22 
+Bảng Total Variance 
+Total Variance Explained 
+Compone
+nt 
+Initial Eigenvalues 
+Extraction Sums of Squared 
+Loadings 
+Rotation Sums of Squared Loadings 
+Total 
+% of 
+Variance 
+Cumulative 
+% 
+Total 
+% of 
+Variance 
+Cumula
+tive % 
+Total 
+% of 
+Variance 
+Cumulative 
+% 
+1 
+8,561 
+40,765 
+40,765 
+8,561 
+40,765 
+40,765 
+4,159 
+19,806 
+19,806 
+2 
+1,991 
+9,483 
+50,249 
+1,991 
+9,483 
+50,249 
+2,857 
+13,603 
+33,409 
+3 
+1,274 
+6,068 
+56,317 
+1,274 
+6,068 
+56,317 
+2,692 
+12,820 
+46,229 
+4 
+1,161 
+5,528 
+61,844 
+1,161 
+5,528 
+61,844 
+2,531 
+12,051 
+58,279 
+5 
+1,016 
+4,840 
+66,685 
+1,016 
+4,840 
+66,685 
+1,765 
+8,405 
+66,685 
+6 
+,814 
+3,877 
+70,561 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+,720 
+3,429 
+73,990 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+,622 
+2,964 
+76,954 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+,611 
+2,909 
+79,863 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+,590 
+2,811 
+82,674 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+,528 
+2,514 
+85,187 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+23 
+12 
+,419 
+1,994 
+87,182 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+,413 
+1,969 
+89,150 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+,390 
+1,857 
+91,007 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+,362 
+1,723 
+92,730 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+,302 
+1,436 
+94,166 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+,278 
+1,323 
+95,489 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+,263 
+1,254 
+96,743 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+,251 
+1,194 
+97,938 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+,231 
+1,100 
+99,038 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+,202 
+,962 
+100,000 
+ 
+ 
+ 
+ 
+ 
+ 
+Extraction Method: Principal Component Analysis.
+24 
+ 
+Bảng Rotated Matrix (Ma trận xoay) 
+Rotated Component Matrixa 
+ 
+Component 
+1 
+2 
+3 
+4 
+5 
+TC2 
+,758  
+ 
+ 
+ 
+NV3 
+,708  
+ 
+ 
+ 
+TC3 
+,698  
+ 
+ 
+ 
+YD1 
+,669  
+ 
+ 
+ 
+GD4 
+,640  
+ 
+ 
+ 
+TC1 
+,615  
+ 
+ 
+ 
+YD3 
+,578  
+ 
+ 
+ 
+NV4 
+,511  
+ 
+ 
+ 
+TD2  
+,842  
+ 
+ 
+TD3  
+,751  
+ 
+ 
+TD1  
+,629  
+ 
+ 
+TD4  
+,600  
+ 
+ 
+QC3  
+ 
+,767  
+ 
+QC1  
+ 
+,735  
+ 
+QC2  
+ 
+,709  
+ 
+KN3  
+ 
+ 
+,751  
+KN4  
+ 
+ 
+,707  
+KN2  
+ 
+ 
+,573  
+KN1  
+ 
+ 
+ 
+ 
+NV1  
+ 
+ 
+ 
+,782 
+NV2  
+ 
+ 
+ 
+,734 
+ 
+25 
+Extraction Method: Principal Component Analysis.
+Rotation Method: Varimax with Kaiser 
+Normalization.
+a. Rotation converged in 9 iterations.
+Kết quả phân tích EFA cho giá trị KMO = 0,906 (có thỏa mãn 
+0.5<KMO<1 hay ko) có thỏa mãn.
+= 0,000 (Có thỏa mãn <0.05 hay 
+ko) có thỏa mãn.
+Hội tụ về 5 nhân  tố phù hợp với mô hình lý thuyết.
+Cần loại 
+bỏ những biến quan sát: KN1 
+Bảng KMO và Barrett test 
+KMO and Bartlett's Test 
+Kaiser-Meyer-Olkin Measure of 
+Sampling Adequacy.
+,903 
+Bartlett's Test of 
+Sphericity 
+Approx.
+Chi-
+Square 
+1780,13
+4 
+df 
+190 
+Sig.
+,000 
+ 
+ 
+ 
+ 
+26 
+Bảng Total Variance 
+ 
+Total Variance Explained 
+Componen
+t 
+Initial Eigenvalues 
+Extraction Sums of Squared Loadings Rotation Sums of Squared Loadings 
+Total 
+% of 
+Variance 
+Cumulative 
+% 
+Total 
+% of 
+Variance 
+Cumulative 
+% 
+Total 
+% of 
+Variance 
+Cumulative 
+% 
+1 
+8,140 
+40,699 
+40,699 
+8,140 
+40,699 
+40,699 
+4,112 
+20,562 
+20,562 
+2 
+1,985 
+9,926 
+50,624 
+1,985 
+9,926 
+50,624 
+2,847 
+14,234 
+34,796 
+3 
+1,273 
+6,367 
+56,992 
+1,273 
+6,367 
+56,992 
+2,528 
+12,638 
+47,434 
+4 
+1,118 
+5,588 
+62,580 
+1,118 
+5,588 
+62,580 
+2,299 
+11,494 
+58,928 
+5 
+1,001 
+5,005 
+67,585 
+1,001 
+5,005 
+67,585 
+1,731 
+8,657 
+67,585 
+6 
+,784 
+3,918 
+71,503 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+,719 
+3,595 
+75,098 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+,615 
+3,074 
+78,172 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+,592 
+2,960 
+81,132 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+,530 
+2,650 
+83,782 
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+,477 
+2,383 
+86,165 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+12 
+,416 
+2,081 
+88,246 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+,407 
+2,033 
+90,279 
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+,382 
+1,911 
+92,191 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+,310 
+1,551 
+93,742 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+,292 
+1,458 
+95,200 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+,270 
+1,349 
+96,549 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+,251 
+1,255 
+97,804 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+,231 
+1,155 
+98,959 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+,208 
+1,041 
+100,000 
+ 
+ 
+ 
+ 
+ 
+ 
+Extraction Method: Principal Component Analysis.
+28 
+Bảng Rotated Matrix (Ma trận xoay) 
+Rotated Component Matrixa 
+ 
+Component 
+1 
+2 
+3 
+4 
+5 
+TC2 
+,766 
+ 
+ 
+ 
+ 
+NV3 
+,710 
+ 
+ 
+ 
+ 
+TC3 
+,698 
+ 
+ 
+ 
+ 
+YD1 
+,679 
+ 
+ 
+ 
+ 
+GD4 
+,652 
+ 
+ 
+ 
+ 
+TC1 
+,632 
+ 
+ 
+ 
+ 
+YD3 
+,576 
+ 
+ 
+ 
+ 
+NV4 
+,521 
+ 
+ 
+ 
+ 
+TD2 
+ 
+,843 
+ 
+ 
+ 
+TD3 
+ 
+,748 
+ 
+ 
+ 
+TD1 
+ 
+,618 
+ 
+ 
+ 
+TD4 
+ 
+,612 
+ 
+ 
+ 
+QC3 
+ 
+ 
+,771 
+ 
+ 
+QC2 
+ 
+ 
+,720 
+ 
+ 
+QC1 
+ 
+ 
+,715 
+ 
+ 
+KN3 
+ 
+ 
+ 
+,767 
+ 
+KN4 
+ 
+ 
+ 
+,688 
+ 
+KN2 
+ 
+ 
+ 
+,620 
+ 
+NV1 
+ 
+ 
+ 
+ 
+,780 
+NV2 
+ 
+ 
+ 
+ 
+,760 
+Extraction Method: Principal Component Analysis.
+Rotation Method: Varimax with Kaiser 
+Normalization.
+a. Rotation converged in 8 iterations.
+29 
+Kết quả phân tích EFA cho giá trị KMO = 0,903 (có thỏa mãn 
+0.5<KMO<1 hay ko) có thỏa mãn.
+= 0,000 (Có thỏa mãn <0.05 hay 
+ko) có thỏa mãn.
+Hội tụ về 5 nhân  tố phù hợp với mô hình lý thuyết.
+Không 
+cần loại bỏ những biến quan sát nào 
+2.4.2.
+Kiểm định độ tin cậy của thang đo 
+Trình bày kết quả kiểm định như sau: 
+TT 
+Biến quan sát 
+Trung 
+bình 
+thang đo 
+nếu loại 
+biến 
+Phương sai 
+của thang 
+đo nếu loại 
+biến 
+Hệ số 
+tương 
+quan với 
+biến tổng 
+Hệ số 
+Cronbach’s 
+Alpha nếu 
+loại biến 
+Yếu tố 1: TD (α=0,828) 
+Item-Total Statistics 
+ 
+Scale Mean 
+if Item 
+Deleted 
+Scale 
+Variance if 
+Item 
+Deleted 
+Corrected 
+Item-Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+TD1 
+11,98 
+6,534 
+,599 
+,807 
+TD2 
+11,81 
+6,054 
+,750 
+,738 
+TD3 
+11,88 
+6,106 
+,717 
+,753 
+TD4 
+11,95 
+6,757 
+,558 
+,825 
+ 
+Yếu tố 2: QC (α=0,831)  
+Item-Total Statistics 
+ 
+Scale Mean 
+if Item 
+Deleted 
+Scale 
+Variance if 
+Item 
+Deleted 
+Corrected 
+Item-Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+ 
+30 
+QC1 
+15,91 
+9,589 
+,683 
+,782 
+QC2 
+15,85 
+10,327 
+,704 
+,776 
+QC3 
+15,81 
+10,525 
+,676 
+,784 
+QC4 
+16,27 
+11,657 
+,465 
+,840 
+QC5 
+15,62 
+10,822 
+,631 
+,796 
+ 
+ 
+Yếu tố 3: GD (α=0,847)  
+Item-Total Statistics 
+ 
+Scale Mean 
+if Item 
+Deleted 
+Scale 
+Variance if 
+Item 
+Deleted 
+Corrected 
+Item-Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+GD1 
+11,78 
+6,734 
+,699 
+,799 
+GD2 
+11,70 
+6,454 
+,762 
+,771 
+GD3 
+11,66 
+6,882 
+,677 
+,808 
+GD4 
+11,78 
+7,010 
+,601 
+,841 
+ 
+ 
+Yếu tố 4: KN (α=0,722)  
+Item-Total Statistics 
+ 
+Scale Mean 
+if Item 
+Deleted 
+Scale 
+Variance if 
+Item 
+Deleted 
+Corrected 
+Item-Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+KN1 
+10,26 
+8,976 
+,474 
+,681 
+KN2 
+10,36 
+8,634 
+,456 
+,692 
+KN3 
+10,61 
+7,595 
+,589 
+,611 
+KN4 
+10,30 
+8,040 
+,526 
+,651 
+ 
+ 
+31 
+Yếu tố 5: TC (α=0,787) 
+Item-Total Statistics 
+ 
+Scale Mean 
+if Item 
+Deleted 
+Scale 
+Variance if 
+Item 
+Deleted 
+Corrected 
+Item-Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+TC1 
+7,74 
+3,135 
+,634 
+,704 
+TC2 
+7,94 
+3,094 
+,670 
+,663 
+TC3 
+7,46 
+3,411 
+,578 
+,762 
+ 
+Yếu tố 6: NV (α=0,729) 
+Item-Total Statistics 
+ 
+Scale Mean 
+if Item 
+Deleted 
+Scale 
+Variance if 
+Item 
+Deleted 
+Corrected 
+Item-Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+NV1 
+10,77 
+6,928 
+,486 
+,687 
+NV2 
+10,97 
+6,499 
+,552 
+,647 
+NV3 
+10,62 
+7,351 
+,517 
+,672 
+NV4 
+11,01 
+6,598 
+,525 
+,665 
+ 
+Yếu tố 7: YD (α=0,806) 
+Item-Total Statistics 
+ 
+Scale Mean 
+if Item 
+Deleted 
+Scale 
+Variance if 
+Item 
+Deleted 
+Corrected 
+Item-Total 
+Correlation 
+Cronbach's 
+Alpha if 
+Item 
+Deleted 
+YD1 
+8,01 
+3,454 
+,613 
+,776 
+ 
+32 
+YD2 
+7,82 
+3,265 
+,702 
+,681 
+YD3 
+7,57 
+3,580 
+,646 
+,742 
+ 
+ 
+ 
+ 
+ 
+(Nguồn: Kết quả phân tích dữ liệu trên SPSS) 
+Như vậy, qua phân tích trên ta thấy được có 6 biến độc lập và 1 biến phụ 
+thuộc đều phù hợp với ý định khởi nghiệp của sinh viên khối ngành kinh tế, 
+Trường Đại học Đại Nam.
+Phân tích hồi quy tuyến tính 
+Copy 3 bảng kết quả của phân tích hồi quy vào và phân tích 
+ 
+Model Summaryb 
+Mode
+l 
+R 
+R 
+Square 
+Adjusted R 
+Square 
+Std.
+Error 
+of the 
+Estimate 
+Durbin-
+Watson 
+1 
+,791a 
+,626 
+,612 
+,56267 
+2,060 
+a. Predictors: (Constant), NV, TD, KN, GD, QC, TC 
+b.
+Dependent Variable: YD 
+ 
+ 
+ANOVAa 
+Model 
+Sum of 
+Squares 
+df 
+Mean 
+Square 
+F 
+Sig.
+1 
+Regressio
+n 
+88,849 
+6 
+14,808 46,773 
+,000b 
+Residual 
+53,188 
+168 
+,317  
+ 
+Total 
+142,037 
+174  
+ 
+ 
+a.
+Dependent Variable: YD 
+b. Predictors: (Constant), NV, TD, KN, GD, QC, TC 
+ 
+ 
+ 
+ 
+33 
+Coefficientsa 
+Model 
+Unstandardized Coefficients 
+Standardized 
+Coefficients 
+t 
+Sig.
+Error 
+Beta 
+Tolerance 
+VIF 
+1 
+(Constant) 
+,101 
+,245  
+,411 
+,681  
+ 
+TD 
+,344 
+,072 
+,311 
+4,750 
+,000 
+,519 
+1,928 
+QC 
+-,003 
+,063 
+-,003 
+-,040 
+,968 
+,547 
+1,827 
+GD 
+,213 
+,057 
+,247 
+3,727 
+,000 
+,508 
+1,968 
+KN 
+-,039 
+,054 
+-,043 
+-,724 
+,470 
+,625 
+1,599 
+TC 
+,302 
+,075 
+,284 
+4,002 
+,000 
+,442 
+2,264 
+NV 
+,167 
+,072 
+,154 
+2,329 
+,021 
+,509 
+1,966 
+a.
+Dependent Variable: YD 
+ 
+R bình phương hiệu chỉnh=0,612>0,5 vậy mô hình đủ điều liện chạy hồi 
+quy 
+Giá trị sig=0,000<0,05.
+Ta kết luận biến độc lập có tác động đến biến phụ 
+thuộc 
+Giá trị Durbin-Watson=2,060.
+Thỏa mãn điều kiện  
+Phương trình hồi quy chuẩn hóa của bài nghiên cứu là: 
+YD=0,311*TD+0,284*TC+0,247*GD+0,154*NV 
+Tiểu kết chương 2 
+ 
+ 
+ 
+34 
+CHƯƠNG 3.
+GIẢI PHÁP THÚC ĐẨY Ý ĐỊNH KHỞI NGHIỆP CỦA 
+SINH VIÊN KHỐI NGÀNH KINH TẾ, TRƯỜNG ĐẠI HỌC ĐẠI NAM  
+3.1.
+Giải pháp về thái độ đối với hành vi 
+Nhận thức tích cực, đúng đắn về khả năng đối với khởi nghiệp rất quan 
+trọng.
+Để có thể hỗ trợ sinh viên về vấn đề này thì định hướng giảng dạy dự án 
+kinh doanh hay kế hoạch khởi nghiệp kinh doanh của nhà trường hiện tại cần 
+thay đổi theo hướng thiết thực hơn khi mô phỏng một dự án thực tế và giảm lý 
+thuyết.
+Riêng bản thân sinh viên cũng phải dành thời gian nghiên cứu thêm về 
+các kiến thức kinh doanh liên quan 
+3.2.
+Giải pháp về quy chuẩn chủ quan 
+Các hoạt động tuyên truyền hay thực hiện tọa đàm nêu gương những   
+doanh nhân khởi nghiệp thành công sẽ giúp khởi nghiệp được biết đến một 
+cách rộng hơn và được hiểu một cách đúng đắn hơn.
+Từ đó được sự ủng hộ từ 
+gia đình, người thân, bạn bè hay những người quan trọng khác thì ý định khởi 
+nghiệp của sinh viên cũng sẽ tăng lên 
+3.3.
+Giải pháp về giáo dục khởi nghiệp 
+Đưa ra các chương trình giáo dục phù hợp, khuyến khích tinh thần sáng 
+tạo để đưa ra các ý tưởng mới và được hỗ trợ trong công việc biến ý tưởng đó 
+thành hiện thực và liên kết hợp tác với các doanh nghiệp 
+3.4.
+Giải pháp về kinh nghiệm 
+ Học hỏi từ những người có kinh nghiệm, tham gia vào các khóa học và 
+đào tạo giúp cập nhật kiến thức mới nhất trong lĩnh vực của mình và mở rộng 
+mạng lưới quan hệ chuyên môn, chủ động học hỏi và tự rèn luyện 
+3.5.
+Giải pháp về đặc điểm tính cách 
+Việc phát triển những đặc điểm tính cách chủ động cho sinh viên cần 
+được chú trọng và tập trung vào các khía cạnh như: bản lĩnh đối mặt với trở 
+ngại; thích được thử thách và dám chấp nhận rủi ro; sự sáng tạo và sẵn sàng 
+đổi mới.
+Để thành công trong việc khởi nghiệp, sinh viên cần có khả năng tự 
+ 
+35 
+chủ cao và khả năng lãnh đạo.
+Kỹ năng giao tiếp và xây dựng mối quan hệ là 
+yếu tố quan trọng giúp họ thu hút đầu tư, tìm kiếm đối tác và phát triển thị 
+trường 
+3.6.
+Giải pháp về nguồn vốn 
+Tìm kiếm các nhà đầu tư thiện chí, những người có sẵn sàng đầu tư vào ý 
+tưởng của bạn 
+Tiểu kết chương 3: Trong chương chương 3 nhóm đã tìm ra các giải pháp 
+phù hợp với các nhân tố độc lập về ý định khởi nghiệp của sinh viên khối ngành 
+kinh tế, Trường Đại học Đại Nam 
+ 
+ 
+ 
+36 
+KẾT LUẬN 
+Đề tài đã khảo sát bằng câu hỏi cho 175 sinh viên tại Trường Đại học Đại 
+Nam và đã sử dụng mô hình phân tích khám phá cho việc xác định nhân tố ảnh 
+hưởng đến ý định khởi nghiệp của sinh viên khối ngành kinh tế tại Trường Đại 
+học Đại Nam bao gồm: thái độ đối với hành vi, quy chuẩn chủ quan, giáo dục 
+khởi nghiệp, kinh nghiệm, đặc điểm tính cách, nguồn vốn.
+Trên cơ sở các nhân 
+tố ảnh hưởng đã đề ra một số giải pháp nhằm thúc đẩy ý định khởi nghiệp   
+Trong bài báo cáo, tác giả cũng thể hiện, trình bày quy trình nghiên cứu, 
+thiết kế nghiên cứu sao cho theo trình tự một công trình nghiên cứu khoa học 
+cho mô hình lý thuyết.
+Bên cạnh thực hiện quy trình nghiên cứu theo thiết kế đã 
+đề ra cùng với sựu hỗ trợ là công cụ SPSS 26, bài báo cáo đã đưa ra được kết 
+quả 
+ 
+ 
+ 
+37 
+TÀI LIỆU THAM KHẢO 
+1.https://scholar.google.com/scholar?hl=vi&as_sdt=0%2C5&q=nghiên+c
+ứu+các+nhân+tố+ảnh+hưởng+đến+ý+định+khởi+nghiệp+của+sinh+viên+trườn
+g+đại+h%E1%BB%8Dc+cần+thơ&btnG=#d=gs_qabs&t=1719483438579&u=
+%23p%3DJpCU2k5zK_cJ 
+2.https://scholar.google.com/scholar?start=10&q=bài+báo+về+ý+định+kh
+ởi+nghiệp&hl=vi&as_sdt=0,5#d=gs_qabs&t=1719483150216&u=%23p%3Db
+QM0w8SRdTwJ 
+3.https://scholar.google.com/scholar?hl=vi&as_sdt=0%2C5&q=bài+báo+
+về+ý+định+khởi+nghiệp&oq=#d=gs_qabs&t=1719483031125&u=%23p%3Dg
+XcWbMb08I8J 
+ 
+ 
+ 
+38 
+PHỤ LỤC DỮ LIỆU 
+1.
+Thống kê mẫu khảo sát 
+2.
+Kiểm định độ tin cậy Cronbach’s Alpha 
+3.1.
+Kiểm định độ tin cậy của thang đo … 
+3.2.
+Thống kê mô tả 
+4.1.
+Thống kê thang đo … 
+4.2.
+Phân tích hồi quy tuyến tính
+186
+
