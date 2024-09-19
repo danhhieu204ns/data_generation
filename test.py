@@ -1,4 +1,4 @@
-import read_pdf
+import utils.func as func
 import os
 
 
@@ -18,11 +18,11 @@ for db_name in db_names:
 
         for file in pdf_files:
             file_path = os.path.join(folder_path, file)
-            pdf_text = read_pdf.read_pdf(file_path)
+            pdf_text = func.read_pdf(file_path)
             
             outfile.write(f"File: {file}")
             outfile.write("\n")
-            sentences = read_pdf.split_into_sentences(pdf_text)
+            sentences = func.split_into_sentences(pdf_text)
             for s in sentences:
                 outfile.write(s)
                 outfile.write("\n")
