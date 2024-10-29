@@ -1,12 +1,9 @@
-import fitz, nltk
+import fitz, nltk, csv, os
 import numpy as np
 from pyvi.ViTokenizer import tokenize
-import re, csv, os
 # nltk.download('punkt_tab')
 
-def clean_string(s):
-    cleaned = re.sub(r'\s+', ' ', s).strip()
-    return cleaned
+db_names = ["Accountant", "IT", "Japanese", "Luật", "QTKD"]
 
 
 def read_pdf(file_path):
@@ -45,17 +42,11 @@ def split_into_sentences(documents):
     sentences = nltk.sent_tokenize(documents)
     
     for sent in sentences:
-        # cleaned = clean_string(sent)
-        # if len(cleaned.split(" ")) > 4: 
-        #     sentence_lists.append(cleaned)
         if len(sent.split(" ")) > 4: 
             sentence_lists.append(sent)
 
     sentence_lists = np.array(sentence_lists)
     return sentence_lists
-
-
-db_names = ["Accountant", "IT", "Japanese", "Luật", "QTKD"]
 
 
 def count_file(db_path, analize_path): # thong ke so luong file cua folder
@@ -70,7 +61,6 @@ def count_file(db_path, analize_path): # thong ke so luong file cua folder
         })
 
     outfile_path = os.path.join(analize_path, f"quantity_pdf.csv")
-
     fieldnames = data[0].keys()
     with open(outfile_path, 'w', newline='', encoding='utf-8') as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames)
@@ -128,3 +118,4 @@ def cal_average_sententce(data_path, analize_path):
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(data)
+
